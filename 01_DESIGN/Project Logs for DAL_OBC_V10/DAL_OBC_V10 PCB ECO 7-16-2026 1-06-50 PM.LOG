@@ -1,0 +1,42 @@
+Change Component Footprint: Designator=J7 Old Footprint=MOLEX_5040501191 New Footprint=MOLEX_5040500991
+Change Component Comment : Designator=J7 Old Comment=5090501191 New Comment=5090500991
+Added Component: Designator=J8(MOLEX_5040501191)
+Added Component: Designator=X1(CRYSTAL_ABM8G)
+Add component (AddParameter): Name = "Case/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://media.digikey.com/pdf/Data%20Sheets/SiTime%20PDFs/New_Rev_FAQ.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/SiTime%20PDFs/New_Rev_FAQ.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SiTime"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SIT8008AI-11-XXE-100.000000E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Current"; Value = "4.5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1000=0.93600, 2000=0.91104, 4000=0.88608, 6000=0.86112, 8000=0.83616 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SIT8008AI-11-XXE-100.000000E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_4 Pin=J8-4
+Added Pin To Net: NetName=NetJ8_5 Pin=J8-5
+Added Pin To Net: NetName=NetJ8_6 Pin=J8-6
+Added Pin To Net: NetName=NetJ8_7 Pin=J8-7
+Added Pin To Net: NetName=NetJ8_8 Pin=J8-8
+Added Pin To Net: NetName=NetJ8_9 Pin=J8-9
+Added Pin To Net: NetName=NetJ8_10 Pin=J8-10
+Added Pin To Net: NetName=NetJ8_11 Pin=J8-11
+Added Pin To Net: NetName=GND Pin=J8-M1
+Added Pin To Net: NetName=GND Pin=J8-M2
+Added Pin To Net: NetName=NetR245_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=FPGA_CLK Pin=X1-3
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=X1-4
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component H2 ESQ-126-14-G-D
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component J8 5090501191
+Added Member To Class: ClassName=FPGA_BANK Member=Component X1 SIT8008AI-11-XXE-100.000000

@@ -1,0 +1,45 @@
+Change Footprint: Footprint Not Found CAT93C46BHU4I-GT3
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Component Footprint: Designator=U25 Old Footprint=SOP50P490X110-10N New Footprint=SOP65P640X120-20N
+Change Footprint: Cannot match pads with new footprint in component :U26 Footprint:SOP65P640X120-20N
+Add component: Footprint Not Found SIT8008AI-11-XXE-100.000000
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J8-11
+Add Pin To Net: Unknown Pin: Pin J8-M1
+Add Pin To Net: Unknown Pin: Pin J8-M2
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U17-8
+Add Pin To Net: Unknown Pin: Pin U17-9
+Added Pin To Net: NetName=FPGA_D2 Pin=U25-11
+Added Pin To Net: NetName=NetJ8_5 Pin=U25-12
+Added Pin To Net: NetName=FPGA_D3 Pin=U25-13
+Added Pin To Net: NetName=NetJ8_4 Pin=U25-14
+Added Pin To Net: NetName=FPGA_D4 Pin=U25-15
+Added Pin To Net: NetName=NetJ8_3 Pin=U25-16
+Added Pin To Net: NetName=FPGA_D5 Pin=U25-17
+Added Pin To Net: NetName=NetJ8_2 Pin=U25-18
+Added Pin To Net: NetName=FPGA_nOE Pin=U25-19
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U25-20
+Add Pin To Net: Unknown Pin: Pin U26-11
+Add Pin To Net: Unknown Pin: Pin U26-13
+Add Pin To Net: Unknown Pin: Pin U26-15
+Add Pin To Net: Unknown Pin: Pin U26-16
+Add Pin To Net: Unknown Pin: Pin U26-17
+Add Pin To Net: Unknown Pin: Pin U26-18
+Add Pin To Net: Unknown Pin: Pin U26-19
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Add Class Member: Failed to add class member : Component J8 HEADER
+Add Class Member: Failed to add class member : Component X1 SIT8008AI-11-XXE-100.000000

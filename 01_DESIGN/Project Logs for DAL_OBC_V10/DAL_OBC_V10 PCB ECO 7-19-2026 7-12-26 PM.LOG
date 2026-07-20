@@ -1,0 +1,352 @@
+Removed Pin From Net: NetName=CONN_IN_SEL Pin=J7-5
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=R315-1
+Removed Pin From Net: NetName=FPGA_nOE Pin=R315-2
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=R316-1
+Removed Pin From Net: NetName=GND Pin=U11-F8
+Removed Pin From Net: NetName=FPGA_nOE Pin=U25-1
+Removed Pin From Net: NetName=FPGA_RCLK Pin=U25-2
+Removed Pin From Net: NetName=NetJ8_9 Pin=U25-3
+Removed Pin From Net: NetName=FPGA_SRCLK Pin=U25-4
+Removed Pin From Net: NetName=NetJ8_8 Pin=U25-5
+Removed Pin From Net: NetName=FPGA_D0 Pin=U25-6
+Removed Pin From Net: NetName=NetJ8_7 Pin=U25-7
+Removed Pin From Net: NetName=FPGA_D1 Pin=U25-8
+Removed Pin From Net: NetName=NetJ8_6 Pin=U25-9
+Removed Pin From Net: NetName=GND Pin=U25-10
+Removed Pin From Net: NetName=FPGA_D2 Pin=U25-11
+Removed Pin From Net: NetName=NetJ8_5 Pin=U25-12
+Removed Pin From Net: NetName=FPGA_D3 Pin=U25-13
+Removed Pin From Net: NetName=NetJ8_4 Pin=U25-14
+Removed Pin From Net: NetName=FPGA_D4 Pin=U25-15
+Removed Pin From Net: NetName=NetJ8_3 Pin=U25-16
+Removed Pin From Net: NetName=FPGA_D5 Pin=U25-17
+Removed Pin From Net: NetName=NetJ8_2 Pin=U25-18
+Removed Pin From Net: NetName=FPGA_nOE Pin=U25-19
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=U25-20
+Removed Pin From Net: NetName=FPGA_nOE Pin=U26-1
+Removed Pin From Net: NetName=FPGA_D6 Pin=U26-2
+Removed Pin From Net: NetName=FPGA_D7 Pin=U26-4
+Removed Pin From Net: NetName=GND Pin=U26-6
+Removed Pin From Net: NetName=GND Pin=U26-8
+Removed Pin From Net: NetName=GND Pin=U26-10
+Removed Pin From Net: NetName=GND Pin=U26-11
+Removed Pin From Net: NetName=GND Pin=U26-15
+Removed Pin From Net: NetName=NetJ8_11 Pin=U26-16
+Removed Pin From Net: NetName=GND Pin=U26-17
+Removed Pin From Net: NetName=NetJ8_10 Pin=U26-18
+Removed Member From Class: ClassName=CONNECTOR_BUS Member=R315
+Removed Member From Class: ClassName=CONNECTOR_BUS Member=R316
+Removed Member From Class: ClassName=CONNECTOR_BUS Member=U25
+Change Component Footprint: Designator=J9 Old Footprint=PAD JTAG 1.27 New Footprint=Header_254P_8x1
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC_TSM-108-01-L-SV-P-TR New Footprint=Header_254P_8x1
+Change Component Footprint: Designator=U26 Old Footprint=SOP65P640X120-20N New Footprint=SOP65P640X120-24N
+Change Component Footprint: Designator=U25 Old Footprint=SOP65P640X120-20N New Footprint=VQFN-HR-10
+Change Component Comment : Designator=R31 Old Comment=1M 1% New Comment=DNP/1M 1%
+Change Component Comment : Designator=R315 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=U26 Old Comment=SN74HCT244PWR New Comment=SN74AXCH8T245PWR
+Change Component Comment : Designator=U25 Old Comment=SN74HCT244PWR New Comment=TPS259470ARPWR
+Change component parameters: Designator = "U26" ("U26"); Footprint = "SOP65P640X120-20N"; UniqueID = "\NQAGGIRO" ("\NQAGGIRO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74AXCH8T245PWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "SN74AXCH8T245PWR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TSSOP-24 Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74AXCH8T245PWR/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74AXCH8T245PWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U25" ("U25"); Footprint = "SOP65P640X120-20N"; UniqueID = "\AWYGXJTV" ("\AWYGXJTV")
+Added Component: Designator=C243(CAP_C_3225X80)
+Added Component: Designator=C244(CAP_C_3225X80)
+Added Component: Designator=C245(CAP_C_3225X80)
+Added Component: Designator=C246(CAP_C_1005X60)
+Added Component: Designator=C247(CAP_C_1005X60)
+Added Component: Designator=C248(CAP_C_1005X60)
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Added Component: Designator=C255(CAP_C_1005X50_L)
+Added Component: Designator=D1(DO-214AC_SMA)
+Added Component: Designator=J10(MOLEX_0532610471)
+Added Component: Designator=JP9(JUMPER_1608)
+Added Component: Designator=Q6(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q7(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R337(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R339(RES_C_1005X40)
+Added Component: Designator=R340(RES_C_1005X40)
+Added Component: Designator=R341(RES_C_1005X40)
+Added Component: Designator=R342(RES_C_1005X40)
+Added Component: Designator=R343(RES_C_1005X40)
+Added Component: Designator=R344(RES_C_1005X40)
+Added Component: Designator=R345(RES_C_1005x30_L)
+Added Component: Designator=R346(RES_C_1005x30_L)
+Added Component: Designator=R347(RES_C_1005x30_L)
+Added Component: Designator=R348(RES_C_1005x30_L)
+Added Component: Designator=R349(RES_C_1005x30_L)
+Added Component: Designator=R350(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R357(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=U27(SOP65P640X120-24N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74AXCH8T245PWR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74AXCH8T245PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-24 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74AXCH8T245PWR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74AXCH8T245PWR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C243-1
+Added Pin To Net: NetName=GND Pin=C244-1
+Added Pin To Net: NetName=GND Pin=C245-1
+Added Pin To Net: NetName=GND Pin=C246-1
+Added Pin To Net: NetName=GND Pin=C247-1
+Added Pin To Net: NetName=GND Pin=C248-1
+Add Pin To Net: Unknown Pin: Pin C249-1
+Add Pin To Net: Unknown Pin: Pin C249-2
+Add Pin To Net: Unknown Pin: Pin C250-1
+Add Pin To Net: Unknown Pin: Pin C250-2
+Add Pin To Net: Unknown Pin: Pin C251-1
+Add Pin To Net: Unknown Pin: Pin C251-2
+Add Pin To Net: Unknown Pin: Pin C252-1
+Add Pin To Net: Unknown Pin: Pin C252-2
+Add Pin To Net: Unknown Pin: Pin C253-1
+Add Pin To Net: Unknown Pin: Pin C253-2
+Add Pin To Net: Unknown Pin: Pin C254-1
+Add Pin To Net: Unknown Pin: Pin C254-2
+Added Pin To Net: NetName=+1.8V_FPGA Pin=C255-1
+Added Pin To Net: NetName=GND Pin=C255-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-4
+Added Pin To Net: NetName=GND Pin=J10-M1
+Added Pin To Net: NetName=GND Pin=J10-M2
+Added Pin To Net: NetName=GND Pin=Q6-2
+Added Pin To Net: NetName=CONN_IN_SEL Pin=Q6-3
+Added Pin To Net: NetName=GND Pin=Q7-2
+Added Pin To Net: NetName=PROGRAM_B Pin=Q7-3
+Added Pin To Net: NetName=_PD00 Pin=R315-2
+Added Pin To Net: NetName=CONN_IN_SEL Pin=R316-1
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R316-2
+Add Pin To Net: Unknown Pin: Pin R338-1
+Added Pin To Net: NetName=GND Pin=R343-1
+Added Pin To Net: NetName=GND Pin=R344-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R345-1
+Added Pin To Net: NetName=FPGA_nOE Pin=R345-2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R346-1
+Added Pin To Net: NetName=GND Pin=R347-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R348-1
+Added Pin To Net: NetName=FPGA_nOE Pin=R348-2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R349-1
+Added Pin To Net: NetName=GND Pin=R350-1
+Add Pin To Net: Unknown Pin: Pin R351-1
+Add Pin To Net: Unknown Pin: Pin R352-1
+Add Pin To Net: Unknown Pin: Pin R356-2
+Add Pin To Net: Unknown Pin: Pin R358-1
+Add Pin To Net: Unknown Pin: Pin R359-1
+Add Pin To Net: Unknown Pin: Pin R359-2
+Add Pin To Net: Unknown Pin: Pin R360-1
+Add Pin To Net: Unknown Pin: Pin R360-2
+Add Pin To Net: Unknown Pin: Pin R361-1
+Add Pin To Net: Unknown Pin: Pin R361-2
+Added Pin To Net: NetName=+1.8V_FPGA Pin=U11-F8
+Added Pin To Net: NetName=GND Pin=U25-8
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U26-1
+Added Pin To Net: NetName=FPGA_RCLK Pin=U26-3
+Added Pin To Net: NetName=FPGA_SRCLK Pin=U26-4
+Added Pin To Net: NetName=FPGA_D0 Pin=U26-5
+Added Pin To Net: NetName=FPGA_D1 Pin=U26-6
+Added Pin To Net: NetName=FPGA_D2 Pin=U26-7
+Added Pin To Net: NetName=FPGA_D3 Pin=U26-8
+Added Pin To Net: NetName=FPGA_D4 Pin=U26-9
+Added Pin To Net: NetName=FPGA_D5 Pin=U26-10
+Added Pin To Net: NetName=GND Pin=U26-12
+Added Pin To Net: NetName=NetJ8_9 Pin=U26-14
+Added Pin To Net: NetName=NetJ8_8 Pin=U26-15
+Added Pin To Net: NetName=NetJ8_7 Pin=U26-16
+Added Pin To Net: NetName=NetJ8_6 Pin=U26-17
+Added Pin To Net: NetName=NetJ8_5 Pin=U26-18
+Added Pin To Net: NetName=NetJ8_4 Pin=U26-19
+Added Pin To Net: NetName=NetJ8_3 Pin=U26-20
+Added Pin To Net: NetName=NetJ8_2 Pin=U26-21
+Added Pin To Net: NetName=FPGA_nOE Pin=U26-22
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U26-23
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U26-24
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U27-1
+Added Pin To Net: NetName=FPGA_D6 Pin=U27-3
+Added Pin To Net: NetName=FPGA_D7 Pin=U27-4
+Added Pin To Net: NetName=GND Pin=U27-5
+Added Pin To Net: NetName=GND Pin=U27-6
+Added Pin To Net: NetName=GND Pin=U27-7
+Added Pin To Net: NetName=GND Pin=U27-8
+Added Pin To Net: NetName=GND Pin=U27-9
+Added Pin To Net: NetName=GND Pin=U27-10
+Added Pin To Net: NetName=GND Pin=U27-12
+Added Pin To Net: NetName=GND Pin=U27-13
+Added Pin To Net: NetName=NetJ8_11 Pin=U27-20
+Added Pin To Net: NetName=NetJ8_10 Pin=U27-21
+Added Pin To Net: NetName=FPGA_nOE Pin=U27-22
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U27-23
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U27-24
+Change Net Name : Old Net Name=CONN_IN_SEL New Net Name=RS422_CONSOLE_SEL
+Added Pin To Net: NetName=+12V_CONN_IN Pin=C245-2
+Added Pin To Net: NetName=+12V_CONN_IN Pin=C246-2
+Added Pin To Net: NetName=+12V_CONN_IN Pin=J7-1
+Added Pin To Net: NetName=+12V_CONN_IN Pin=J7-2
+Added Pin To Net: NetName=+12V_CONN_IN Pin=JP9-1
+Added Pin To Net: NetName=+12V_CONN_IN Pin=R339-2
+Added Pin To Net: NetName=+12V_CONN_IN Pin=U25-5
+Added Net: Name=+12V_CONN_IN
+Added Pin To Net: NetName=+12V_PC104 Pin=C243-2
+Added Pin To Net: NetName=+12V_PC104 Pin=C244-2
+Added Pin To Net: NetName=+12V_PC104 Pin=D1-1
+Added Pin To Net: NetName=+12V_PC104 Pin=H2-23
+Added Pin To Net: NetName=+12V_PC104 Pin=H2-24
+Added Pin To Net: NetName=+12V_PC104 Pin=JP9-2
+Added Pin To Net: NetName=+12V_PC104 Pin=R340-2
+Added Pin To Net: NetName=+12V_PC104 Pin=R341-2
+Added Pin To Net: NetName=+12V_PC104 Pin=U25-6
+Added Net: Name=+12V_PC104
+Added Pin To Net: NetName=CONN_IN_SEL Pin=J7-5
+Added Pin To Net: NetName=CONN_IN_SEL Pin=R337-1
+Added Net: Name=CONN_IN_SEL
+Added Pin To Net: NetName=CPU_FPGA_PROGRAM_B Pin=R315-1
+Added Pin To Net: NetName=CPU_FPGA_PROGRAM_B Pin=R357-1
+Added Net: Name=CPU_FPGA_PROGRAM_B
+Added Pin To Net: NetName=FPGA_EMCCLK Pin=U11-M15
+Added Net: Name=FPGA_EMCCLK
+Added Pin To Net: NetName=FPGA_QSPI_CLK Pin=R243-2
+Added Pin To Net: NetName=FPGA_QSPI_CLK Pin=U13-6
+Added Net: Name=FPGA_QSPI_CLK
+Added Pin To Net: NetName=FPGA_UART_CONSOLE_RX Pin=J10-3
+Added Net: Name=FPGA_UART_CONSOLE_RX
+Added Pin To Net: NetName=FPGA_UART_CONSOLE_TX Pin=J10-2
+Added Net: Name=FPGA_UART_CONSOLE_TX
+Added Pin To Net: NetName=FPGA_UART_RX Pin=U11-T14
+Added Net: Name=FPGA_UART_RX
+Added Pin To Net: NetName=FPGA_UART_TX Pin=U11-T15
+Added Net: Name=FPGA_UART_TX
+Added Pin To Net: NetName=NetC247_2 Pin=C247-2
+Added Pin To Net: NetName=NetC247_2 Pin=U25-10
+Added Pin To Net: NetName=NetC247_2 Pin=U25-10
+Added Net: Name=NetC247_2
+Added Pin To Net: NetName=NetC248_2 Pin=C248-2
+Added Pin To Net: NetName=NetC248_2 Pin=U25-7
+Added Pin To Net: NetName=NetC248_2 Pin=U25-7
+Added Net: Name=NetC248_2
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R337-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R357-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetR339_1 Pin=R339-1
+Added Pin To Net: NetName=NetR339_1 Pin=R342-1
+Added Pin To Net: NetName=NetR339_1 Pin=U25-1
+Added Pin To Net: NetName=NetR339_1 Pin=U25-1
+Added Net: Name=NetR339_1
+Added Pin To Net: NetName=NetR340_1 Pin=R340-1
+Added Pin To Net: NetName=NetR340_1 Pin=U25-3
+Added Net: Name=NetR340_1
+Added Pin To Net: NetName=NetR341_1 Pin=R341-1
+Added Pin To Net: NetName=NetR341_1 Pin=U25-4
+Added Pin To Net: NetName=NetR341_1 Pin=U25-4
+Added Net: Name=NetR341_1
+Added Pin To Net: NetName=NetR342_2 Pin=R342-2
+Added Pin To Net: NetName=NetR342_2 Pin=R343-2
+Added Pin To Net: NetName=NetR342_2 Pin=U25-2
+Added Net: Name=NetR342_2
+Added Pin To Net: NetName=NetR344_2 Pin=R344-2
+Added Pin To Net: NetName=NetR344_2 Pin=U25-9
+Added Net: Name=NetR344_2
+Added Pin To Net: NetName=NetR346_2 Pin=R346-2
+Added Pin To Net: NetName=NetR346_2 Pin=U26-2
+Added Net: Name=NetR346_2
+Added Pin To Net: NetName=NetR347_2 Pin=R347-2
+Added Pin To Net: NetName=NetR347_2 Pin=U26-11
+Added Net: Name=NetR347_2
+Added Pin To Net: NetName=NetR349_2 Pin=R349-2
+Added Pin To Net: NetName=NetR349_2 Pin=U27-2
+Added Net: Name=NetR349_2
+Added Pin To Net: NetName=NetR350_2 Pin=R350-2
+Added Pin To Net: NetName=NetR350_2 Pin=U27-11
+Added Net: Name=NetR350_2
+Added Pin To Net: NetName=NetR356_1 Pin=U11-L15
+Added Net: Name=NetR356_1
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C243 47uF/25V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C244 47uF/25V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C245 47uF/25V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C246 1uF/20V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C247 2.2nF/10V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component C248 2.2nF/10V
+Add Class Member: Failed to add class member : Component C249 0.1uF/10V
+Add Class Member: Failed to add class member : Component C250 0.1uF/10V
+Add Class Member: Failed to add class member : Component C251 0.1uF/10V
+Add Class Member: Failed to add class member : Component C252 0.1uF/10V
+Add Class Member: Failed to add class member : Component C253 0.1uF/10V
+Add Class Member: Failed to add class member : Component C254 0.1uF/10V
+Added Member To Class: ClassName=FPGA_POWER_2 Member=Component C255 0.47uF/10V
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component D1 SS54
+Added Member To Class: ClassName=FPGA_BANK Member=Component J10 0532610471
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component JP9 DNP/0R
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component Q6 MMBT2222A
+Added Member To Class: ClassName=FPGA_BANK Member=Component Q7 MMBT2222A
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R315 22R
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R316 10k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R337 10k
+Add Class Member: Failed to add class member : Component R338 47k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R339 470k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R340 47k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R341 47k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R342 10k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R343 47k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component R344 1.6k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R345 10k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R346 10k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R347 10k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R348 10k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R349 10k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R350 10k
+Add Class Member: Failed to add class member : Component R351 DNP/4.7k
+Add Class Member: Failed to add class member : Component R352 DNP/4.7k
+Add Class Member: Failed to add class member : Component R353 22R
+Add Class Member: Failed to add class member : Component R354 22R
+Add Class Member: Failed to add class member : Component R355 22R
+Add Class Member: Failed to add class member : Component R356 1k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R357 10k
+Add Class Member: Failed to add class member : Component R358 47k
+Add Class Member: Failed to add class member : Component R359 DNP/4.7k
+Add Class Member: Failed to add class member : Component R360 DNP/4.7k
+Add Class Member: Failed to add class member : Component R361 DNP/4.7k
+Added Member To Class: ClassName=CONNECTOR_IN Member=Component U25 TPS259470ARPWR
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component U27 SN74AXCH8T245PWR
+Added Member To Class: ClassName=POWER Member=Wire +12V_CONN_IN
+Added Member To Class: ClassName=POWER Member=Wire +12V_PC104
+Added Member To Class: ClassName=POWER Member=Wire GND
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

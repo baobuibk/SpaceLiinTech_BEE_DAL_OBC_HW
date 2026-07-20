@@ -1,0 +1,61 @@
+Added Pin To Net: NetName=3V3_eMMC Pin=C2-2
+Added Pin To Net: NetName=3V3_eMMC Pin=C3-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C4-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C5-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C6-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C57-2
+Added Pin To Net: NetName=3V3_eMMC Pin=C69-2
+Added Pin To Net: NetName=3V3_eMMC Pin=C130-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C131-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C132-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C133-1
+Added Pin To Net: NetName=3V3_eMMC Pin=C134-2
+Added Pin To Net: NetName=3V3_eMMC Pin=DNP/U1-8
+Added Pin To Net: NetName=3V3_eMMC Pin=J13-2
+Added Pin To Net: NetName=3V3_eMMC Pin=JP5-1
+Added Pin To Net: NetName=3V3_eMMC Pin=L1-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R1-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R2-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R6-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R7-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R10-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R11-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R16-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R17-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R17-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R20-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R38-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R54-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R57-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R60-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R79-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R80-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R89-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R93-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R107-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R108-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R119-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R123-1
+Added Pin To Net: NetName=3V3_eMMC Pin=R153-2
+Added Pin To Net: NetName=3V3_eMMC Pin=R154-2
+Added Pin To Net: NetName=3V3_eMMC Pin=TP1-0
+Added Pin To Net: NetName=3V3_eMMC Pin=U1-9
+Added Pin To Net: NetName=3V3_eMMC Pin=U2-2
+Added Pin To Net: NetName=3V3_eMMC Pin=U2-15
+Added Pin To Net: NetName=3V3_eMMC Pin=U6-2
+Added Pin To Net: NetName=3V3_eMMC Pin=U6-15
+Added Pin To Net: NetName=3V3_eMMC Pin=Y2-4
+Added Pin To Net: NetName=3V3_eMMC Pin=Y4-1
+Added Pin To Net: NetName=3V3_eMMC Pin=Y4-4
+Change Net Name : Old Net Name=3V3_eMMC New Net Name=VDD_3V3
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(204, 255, 51)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 255, 102)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 102, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 153, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(51, 153, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 102, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 153, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 80, 80)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 0, 102)

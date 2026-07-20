@@ -1,0 +1,72 @@
+Change Footprint: Footprint Not Found Molex_1051620001
+Change Footprint: Footprint Not Found CAP_C_1005X50_L
+Change Footprint: Footprint Not Found CAT93C46BHU4I-GT3
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found SOP65P640X120-20N
+Change Footprint: Footprint Not Found SOP65P640X120-20N
+Add component: Footprint Not Found SIT8008AI-11-XXE-100.000000
+Add Pin To Net: Unknown Pin: Pin J1-G1
+Add Pin To Net: Unknown Pin: Pin J1-G2
+Add Pin To Net: Unknown Pin: Pin J1-G3
+Add Pin To Net: Unknown Pin: Pin J1-G4
+Add Pin To Net: Unknown Pin: Pin J1-P1
+Add Pin To Net: Unknown Pin: Pin J1-P2
+Add Pin To Net: Unknown Pin: Pin J1-P3
+Add Pin To Net: Unknown Pin: Pin J1-P4
+Add Pin To Net: Unknown Pin: Pin J1-P5
+Add Pin To Net: Unknown Pin: Pin J1-P6
+Add Pin To Net: Unknown Pin: Pin J1-P7
+Add Pin To Net: Unknown Pin: Pin J1-P8
+Add Pin To Net: Unknown Pin: Pin J1-P9
+Add Pin To Net: Unknown Pin: Pin J7-1
+Add Pin To Net: Unknown Pin: Pin J7-2
+Add Pin To Net: Unknown Pin: Pin J7-3
+Add Pin To Net: Unknown Pin: Pin J7-4
+Add Pin To Net: Unknown Pin: Pin J7-5
+Add Pin To Net: Unknown Pin: Pin J7-6
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J7-8
+Add Pin To Net: Unknown Pin: Pin J7-9
+Add Pin To Net: Unknown Pin: Pin J7-M1
+Add Pin To Net: Unknown Pin: Pin J7-M2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J8-11
+Add Pin To Net: Unknown Pin: Pin J8-M1
+Add Pin To Net: Unknown Pin: Pin J8-M2
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U17-8
+Add Pin To Net: Unknown Pin: Pin U17-9
+Add Pin To Net: Unknown Pin: Pin U25-11
+Add Pin To Net: Unknown Pin: Pin U25-12
+Add Pin To Net: Unknown Pin: Pin U25-13
+Add Pin To Net: Unknown Pin: Pin U25-14
+Add Pin To Net: Unknown Pin: Pin U25-15
+Add Pin To Net: Unknown Pin: Pin U25-16
+Add Pin To Net: Unknown Pin: Pin U25-17
+Add Pin To Net: Unknown Pin: Pin U25-18
+Add Pin To Net: Unknown Pin: Pin U25-19
+Add Pin To Net: Unknown Pin: Pin U25-20
+Add Pin To Net: Unknown Pin: Pin U26-11
+Add Pin To Net: Unknown Pin: Pin U26-13
+Add Pin To Net: Unknown Pin: Pin U26-15
+Add Pin To Net: Unknown Pin: Pin U26-16
+Add Pin To Net: Unknown Pin: Pin U26-17
+Add Pin To Net: Unknown Pin: Pin U26-18
+Add Pin To Net: Unknown Pin: Pin U26-19
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Add Class Member: Failed to add class member : Component J7 HEADER 9x1
+Add Class Member: Failed to add class member : Component J8 HEADER
+Add Class Member: Failed to add class member : Component X1 SIT8008AI-11-XXE-100.000000

@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=U17 Old Footprint=DS90LV011AQ-Q1 New Footprint=CAT93C46BHU4I-GT3
+Add component: Footprint Not Found SIT8008AI-11-XXE-100.000000
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J8-11
+Add Pin To Net: Unknown Pin: Pin J8-M1
+Add Pin To Net: Unknown Pin: Pin J8-M2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U17-6
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=U17-8
+Added Pin To Net: NetName=GND Pin=U17-9
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component H2 ESQ-126-14-G-D
+Add Class Member: Failed to add class member : Component J8 HEADER
+Add Class Member: Failed to add class member : Component X1 SIT8008AI-11-XXE-100.000000

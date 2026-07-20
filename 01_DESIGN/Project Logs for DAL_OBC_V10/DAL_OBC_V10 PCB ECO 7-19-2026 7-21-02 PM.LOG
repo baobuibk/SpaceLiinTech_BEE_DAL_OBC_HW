@@ -1,0 +1,4 @@
+Added Component: Designator=R358(RES_C_1005x30_L)
+Added Pin To Net: NetName=GND Pin=R358-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R358-2
+Added Member To Class: ClassName=FPGA_BANK Member=Component R358 47k

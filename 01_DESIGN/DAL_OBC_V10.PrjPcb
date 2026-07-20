@@ -1326,32 +1326,32 @@ DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PA
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SubSystem
-Value=OBC
+Name=ApprovedBy
+Value=Vu Pham
 
 [Parameter2]
-Name=Revision
-Value=1.0.0
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter3]
-Name=MasterProject
-Value=BEE-DAL
+Name=Date
+Value=07/07/2026
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=Date
-Value=07/07/2026
+Name=MasterProject
+Value=BEE-DAL
 
 [Parameter6]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.0.1
 
 [Parameter7]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=OBC
 
 [Configuration1]
 Name=Sources
@@ -1928,36 +1928,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2888,28 +2858,41 @@ ComponentUpdate71=1
 ComponentIsDeviceSheet71=0
 
 [NetInfos]
-Net1=NetName=12V|NetColor=clYellow
-Net2=NetName=12V_CONN|NetColor=$006E6EFF
-Net3=NetName=12V_EXP|NetColor=clYellow
-Net4=NetName=12V_IN|NetColor=$000033CC
-Net5=NetName=1V_VCORE|NetColor=$00854000
-Net6=NetName=1V8_VCCAUX|NetColor=$006F2F68
-Net7=NetName=1V8_VCCIO3/4/5|NetColor=$008F88FF
-Net8=NetName=3.3_VBAT|NetColor=$006A00A1
-Net9=NetName=3V3|NetColor=$000083FD
-Net10=NetName=3V3_COM|NetColor=$00FF6EFF
-Net11=NetName=3V3_eMMC|NetColor=$00FF6E6E
-Net12=NetName=3V3_IC|NetColor=$00FF39BC
-Net13=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
-Net14=NetName=3V3_VCCIO0/1|NetColor=$002E619F
-Net15=NetName=5V|NetColor=$00FFFF6E
-Net16=NetName=5V_FPGA|NetColor=$00009CFF
-Net17=NetName=DDR_VREF|NetColor=$0056007C
-Net18=NetName=GND|NetColor=$00575860
-Net19=NetName=VBAT|NetColor=$008E00C5
-Net20=NetName=VDDCORE|NetColor=$00C1D672
-Net21=NetName=VDDCPU|NetColor=$0052E7C0
-Net22=NetName=VDDIODDR|NetColor=$006EFF6E
+Net1=NetName=+1.8V_FPGA|NetColor=$00CCFFCC
+Net2=NetName=+12V_CONN_IN|NetColor=$005050FF
+Net3=NetName=+12V_PC104|NetColor=$006600FF
+Net4=NetName=+1V_FPGA|NetColor=$00CCFFFF
+Net5=NetName=+3.3V|NetColor=clYellow
+Net6=NetName=+3.3V_FPGA_IO|NetColor=$00CCCCFF
+Net7=NetName=+3.3V_SAMA7|NetColor=$0033FFCC
+Net8=NetName=+3.3V_SENSE|NetColor=$0066FFFF
+Net9=NetName=+5V_FPGA|NetColor=$00FF6600
+Net10=NetName=+5V_FPGA_eFUSE|NetColor=$00FF9900
+Net11=NetName=+5V_PC104|NetColor=$00FF9933
+Net12=NetName=+5V_SAMA7|NetColor=$00FF6600
+Net13=NetName=+5V_SAMA7_eFUSE|NetColor=$00FF9900
+Net14=NetName=12V|NetColor=clYellow
+Net15=NetName=12V_CONN|NetColor=$006E6EFF
+Net16=NetName=12V_EXP|NetColor=clYellow
+Net17=NetName=12V_IN|NetColor=$000033CC
+Net18=NetName=1V_VCORE|NetColor=$00854000
+Net19=NetName=1V8_VCCAUX|NetColor=$006F2F68
+Net20=NetName=1V8_VCCIO3/4/5|NetColor=$008F88FF
+Net21=NetName=3.3_VBAT|NetColor=$006A00A1
+Net22=NetName=3V3|NetColor=$000083FD
+Net23=NetName=3V3_COM|NetColor=$00FF6EFF
+Net24=NetName=3V3_eMMC|NetColor=$00FF6E6E
+Net25=NetName=3V3_IC|NetColor=$00FF39BC
+Net26=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
+Net27=NetName=3V3_VCCIO0/1|NetColor=$002E619F
+Net28=NetName=5V|NetColor=$00FFFF6E
+Net29=NetName=5V_FPGA|NetColor=$00009CFF
+Net30=NetName=DDR_VREF|NetColor=$0056007C
+Net31=NetName=GND|NetColor=$00575860
+Net32=NetName=VBAT|NetColor=$008E00C5
+Net33=NetName=VDDCORE|NetColor=$00C1D672
+Net34=NetName=VDDCPU|NetColor=$0052E7C0
+Net35=NetName=VDDIODDR|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

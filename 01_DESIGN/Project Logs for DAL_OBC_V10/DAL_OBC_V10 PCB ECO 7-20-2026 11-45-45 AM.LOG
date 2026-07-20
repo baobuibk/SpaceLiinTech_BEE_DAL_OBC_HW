@@ -1,0 +1,50 @@
+Added Component: Designator=J11(Header_254P_8x1)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Pin To Net: NetName=FPGA_IO8 Pin=J11-1
+Added Net: Name=FPGA_IO8
+Added Pin To Net: NetName=FPGA_IO9 Pin=J11-2
+Added Net: Name=FPGA_IO9
+Added Pin To Net: NetName=FPGA_IO10 Pin=J11-3
+Added Net: Name=FPGA_IO10
+Added Pin To Net: NetName=FPGA_IO11 Pin=J11-4
+Added Net: Name=FPGA_IO11
+Added Pin To Net: NetName=FPGA_IO12 Pin=J11-5
+Added Net: Name=FPGA_IO12
+Added Pin To Net: NetName=FPGA_IO13 Pin=J11-6
+Added Net: Name=FPGA_IO13
+Added Pin To Net: NetName=FPGA_IO14 Pin=J11-7
+Added Net: Name=FPGA_IO14
+Added Pin To Net: NetName=FPGA_IO15 Pin=J11-8
+Added Net: Name=FPGA_IO15
+Added Pin To Net: NetName=NetR362_1 Pin=U11-E3
+Added Net: Name=NetR362_1
+Added Pin To Net: NetName=NetR363_1 Pin=U11-D3
+Added Net: Name=NetR363_1
+Added Pin To Net: NetName=NetR364_1 Pin=U11-D4
+Added Net: Name=NetR364_1
+Added Pin To Net: NetName=NetR365_1 Pin=U11-C4
+Added Net: Name=NetR365_1
+Added Pin To Net: NetName=NetR366_1 Pin=U11-F5
+Added Net: Name=NetR366_1
+Added Pin To Net: NetName=NetR367_1 Pin=U11-E5
+Added Net: Name=NetR367_1
+Added Pin To Net: NetName=NetR368_1 Pin=U11-F4
+Added Net: Name=NetR368_1
+Added Pin To Net: NetName=NetR369_1 Pin=U11-F3
+Added Net: Name=NetR369_1
+Added Member To Class: ClassName=FPGA_BANK Member=Component J11 Header 8x1
+Add Class Member: Failed to add class member : Component R362 22R
+Add Class Member: Failed to add class member : Component R363 22R
+Add Class Member: Failed to add class member : Component R364 22R
+Add Class Member: Failed to add class member : Component R365 22R
+Add Class Member: Failed to add class member : Component R366 22R
+Add Class Member: Failed to add class member : Component R367 22R
+Add Class Member: Failed to add class member : Component R368 22R
+Add Class Member: Failed to add class member : Component R369 22R

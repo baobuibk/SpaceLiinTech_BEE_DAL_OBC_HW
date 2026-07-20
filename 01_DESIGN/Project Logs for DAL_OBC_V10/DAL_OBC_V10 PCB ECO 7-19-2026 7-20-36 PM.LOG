@@ -1,0 +1,32 @@
+Added Component: Designator=R353(RES_C_1005x30_L)
+Added Component: Designator=R354(RES_C_1005x30_L)
+Added Component: Designator=R355(RES_C_1005x30_L)
+Added Component: Designator=R356(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R359(RES_C_1005x30_L)
+Added Component: Designator=R360(RES_C_1005x30_L)
+Added Component: Designator=R361(RES_C_1005x30_L)
+Added Pin To Net: NetName=FPGA_UART_TX Pin=R353-1
+Added Pin To Net: NetName=FPGA_UART_CONSOLE_TX Pin=R353-2
+Added Pin To Net: NetName=FPGA_UART_RX Pin=R354-1
+Added Pin To Net: NetName=FPGA_UART_CONSOLE_RX Pin=R354-2
+Added Pin To Net: NetName=FPGA_EMCCLK Pin=R355-1
+Added Pin To Net: NetName=FPGA_QSPI_CLK Pin=R355-2
+Added Pin To Net: NetName=NetR356_1 Pin=R356-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R356-2
+Add Pin To Net: Unknown Pin: Pin R358-1
+Add Pin To Net: Unknown Pin: Pin R358-2
+Added Pin To Net: NetName=GND Pin=R359-1
+Added Pin To Net: NetName=MODE_0 Pin=R359-2
+Added Pin To Net: NetName=MODE_1 Pin=R360-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R360-2
+Added Pin To Net: NetName=MODE_2 Pin=R361-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R361-2
+Added Member To Class: ClassName=FPGA_BANK Member=Component R353 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R354 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R355 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R356 1k
+Add Class Member: Failed to add class member : Component R358 47k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R359 DNP/4.7k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R360 DNP/4.7k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R361 DNP/4.7k

@@ -1,0 +1,32 @@
+Added Component: Designator=R362(RES_C_1005x30_L)
+Added Component: Designator=R363(RES_C_1005x30_L)
+Added Component: Designator=R364(RES_C_1005x30_L)
+Added Component: Designator=R365(RES_C_1005x30_L)
+Added Component: Designator=R366(RES_C_1005x30_L)
+Added Component: Designator=R367(RES_C_1005x30_L)
+Added Component: Designator=R368(RES_C_1005x30_L)
+Added Component: Designator=R369(RES_C_1005x30_L)
+Added Pin To Net: NetName=NetR362_1 Pin=R362-1
+Added Pin To Net: NetName=FPGA_IO8 Pin=R362-2
+Added Pin To Net: NetName=NetR363_1 Pin=R363-1
+Added Pin To Net: NetName=FPGA_IO9 Pin=R363-2
+Added Pin To Net: NetName=NetR364_1 Pin=R364-1
+Added Pin To Net: NetName=FPGA_IO10 Pin=R364-2
+Added Pin To Net: NetName=NetR365_1 Pin=R365-1
+Added Pin To Net: NetName=FPGA_IO11 Pin=R365-2
+Added Pin To Net: NetName=NetR366_1 Pin=R366-1
+Added Pin To Net: NetName=FPGA_IO12 Pin=R366-2
+Added Pin To Net: NetName=NetR367_1 Pin=R367-1
+Added Pin To Net: NetName=FPGA_IO13 Pin=R367-2
+Added Pin To Net: NetName=NetR368_1 Pin=R368-1
+Added Pin To Net: NetName=FPGA_IO14 Pin=R368-2
+Added Pin To Net: NetName=NetR369_1 Pin=R369-1
+Added Pin To Net: NetName=FPGA_IO15 Pin=R369-2
+Added Member To Class: ClassName=FPGA_BANK Member=Component R362 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R363 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R364 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R365 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R366 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R367 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R368 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R369 22R

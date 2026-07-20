@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=_PB31 Pin=U27-A13
+Removed Pin From Net: NetName=_PB30 Pin=U27-B9
+Removed Pin From Net: NetName=_PB18 Pin=U27-D21
+Removed Pin From Net: NetName=_PB17 Pin=U27-F21
+Removed Pin From Net: NetName=_PB28 Pin=U27-G10
+Removed Pin From Net: NetName=_PB11 Pin=U27-G21
+Removed Pin From Net: NetName=_PB29 Pin=U27-H11
+Removed Pin From Net: NetName=_PB25 Pin=U27-J14
+Removed Pin From Net: NetName=_PB19 Pin=U27-M13
+Removed Pin From Net: NetName=_PB16 Pin=U27-M14
+Removed Pin From Net: NetName=_PB12 Pin=U27-M15
+Removed Pin From Net: NetName=_PB14 Pin=U27-N14
+Removed Pin From Net: NetName=_PB15 Pin=U27-N15
+Removed Pin From Net: NetName=_PB10 Pin=U27-P15
+Removed Pin From Net: NetName=_PB9 Pin=U27-P17
+Removed Pin From Net: NetName=_PB13 Pin=U27-R16
+Removed Pin From Net: NetName=_PB8 Pin=U27-T18
+Removed Pin From Net: NetName=_PB6 Pin=U27-T19
+Removed Pin From Net: NetName=_PB4 Pin=U27-T20
+Removed Pin From Net: NetName=_PB2 Pin=U27-T21
+Removed Pin From Net: NetName=_PB0 Pin=U27-U18
+Removed Pin From Net: NetName=_PB5 Pin=U27-V18
+Removed Pin From Net: NetName=_PB3 Pin=U27-V19
+Removed Pin From Net: NetName=_PB1 Pin=U27-W21
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=U27
+Change Footprint: Footprint Not Found Molex_1051620001
+Change Footprint: Footprint Not Found CAP 0402_1005
+Change Footprint: Footprint Not Found CAP_C_1005X50_L
+Change Footprint: Footprint Not Found CAT93C46BHU4I-GT3
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found RES 0402_1005
+Change Footprint: Footprint Not Found RES 0402_1005
+Change Footprint: Footprint Not Found RES 0402_1005
+Change Footprint: Footprint Not Found RES 0402_1005
+Change Footprint: Footprint Not Found SOP65P640X120-20N
+Change Footprint: Footprint Not Found SOP65P640X120-20N
+Add component: Footprint Not Found SIT8008AI-11-XXE-100.000000
+Add Pin To Net: Unknown Pin: Pin J1-G1
+Add Pin To Net: Unknown Pin: Pin J1-G2
+Add Pin To Net: Unknown Pin: Pin J1-G3
+Add Pin To Net: Unknown Pin: Pin J1-G4
+Add Pin To Net: Unknown Pin: Pin J1-P1
+Add Pin To Net: Unknown Pin: Pin J1-P2
+Add Pin To Net: Unknown Pin: Pin J1-P3
+Add Pin To Net: Unknown Pin: Pin J1-P4
+Add Pin To Net: Unknown Pin: Pin J1-P5
+Add Pin To Net: Unknown Pin: Pin J1-P6
+Add Pin To Net: Unknown Pin: Pin J1-P7
+Add Pin To Net: Unknown Pin: Pin J1-P8
+Add Pin To Net: Unknown Pin: Pin J1-P9
+Add Pin To Net: Unknown Pin: Pin J7-1
+Add Pin To Net: Unknown Pin: Pin J7-2
+Add Pin To Net: Unknown Pin: Pin J7-3
+Add Pin To Net: Unknown Pin: Pin J7-4
+Add Pin To Net: Unknown Pin: Pin J7-5
+Add Pin To Net: Unknown Pin: Pin J7-6
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J7-8
+Add Pin To Net: Unknown Pin: Pin J7-9
+Add Pin To Net: Unknown Pin: Pin J7-M1
+Add Pin To Net: Unknown Pin: Pin J7-M2
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J8-11
+Add Pin To Net: Unknown Pin: Pin J8-M1
+Add Pin To Net: Unknown Pin: Pin J8-M2
+Added Pin To Net: NetName=_PB31 Pin=U3-A13
+Added Pin To Net: NetName=_PB30 Pin=U3-B9
+Added Pin To Net: NetName=_PB18 Pin=U3-D21
+Added Pin To Net: NetName=_PB17 Pin=U3-F21
+Added Pin To Net: NetName=_PB28 Pin=U3-G10
+Added Pin To Net: NetName=_PB11 Pin=U3-G21
+Added Pin To Net: NetName=_PB29 Pin=U3-H11
+Added Pin To Net: NetName=_PB25 Pin=U3-J14
+Added Pin To Net: NetName=_PB19 Pin=U3-M13
+Added Pin To Net: NetName=_PB16 Pin=U3-M14
+Added Pin To Net: NetName=_PB12 Pin=U3-M15
+Added Pin To Net: NetName=_PB14 Pin=U3-N14
+Added Pin To Net: NetName=_PB15 Pin=U3-N15
+Added Pin To Net: NetName=_PB10 Pin=U3-P15
+Added Pin To Net: NetName=_PB9 Pin=U3-P17
+Added Pin To Net: NetName=_PB13 Pin=U3-R16
+Added Pin To Net: NetName=_PB8 Pin=U3-T18
+Added Pin To Net: NetName=_PB6 Pin=U3-T19
+Added Pin To Net: NetName=_PB4 Pin=U3-T20
+Added Pin To Net: NetName=_PB2 Pin=U3-T21
+Added Pin To Net: NetName=_PB0 Pin=U3-U18
+Added Pin To Net: NetName=_PB5 Pin=U3-V18
+Added Pin To Net: NetName=_PB3 Pin=U3-V19
+Added Pin To Net: NetName=_PB1 Pin=U3-W21
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U17-8
+Add Pin To Net: Unknown Pin: Pin U17-9
+Add Pin To Net: Unknown Pin: Pin U25-11
+Add Pin To Net: Unknown Pin: Pin U25-12
+Add Pin To Net: Unknown Pin: Pin U25-13
+Add Pin To Net: Unknown Pin: Pin U25-14
+Add Pin To Net: Unknown Pin: Pin U25-15
+Add Pin To Net: Unknown Pin: Pin U25-16
+Add Pin To Net: Unknown Pin: Pin U25-17
+Add Pin To Net: Unknown Pin: Pin U25-18
+Add Pin To Net: Unknown Pin: Pin U25-19
+Add Pin To Net: Unknown Pin: Pin U25-20
+Add Pin To Net: Unknown Pin: Pin U26-11
+Add Pin To Net: Unknown Pin: Pin U26-13
+Add Pin To Net: Unknown Pin: Pin U26-15
+Add Pin To Net: Unknown Pin: Pin U26-16
+Add Pin To Net: Unknown Pin: Pin U26-17
+Add Pin To Net: Unknown Pin: Pin U26-18
+Add Pin To Net: Unknown Pin: Pin U26-19
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Add Class Member: Failed to add class member : Component J7 HEADER 9x1
+Add Class Member: Failed to add class member : Component J8 HEADER
+Add Class Member: Failed to add class member : Component X1 SIT8008AI-11-XXE-100.000000

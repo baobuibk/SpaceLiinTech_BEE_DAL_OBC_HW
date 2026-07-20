@@ -1,0 +1,49 @@
+Change Footprint: Footprint Not Found CAT93C46BHU4I-GT3
+Change Footprint: Footprint Not Found FER 0603_1608
+Change Footprint: Footprint Not Found FER 0603_1608
+Added Component: Designator=U26(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74HCT244PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TSSOP-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74HCT244PWR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74HCT244PWR/Texas%20Instruments/view-part/387574/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found SIT8008AI-11-XXE-100.000000
+Add Pin To Net: Unknown Pin: Pin J8-1
+Add Pin To Net: Unknown Pin: Pin J8-2
+Add Pin To Net: Unknown Pin: Pin J8-3
+Add Pin To Net: Unknown Pin: Pin J8-4
+Add Pin To Net: Unknown Pin: Pin J8-5
+Add Pin To Net: Unknown Pin: Pin J8-6
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J8-8
+Add Pin To Net: Unknown Pin: Pin J8-9
+Add Pin To Net: Unknown Pin: Pin J8-10
+Add Pin To Net: Unknown Pin: Pin J8-11
+Add Pin To Net: Unknown Pin: Pin J8-M1
+Add Pin To Net: Unknown Pin: Pin J8-M2
+Add Pin To Net: Unknown Pin: Pin U17-6
+Add Pin To Net: Unknown Pin: Pin U17-8
+Add Pin To Net: Unknown Pin: Pin U17-9
+Added Pin To Net: NetName=FPGA_nOE Pin=U26-1
+Added Pin To Net: NetName=FPGA_D6 Pin=U26-2
+Added Pin To Net: NetName=FPGA_D7 Pin=U26-4
+Added Pin To Net: NetName=GND Pin=U26-6
+Added Pin To Net: NetName=GND Pin=U26-8
+Added Pin To Net: NetName=GND Pin=U26-10
+Added Pin To Net: NetName=GND Pin=U26-11
+Added Pin To Net: NetName=GND Pin=U26-13
+Added Pin To Net: NetName=GND Pin=U26-15
+Added Pin To Net: NetName=NetJ8_11 Pin=U26-16
+Added Pin To Net: NetName=GND Pin=U26-17
+Added Pin To Net: NetName=NetJ8_10 Pin=U26-18
+Added Pin To Net: NetName=NetR316_2 Pin=U26-19
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Add Class Member: Failed to add class member : Component J8 HEADER
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component U26 SN74HCT244PWR
+Add Class Member: Failed to add class member : Component X1 SIT8008AI-11-XXE-100.000000
