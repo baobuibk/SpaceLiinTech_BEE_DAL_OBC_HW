@@ -1,0 +1,24 @@
+Added Component: Designator=C256(CAP_C_1005X50_L)
+Added Component: Designator=C257(CAP_C_1005X50_L)
+Added Component: Designator=R381(RES_C_1005x30_L)
+Added Component: Designator=R382(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Pin To Net: NetName=GND Pin=C256-1
+Added Pin To Net: NetName=FPGA_BUTTON Pin=C256-2
+Added Pin To Net: NetName=GND Pin=C257-1
+Added Pin To Net: NetName=NetC257_2 Pin=C257-2
+Added Pin To Net: NetName=NetD11_2 Pin=R381-1
+Added Pin To Net: NetName=FPGA_LED0 Pin=R381-2
+Added Pin To Net: NetName=NetD12_2 Pin=R382-1
+Added Pin To Net: NetName=FPGA_LED1 Pin=R382-2
+Add Pin To Net: Unknown Pin: Pin R384-1
+Add Pin To Net: Unknown Pin: Pin R384-2
+Add Pin To Net: Unknown Pin: Pin R385-1
+Add Pin To Net: Unknown Pin: Pin R385-2
+Added Member To Class: ClassName=FPGA_BANK Member=Component C256 0.1uF/10V
+Added Member To Class: ClassName=FPGA_BANK Member=Component C257 0.1uF/10V
+Added Member To Class: ClassName=FPGA_BANK Member=Component R381 1k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R382 1k
+Add Class Member: Failed to add class member : Component R384 22R
+Add Class Member: Failed to add class member : Component R385 22R

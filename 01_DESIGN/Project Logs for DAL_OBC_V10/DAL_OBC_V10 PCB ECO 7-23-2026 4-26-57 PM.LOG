@@ -1,0 +1,4 @@
+Added Component: Designator=R386(RES_C_1005x30_L)
+Added Pin To Net: NetName=ADC_TEMP_1 Pin=R386-1
+Added Pin To Net: NetName=_PC22 Pin=R386-2
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R386 22R

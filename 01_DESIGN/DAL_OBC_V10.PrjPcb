@@ -560,6 +560,23 @@ GenerateClassCluster=0
 DocumentUniqueId=ZUWSIHJQ
 
 [Document31]
+DocumentPath=FPGA_CONN_OUT.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=40
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPLIVGUY
+
+[Document32]
 DocumentPath=ChangeNote.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -576,25 +593,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UBQRCWSO
 
-[Document32]
-DocumentPath=PAY_IF_BOM.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document33]
-DocumentPath=PAY_IF.OutJob
+DocumentPath=DAL_OBC_V10.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -611,7 +611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\FSUSB42MUX.SchLib
+DocumentPath=PAY_IF.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -625,230 +625,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LREJABCL
+DocumentUniqueId=
 
 [Document35]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\FSUSB42MUX\FSUSB42MUX\SOP50P490X110-10N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PNFXWUPH
-
-[Document36]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XAUENVOX
-
-[Document37]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\LFD2NX_17_7MG121I\Altium\LFD2NX-17-7MG121I\LFD2NX-17-7MG121I.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CHKKAPFK
-
-[Document38]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EDYBYKCG
-
-[Document39]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\S25FL128LAGMFI010\Altium\S25FL128LAGMFI010\S25FL128LAGMFI010.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LHITAWHX
-
-[Document40]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TRRUIMRC
-
-[Document41]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\DSC1103CI2_180_0000T\Altium\DSC1103CI2-180P0000T.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AVENQHQK
-
-[Document42]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\SOT95P280X145-5N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DSNPRDOL
-
-[Document43]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\TLV75518PDBVR\TLV75518PDBVR\TLV75518PDBVR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CCGTFIMD
-
-[Document44]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XFQNQCPA
-
-[Document45]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\TLV75510PDBVR\Altium\TLV75510PDBVR\TLV75510PDBVR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FNAYKQMG
-
-[Document46]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SN74LV4052APWR.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PSBNNWNQ
-
-[Document47]
-DocumentPath=..\..\..\CPU\NEWVERSION\Lib\SN74LV4052APWR\SN74LV4052APWR\SOP65P640X120-16N.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GVYGCFHY
-
-[Document48]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,7 +644,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GFWWSLYY
 
-[Document49]
+[Document36]
 DocumentPath=G:\.shortcut-targets-by-id\1B8WPm6aLPymLOuz51mDqoItb9KAC0_hA\0_LAB_LIB\0_LIB\LABLIB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -882,75 +661,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFXOFFXT
 
-[Document50]
-DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBpcblib.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NLFALNWU
-
-[Document51]
-DocumentPath=..\..\..\1_PAY_IFB_V1\01_DESIGN\PAY_IFB_LIB\IFBschelib.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FHPDRRPR
-
-[Document52]
-DocumentPath=..\09_LIB\IFBpcblib_offline.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RZHRNLTD
-
-[Document53]
-DocumentPath=..\09_LIB\IFBschelib_offline.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YGWAKTYE
-
-[Document54]
+[Document37]
 DocumentPath=BEE-1012 PAY-IF V110.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -967,7 +678,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document55]
+[Document38]
 DocumentPath=DAL_OBC_V10.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -983,23 +694,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMSAZYOV
-
-[Document56]
-DocumentPath=BEE-1012 PAY-IF V110.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BDLOHWZL
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PAY_IF\BEE-1012 PAY-IF V1.0.0.DRR
@@ -1298,60 +992,68 @@ DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-10
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DocumentPath=Project Outputs for DAL_OBC_V10\Design Rule Check - DAL_OBC_V10.html
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DocumentPath=Project Outputs for DAL_OBC_V10\Net Status - DAL_OBC_V10.html
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
+DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.csv
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
 DItemRevisionGUID=
 
 [GeneratedDocument81]
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument83]
 DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=OBC
 
 [Parameter2]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.0.2
 
 [Parameter3]
-Name=Date
-Value=07/07/2026
+Name=MasterProject
+Value=BEE-DAL
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=MasterProject
-Value=BEE-DAL
+Name=Date
+Value=07/07/2026
 
 [Parameter6]
-Name=Revision
-Value=1.0.1
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter7]
-Name=SubSystem
-Value=OBC
+Name=ApprovedBy
+Value=Vu Pham
 
 [Configuration1]
 Name=Sources

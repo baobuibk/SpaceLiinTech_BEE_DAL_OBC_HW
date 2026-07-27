@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=CONF_CS Pin=R256-1
+Removed Pin From Net: NetName=CONF_CS Pin=U17-1
+Removed Pin From Net: NetName=CONF_CLK Pin=U17-2
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Added Component: Designator=D11(LED_0603)
+Added Component: Designator=D12(LED_0603)
+Added Component: Designator=JP10(JUMPER_1608)
+Added Component: Designator=JP11(JUMPER_1608)
+Added Component: Designator=R370(RES_C_1005x30_L)
+Added Component: Designator=R371(RES_C_1005x30_L)
+Added Component: Designator=R372(RES_C_1005x30_L)
+Added Component: Designator=R373(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R383(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add Pin To Net: Unknown Pin: Pin C256-1
+Add Pin To Net: Unknown Pin: Pin C257-1
+Added Pin To Net: NetName=GND Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D12-1
+Added Pin To Net: NetName=GND Pin=JP10-2
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=_PD01 Pin=R370-2
+Added Pin To Net: NetName=_PD02 Pin=R371-2
+Added Pin To Net: NetName=_PD03 Pin=R372-2
+Added Pin To Net: NetName=_PD08 Pin=R373-2
+Added Pin To Net: NetName=PROGRAM_B Pin=R383-1
+Add Pin To Net: Unknown Pin: Pin R384-2
+Add Pin To Net: Unknown Pin: Pin R385-2
+Added Pin To Net: NetName=FPGA_BUTTON Pin=JP10-1
+Added Net: Name=FPGA_BUTTON
+Added Net: Name=FPGA_LED0
+Added Net: Name=FPGA_LED1
+Added Pin To Net: NetName=MPU_FPGA_IO_0 Pin=R370-1
+Added Net: Name=MPU_FPGA_IO_0
+Added Pin To Net: NetName=MPU_FPGA_IO_1 Pin=R371-1
+Added Net: Name=MPU_FPGA_IO_1
+Added Pin To Net: NetName=MPU_FPGA_IO_2 Pin=R372-1
+Added Net: Name=MPU_FPGA_IO_2
+Added Pin To Net: NetName=MPU_FPGA_IO_3 Pin=R373-1
+Added Net: Name=MPU_FPGA_IO_3
+Added Pin To Net: NetName=NetC257_2 Pin=JP11-1
+Added Pin To Net: NetName=NetC257_2 Pin=R383-2
+Added Net: Name=NetC257_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetR256_1 Pin=R256-1
+Added Pin To Net: NetName=NetR256_1 Pin=U17-1
+Added Net: Name=NetR256_1
+Added Pin To Net: NetName=NetR374_1 Pin=U11-R7
+Added Net: Name=NetR374_1
+Added Pin To Net: NetName=NetR375_1 Pin=U11-R6
+Added Net: Name=NetR375_1
+Added Pin To Net: NetName=NetR376_1 Pin=U11-T5
+Added Net: Name=NetR376_1
+Added Pin To Net: NetName=NetR377_1 Pin=U11-R5
+Added Net: Name=NetR377_1
+Added Pin To Net: NetName=NetR378_1 Pin=U11-M6
+Added Net: Name=NetR378_1
+Added Pin To Net: NetName=NetR379_1 Pin=U11-P9
+Added Net: Name=NetR379_1
+Added Pin To Net: NetName=NetR380_1 Pin=U11-R11
+Added Net: Name=NetR380_1
+Added Pin To Net: NetName=NetR385_1 Pin=U17-2
+Added Net: Name=NetR385_1
+Add Class Member: Failed to add class member : Component C256 0.1uF/10V
+Add Class Member: Failed to add class member : Component C257 0.1uF/10V
+Added Member To Class: ClassName=FPGA_BANK Member=Component D11 _LED_BLUE
+Added Member To Class: ClassName=FPGA_BANK Member=Component D12 _LED_BLUE
+Added Member To Class: ClassName=FPGA_BANK Member=Component JP10
+Added Member To Class: ClassName=FPGA_BANK Member=Component JP11
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R370 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R371 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R372 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R373 22R
+Add Class Member: Failed to add class member : Component R374 22R
+Add Class Member: Failed to add class member : Component R375 22R
+Add Class Member: Failed to add class member : Component R376 22R
+Add Class Member: Failed to add class member : Component R377 22R
+Add Class Member: Failed to add class member : Component R378 22R
+Add Class Member: Failed to add class member : Component R379 22R
+Add Class Member: Failed to add class member : Component R380 22R
+Add Class Member: Failed to add class member : Component R381 1k
+Add Class Member: Failed to add class member : Component R382 1k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R383 100R
+Add Class Member: Failed to add class member : Component R384 22R
+Add Class Member: Failed to add class member : Component R385 22R

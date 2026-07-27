@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SD2_DATA0 Pin=U7-4
+Removed Pin From Net: NetName=SD2_DATA1 Pin=U7-6
+Removed Pin From Net: NetName=SD2_CMD Pin=U8-1
+Removed Pin From Net: NetName=SD2_DATA2 Pin=U8-4
+Removed Pin From Net: NetName=SD2_DATA3 Pin=U8-6
+Change Component Footprint: Designator=U7 Old Footprint=DIODE_SOT457_1P7X3P1_NEX New Footprint=SOT95P280X145-6N
+Change Component Footprint: Designator=U8 Old Footprint=DIODE_SOT457_1P7X3P1_NEX New Footprint=SOT95P280X145-6N
+Change Component Comment : Designator=DNP/U1 Old Comment=AS3004204-0108X0PSAY New Comment=DNP/AS3004204-0108X0PSAY
+Change Component Designator: OldDesignator=DNP/U1 NewDesignator=U29
+Added Pin To Net: NetName=SD2_DATA1 Pin=U7-1
+Added Pin To Net: NetName=SD2_DATA0 Pin=U7-6
+Added Pin To Net: NetName=SD2_DATA2 Pin=U8-3
+Added Pin To Net: NetName=SD2_DATA3 Pin=U8-4
+Added Pin To Net: NetName=SD2_CMD Pin=U8-6
+Change Net Name : Old Net Name=NetDNP/U1_1 New Net Name=NetJP5_2

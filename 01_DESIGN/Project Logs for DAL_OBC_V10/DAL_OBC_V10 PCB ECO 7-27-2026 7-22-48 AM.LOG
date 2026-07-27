@@ -1,0 +1,48 @@
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R389(RES_C_1005x30_L)
+Added Component: Designator=R390(RES_C_1005x30_L)
+Added Component: Designator=R391(RES_C_1005x30_L)
+Added Component: Designator=R392(RES_C_1005x30_L)
+Added Component: Designator=R393(RES_C_1005x30_L)
+Added Component: Designator=R394(RES_C_1005x30_L)
+Added Component: Designator=R395(RES_C_1005x30_L)
+Added Component: Designator=R397(RES_C_1005x30_L)
+Added Component: Designator=R398(RES_C_1005x30_L)
+Added Component: Designator=R399(RES_C_1005x30_L)
+Added Component: Designator=R400(RES_C_1005x30_L)
+Add Pin To Net: Unknown Pin: Pin R388-1
+Add Pin To Net: Unknown Pin: Pin R388-2
+Added Pin To Net: NetName=NetR389_1 Pin=R389-1
+Added Pin To Net: NetName=FPGA_2_nOE Pin=R389-2
+Added Pin To Net: NetName=NetR390_1 Pin=R390-1
+Added Pin To Net: NetName=FPGA_2_RCLK Pin=R390-2
+Added Pin To Net: NetName=NetR391_1 Pin=R391-1
+Added Pin To Net: NetName=FPGA_2_SRCLK Pin=R391-2
+Added Pin To Net: NetName=NetR392_1 Pin=R392-1
+Added Pin To Net: NetName=FPGA_2_D0 Pin=R392-2
+Added Pin To Net: NetName=NetR393_1 Pin=R393-1
+Added Pin To Net: NetName=FPGA_2_D1 Pin=R393-2
+Added Pin To Net: NetName=NetR394_1 Pin=R394-1
+Added Pin To Net: NetName=FPGA_2_D2 Pin=R394-2
+Added Pin To Net: NetName=NetR395_1 Pin=R395-1
+Added Pin To Net: NetName=FPGA_2_D3 Pin=R395-2
+Added Pin To Net: NetName=NetR397_1 Pin=R397-1
+Added Pin To Net: NetName=FPGA_2_D4 Pin=R397-2
+Added Pin To Net: NetName=NetR398_1 Pin=R398-1
+Added Pin To Net: NetName=FPGA_2_D6 Pin=R398-2
+Added Pin To Net: NetName=NetR399_1 Pin=R399-1
+Added Pin To Net: NetName=FPGA_2_D5 Pin=R399-2
+Added Pin To Net: NetName=NetR400_1 Pin=R400-1
+Added Pin To Net: NetName=FPGA_2_D7 Pin=R400-2
+Add Class Member: Failed to add class member : Component R388 47k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R389 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R390 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R391 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R392 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R393 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R394 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R395 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R397 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R398 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R399 22R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R400 22R

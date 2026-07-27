@@ -1,0 +1,4 @@
+Added Component: Designator=R124(RES_C_1005x30_L)
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R124-1
+Added Pin To Net: NetName=FPGA_BUTTON Pin=R124-2
+Added Member To Class: ClassName=FPGA_BANK Member=Component R124 4.7k

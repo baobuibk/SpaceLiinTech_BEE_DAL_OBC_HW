@@ -1,0 +1,8 @@
+Added Component: Designator=R384(RES_C_1005x30_L)
+Added Component: Designator=R385(RES_C_1005x30_L)
+Added Pin To Net: NetName=NetR256_1 Pin=R384-1
+Added Pin To Net: NetName=CONF_CS Pin=R384-2
+Added Pin To Net: NetName=NetR385_1 Pin=R385-1
+Added Pin To Net: NetName=CONF_CLK Pin=R385-2
+Added Member To Class: ClassName=FPGA_FLASH_EEPROM Member=Component R384 22R
+Added Member To Class: ClassName=FPGA_FLASH_EEPROM Member=Component R385 22R
