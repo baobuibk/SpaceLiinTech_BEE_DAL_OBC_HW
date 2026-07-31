@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=FPGA_IO10 Pin=R364-2
+Removed Pin From Net: NetName=FPGA_IO11 Pin=R365-2
+Removed Pin From Net: NetName=NetR364_1 Pin=U11-D4
+Removed Member From Class: ClassName=FPGA_BANK Member=R365
+Added Component: Designator=R329(RES_C_1005x30_L)
+Added Pin To Net: NetName=FPGA_IO10 Pin=R329-2
+Added Pin To Net: NetName=FPGA_IO11 Pin=R364-2
+Added Pin To Net: NetName=NetR364_1 Pin=U11-C1
+Added Pin To Net: NetName=NetR329_1 Pin=R329-1
+Added Pin To Net: NetName=NetR329_1 Pin=U11-C2
+Added Net: Name=NetR329_1
+Added Member To Class: ClassName=FPGA_BANK Member=Component R329 22R

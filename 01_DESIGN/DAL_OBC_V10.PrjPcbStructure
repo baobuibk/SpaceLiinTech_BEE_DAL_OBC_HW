@@ -1,13 +1,14 @@
 Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=BUTTON_LED.SchDoc|SheetNumber=24
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CAN_PHY.SchDoc|SheetNumber=20
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=ChangeNote.SchDoc|SheetNumber=30
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=ChangeNote.SchDoc|SheetNumber=31
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_BUS.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_IN.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CoverPage.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=DEBUG_CONSOLE.SchDoc|SheetNumber=16
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=eMMC.SchDoc|SheetNumber=14
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_BANK.SchDoc|SheetNumber=28
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_CONN_OUT.SchDoc|SheetNumber=30
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_FLASH_EEPROM.SchDoc|SheetNumber=29
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_POWER.SchDoc|SheetNumber=26
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_POWER_2.SchDoc|SheetNumber=27
