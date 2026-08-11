@@ -1,7 +1,7 @@
 Record=TopLevelDocument|FileName=BlockDiagram.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=BUTTON_LED.SchDoc|SheetNumber=24
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CAN_PHY.SchDoc|SheetNumber=20
-Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=ChangeNote.SchDoc|SheetNumber=31
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=ChangeNote.SchDoc|SheetNumber=32
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_BUS.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CONNECTOR_IN.SchDoc|SheetNumber=7
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=CoverPage.SchDoc|SheetNumber=1
@@ -13,6 +13,7 @@ Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_FLASH
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_POWER.SchDoc|SheetNumber=26
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=FPGA_POWER_2.SchDoc|SheetNumber=27
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Index.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MIPI_CSI.SchDoc|SheetNumber=31
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=MOUNTING_HOLE.SchDoc|SheetNumber=25
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=Power.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=BlockDiagram.SchDoc|FileName=POWER_MANAGER.SchDoc|SheetNumber=6
