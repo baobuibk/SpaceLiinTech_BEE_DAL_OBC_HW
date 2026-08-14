@@ -1,0 +1,1296 @@
+Removed Pin From Net: NetName=+5V_SAMA7 Pin=C141-2
+Removed Pin From Net: NetName=+5V_SAMA7 Pin=C146-2
+Removed Pin From Net: NetName=USB_PWR2 Pin=C224-1
+Removed Pin From Net: NetName=GND Pin=C224-2
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=C263-2
+Removed Pin From Net: NetName=GND Pin=C264-1
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=C264-2
+Removed Pin From Net: NetName=GND Pin=C265-1
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=C265-2
+Removed Pin From Net: NetName=MPU_USBB_N Pin=D7-1
+Removed Pin From Net: NetName=MPU_USBB_P Pin=D7-3
+Removed Pin From Net: NetName=MPU_USBC_N Pin=D8-1
+Removed Pin From Net: NetName=MPU_USBC_P Pin=D8-3
+Removed Pin From Net: NetName=+5V_PC104 Pin=H2-25
+Removed Pin From Net: NetName=+5V_PC104 Pin=H2-26
+Removed Pin From Net: NetName=GND Pin=J5-5
+Removed Pin From Net: NetName=USB_CONN_LED_1 Pin=J5-6
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=USB_CONN_LED_2 Pin=J6-6
+Removed Pin From Net: NetName=USB_PWR2 Pin=Q5-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q8-3
+Removed Pin From Net: NetName=NetQ5_1 Pin=Q9-3
+Removed Pin From Net: NetName=USB_2_PWR_EN Pin=R88-1
+Removed Pin From Net: NetName=+3.3V/5V Pin=R105-2
+Removed Pin From Net: NetName=+3.3V/5V Pin=R105-2
+Removed Pin From Net: NetName=GND Pin=R175-1
+Removed Pin From Net: NetName=GND Pin=R178-1
+Removed Pin From Net: NetName=RS232_2_UART_RX Pin=R179-1
+Removed Pin From Net: NetName=PC104_RS232_2_RX Pin=R180-2
+Removed Pin From Net: NetName=GND Pin=R181-1
+Removed Pin From Net: NetName=RS232_2_UART_TX Pin=R182-1
+Removed Pin From Net: NetName=PC104_RS232_2_TX Pin=R183-2
+Removed Pin From Net: NetName=GND Pin=R184-1
+Removed Pin From Net: NetName=PC104_SPI_IQR1 Pin=R273-1
+Removed Pin From Net: NetName=PC104_SPI_IQR2 Pin=R274-1
+Removed Pin From Net: NetName=PC104_I2C_IQR1 Pin=R275-1
+Removed Pin From Net: NetName=NetQ2_3 Pin=R292-1
+Removed Pin From Net: NetName=USB_CONN_LED_1 Pin=R292-2
+Removed Pin From Net: NetName=NetQ2_1 Pin=R293-1
+Removed Pin From Net: NetName=USB_PWR1 Pin=R293-2
+Removed Pin From Net: NetName=NetQ8_1 Pin=R294-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R294-2
+Removed Pin From Net: NetName=USB_PWR2 Pin=R295-1
+Removed Pin From Net: NetName=NetQ5_1 Pin=R295-2
+Removed Pin From Net: NetName=MPU_USB_LED_1 Pin=R296-1
+Removed Pin From Net: NetName=NetQ8_1 Pin=R296-2
+Removed Pin From Net: NetName=NetQ5_3 Pin=R297-1
+Removed Pin From Net: NetName=USB_CONN_LED_2 Pin=R297-2
+Removed Pin From Net: NetName=MPU_USB_LED_2 Pin=R387-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R387-2
+Removed Pin From Net: NetName=GND Pin=R388-1
+Removed Pin From Net: NetName=NetQ9_1 Pin=R388-2
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=R410-1
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=R411-1
+Removed Pin From Net: NetName=GND Pin=R412-1
+Removed Pin From Net: NetName=NetC142_1 Pin=U9-1
+Removed Pin From Net: NetName=NetC145_2 Pin=U9-2
+Removed Pin From Net: NetName=NetC142_2 Pin=U9-3
+Removed Pin From Net: NetName=NetC143_1 Pin=U9-4
+Removed Pin From Net: NetName=NetC143_2 Pin=U9-5
+Removed Pin From Net: NetName=NetC144_2 Pin=U9-6
+Removed Pin From Net: NetName=NetR176_2 Pin=U9-11
+Removed Pin From Net: NetName=NetR146_2 Pin=U9-12
+Removed Pin From Net: NetName=NetR174_1 Pin=U9-13
+Removed Pin From Net: NetName=NetR177_1 Pin=U9-14
+Removed Pin From Net: NetName=GND Pin=U9-15
+Removed Pin From Net: NetName=+5V_SAMA7 Pin=U9-16
+Removed Pin From Net: NetName=GND Pin=U10-15
+Removed Pin From Net: NetName=+5V_SAMA7 Pin=U10-16
+Removed Pin From Net: NetName=FPGA_RCLK Pin=U26-3
+Removed Pin From Net: NetName=FPGA_SRCLK Pin=U26-4
+Removed Pin From Net: NetName=FPGA_D0 Pin=U26-5
+Removed Pin From Net: NetName=FPGA_D1 Pin=U26-6
+Removed Pin From Net: NetName=FPGA_D2 Pin=U26-7
+Removed Pin From Net: NetName=FPGA_D3 Pin=U26-8
+Removed Pin From Net: NetName=FPGA_D4 Pin=U26-9
+Removed Pin From Net: NetName=FPGA_D5 Pin=U26-10
+Removed Pin From Net: NetName=FPGA_D6 Pin=U27-3
+Removed Pin From Net: NetName=FPGA_D7 Pin=U27-4
+Removed Pin From Net: NetName=GND Pin=U27-7
+Removed Pin From Net: NetName=GND Pin=U27-8
+Removed Pin From Net: NetName=FPGA_2_RCLK Pin=U31-3
+Removed Pin From Net: NetName=FPGA_2_SRCLK Pin=U31-4
+Removed Pin From Net: NetName=FPGA_2_D0 Pin=U31-5
+Removed Pin From Net: NetName=FPGA_2_D1 Pin=U31-6
+Removed Pin From Net: NetName=FPGA_2_D2 Pin=U31-7
+Removed Pin From Net: NetName=FPGA_2_D3 Pin=U31-8
+Removed Pin From Net: NetName=FPGA_2_D4 Pin=U31-9
+Removed Pin From Net: NetName=FPGA_2_D5 Pin=U31-10
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=U32-1
+Removed Pin From Net: NetName=FPGA_2_D6 Pin=U32-3
+Removed Pin From Net: NetName=FPGA_2_D7 Pin=U32-4
+Removed Pin From Net: NetName=GND Pin=U32-5
+Removed Pin From Net: NetName=GND Pin=U32-6
+Removed Pin From Net: NetName=GND Pin=U32-7
+Removed Pin From Net: NetName=GND Pin=U32-8
+Removed Pin From Net: NetName=GND Pin=U32-9
+Removed Pin From Net: NetName=GND Pin=U32-10
+Removed Pin From Net: NetName=NetR412_2 Pin=U32-11
+Removed Pin From Net: NetName=GND Pin=U32-12
+Removed Pin From Net: NetName=GND Pin=U32-13
+Removed Pin From Net: NetName=NetJ12_11 Pin=U32-20
+Removed Pin From Net: NetName=NetJ12_10 Pin=U32-21
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=U32-23
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=U32-24
+Removed Member From Class: ClassName=RS232 Member=C146
+Removed Member From Class: ClassName=RS232 Member=C147
+Removed Member From Class: ClassName=RS232 Member=C148
+Removed Member From Class: ClassName=RS232 Member=C149
+Removed Member From Class: ClassName=RS232 Member=C150
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=C263
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=C264
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=C265
+Removed Member From Class: ClassName=RS232 Member=R175
+Removed Member From Class: ClassName=RS232 Member=R178
+Removed Member From Class: ClassName=RS232 Member=R179
+Removed Member From Class: ClassName=RS232 Member=R180
+Removed Member From Class: ClassName=RS232 Member=R181
+Removed Member From Class: ClassName=RS232 Member=R182
+Removed Member From Class: ClassName=RS232 Member=R183
+Removed Member From Class: ClassName=RS232 Member=R184
+Removed Member From Class: ClassName=USB_CAMERA Member=R292
+Removed Member From Class: ClassName=USB_CAMERA Member=R293
+Removed Member From Class: ClassName=USB_CAMERA Member=R294
+Removed Member From Class: ClassName=USB_CAMERA Member=R295
+Removed Member From Class: ClassName=USB_CAMERA Member=R296
+Removed Member From Class: ClassName=USB_CAMERA Member=R297
+Removed Member From Class: ClassName=USB_CAMERA Member=R387
+Removed Member From Class: ClassName=USB_CAMERA Member=R388
+Removed Member From Class: ClassName=FPGA_BANK Member=R389
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=R410
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=R411
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=R412
+Removed Member From Class: ClassName=RS232 Member=U9
+Removed Member From Class: ClassName=RS232 Member=U10
+Removed Member From Class: ClassName=FPGA_CONN_OUT Member=U32
+Change Component Footprint: Designator=C146 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=C147 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=C263 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=C264 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=C265 Old Footprint=CAP_C_1005X50_L New Footprint=CAP_C_1005X60
+Change Component Footprint: Designator=R388 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R410 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R411 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R412 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=U9 Old Footprint=SOIC127P1032X265-16N New Footprint=IC_BME688
+Change Component Footprint: Designator=U10 Old Footprint=SOIC127P1032X265-16N New Footprint=SOIC127P602X173-8N
+Change Component Footprint: Designator=U32 Old Footprint=SOP65P640X120-24N New Footprint=QFN50P300X300X80-17N
+Change Component Comment : Designator=C263 Old Comment=0.1uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=C264 Old Comment=0.1uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=C265 Old Comment=0.1uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=R293 Old Comment=1k New Comment=22R
+Change Component Comment : Designator=C146 Old Comment=1uF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=C147 Old Comment=1uF/20V New Comment=0.1uF/10V
+Change Component Comment : Designator=C148 Old Comment=1uF/20V New Comment=0.1uF/10V
+Change Component Comment : Designator=C149 Old Comment=1uF/20V New Comment=0.1uF/10V
+Change Component Comment : Designator=C150 Old Comment=1uF/20V New Comment=0.1uF/10V
+Change Component Comment : Designator=C224 Old Comment=4.7uF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=R175 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R178 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R181 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R184 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R294 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R295 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R296 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R387 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R411 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R412 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R410 Old Comment=10k New Comment=DNP/4.7k
+Change Component Comment : Designator=R388 Old Comment=47k New Comment=4.7k
+Change Component Comment : Designator=R292 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R297 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=Q5 Old Comment=DMG302PU-7 New Comment=DMG301NU-7
+Change Component Comment : Designator=U9 Old Comment=MAX3232IDWR New Comment=BME688
+Change Component Comment : Designator=U10 Old Comment=MAX3232IDWR New Comment=MIC2026-1YM
+Change Component Comment : Designator=Q8 Old Comment=MMBT2222A New Comment=DMG301NU-7
+Change Component Comment : Designator=Q9 Old Comment=MMBT2222A New Comment=DMG301NU-7
+Change Component Comment : Designator=U32 Old Comment=SN74AXCH8T245PWR New Comment=FSUSB74MPX
+Change component parameters: Designator = "U10" ("U10"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\FTWDGQRZ" ("\FTWDGQRZ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MIC2026-1YM/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MIC2026-1YM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC2026-1YM/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q8" ("Q8"); Footprint = "SOT95P240X120-3N"; UniqueID = "\SPCUVESL" ("\SPCUVESL")
+Change component parameters: Designator = "Q9" ("Q9"); Footprint = "SOT95P240X120-3N"; UniqueID = "\AOEOSDAY" ("\AOEOSDAY")
+Change component parameters: Designator = "U9" ("U9"); Footprint = "SOIC127P1032X265-16N"; UniqueID = "\ZVAQOOOA" ("\ZVAQOOOA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BME688"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U32" ("U32"); Footprint = "SOP65P640X120-24N"; UniqueID = "\FFMYHDAS" ("\FFMYHDAS")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/FSUSB74MPX/Onsemi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FSUSB74MPX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "WQFN-16 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FSUSB74MPX/Onsemi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C266(CAP_C_1005X60)
+Added Component: Designator=C267(CAP_C_3225X80)
+Added Component: Designator=C268(CAP_C_3225X80)
+Added Component: Designator=C269(CAP_C_3225X80)
+Added Component: Designator=C270(CAP_C_1005X50_L)
+Added Component: Designator=C271(CAP_C_1005X50_L)
+Added Component: Designator=C272(CAP_C_1005X50_L)
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Added Component: Designator=C279(CAP_C_1005X60)
+Added Component: Designator=C280(CAP_C_1005X60)
+Added Component: Designator=C281(CAP_C_1005X60)
+Added Component: Designator=C282(CAP_C_1005X60)
+Added Component: Designator=C283(CAP_C_1005X60)
+Added Component: Designator=C284(CAP_C_1005X60)
+Added Component: Designator=C285(CAP_C_1005X60)
+Added Component: Designator=C286(CAP_C_1005X60)
+Added Component: Designator=C287(CAP_C_1005X60)
+Added Component: Designator=C288(CAP_C_1005X60)
+Added Component: Designator=C289(CAP_C_1005X60)
+Added Component: Designator=C290(CAP_C_1005X60)
+Added Component: Designator=C291(CAP_C_1005X60)
+Added Component: Designator=C292(CAP_C_1005X60)
+Added Component: Designator=C293(CAP_C_1005X60)
+Added Component: Designator=C294(CAP_C_1005X60)
+Added Component: Designator=C295(CAP_C_1005X60)
+Added Component: Designator=D13(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D15(DO-214AC_SMA)
+Added Component: Designator=D17(LED_0603)
+Add component: Footprint Not Found DO-214AC_SMA
+Added Component: Designator=J14(MOLEX_0532610671)
+Added Component: Designator=J15(MOLEX_0532610671)
+Added Component: Designator=J16(MOLEX_0532611171)
+Added Component: Designator=J17(MOLEX_0532611171)
+Added Component: Designator=J18(MOLEX_5040500891)
+Added Component: Designator=JP12(JUMPER_1608)
+Added Component: Designator=R365(RES_C_1005x30_L)
+Added Component: Designator=R413(RES_C_1005X40)
+Added Component: Designator=R414(RES_C_1005x30_L)
+Added Component: Designator=R415(RES_C_1005x30_L)
+Added Component: Designator=R416(RES_C_1005x30_L)
+Added Component: Designator=R417(RES_C_1005x30_L)
+Added Component: Designator=R418(RES_C_1005x30_L)
+Added Component: Designator=R419(RES_C_1005x30_L)
+Added Component: Designator=R420(RES_C_1005x30_L)
+Added Component: Designator=R421(RES_C_1005X40)
+Added Component: Designator=R422(RES_C_1005x30_L)
+Added Component: Designator=R423(RES_C_1005x30_L)
+Added Component: Designator=R424(RES_C_1005x30_L)
+Added Component: Designator=R425(RES_C_1005X40)
+Added Component: Designator=R426(RES_C_1005X40)
+Added Component: Designator=R427(RES_C_1005x30_L)
+Added Component: Designator=R428(RES_C_1005x30_L)
+Added Component: Designator=R429(RES_C_1005x30_L)
+Added Component: Designator=R430(RES_C_1005x30_L)
+Added Component: Designator=R431(RES_C_1005x30_L)
+Added Component: Designator=R432(RES_C_1005x30_L)
+Added Component: Designator=R433(RES_C_1005x30_L)
+Added Component: Designator=R434(RES_C_1005x30_L)
+Added Component: Designator=R435(RES_C_1005x30_L)
+Added Component: Designator=R436(RES_C_1005x30_L)
+Added Component: Designator=R437(RES_C_1005x30_L)
+Added Component: Designator=R438(RES_C_1005x30_L)
+Added Component: Designator=R439(RES_C_1005x30_L)
+Added Component: Designator=R440(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R443(RES_C_1005x30_L)
+Added Component: Designator=R444(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R447(RES_C_1005x30_L)
+Added Component: Designator=R448(RES_C_1005x30_L)
+Added Component: Designator=R449(RES_C_1005x30_L)
+Added Component: Designator=R450(RES_C_1005x30_L)
+Added Component: Designator=R451(RES_C_1005X40)
+Added Component: Designator=R452(RES_C_1005X40)
+Added Component: Designator=R453(RES_C_1005X40)
+Added Component: Designator=R454(RES_C_1005X40)
+Added Component: Designator=R455(RES_C_1005X40)
+Added Component: Designator=R456(RES_C_1005X40)
+Added Component: Designator=R457(RES_C_1005X40)
+Added Component: Designator=R458(RES_C_1005X40)
+Added Component: Designator=R459(RES_C_1608X60)
+Added Component: Designator=R460(RES_C_1608X60)
+Added Component: Designator=R461(RES_C_1608X60)
+Added Component: Designator=R462(RES_C_1608X60)
+Added Component: Designator=R463(RES_C_1005X40)
+Added Component: Designator=R464(RES_C_1005X40)
+Added Component: Designator=R465(RES_C_1005X40)
+Added Component: Designator=R466(RES_C_1005X40)
+Added Component: Designator=R467(RES_C_1005X40)
+Added Component: Designator=R468(RES_C_1005X40)
+Added Component: Designator=R469(RES_C_1608X60)
+Added Component: Designator=R470(RES_C_1608X60)
+Added Component: Designator=R471(RES_C_1608X60)
+Added Component: Designator=R472(RES_C_1608X60)
+Added Component: Designator=R473(RES_C_1005X40)
+Added Component: Designator=R474(RES_C_1005X40)
+Added Component: Designator=R475(RES_C_1005X40)
+Added Component: Designator=R476(RES_C_1005X40)
+Added Component: Designator=R477(RES_C_1005X40)
+Added Component: Designator=R478(RES_C_1005X40)
+Added Component: Designator=R479(RES_C_1005X40)
+Added Component: Designator=R480(RES_C_1005X40)
+Added Component: Designator=R481(RES_C_1005X40)
+Added Component: Designator=R482(RES_C_1005X40)
+Added Component: Designator=R483(RES_C_1005X40)
+Added Component: Designator=R484(RES_C_1005X40)
+Added Component: Designator=R485(RES_C_1005X40)
+Added Component: Designator=R486(RES_C_1005X40)
+Added Component: Designator=R487(RES_C_1005X40)
+Added Component: Designator=R488(RES_C_1005X40)
+Added Component: Designator=R489(RES_C_1005X40)
+Added Component: Designator=R490(RES_C_1005X40)
+Added Component: Designator=R491(RES_C_1005X40)
+Added Component: Designator=R492(RES_C_1005X40)
+Added Component: Designator=R493(RES_C_1005X40)
+Added Component: Designator=R494(RES_C_1005X40)
+Added Component: Designator=R495(RES_C_1005X40)
+Added Component: Designator=R496(RES_C_1005X40)
+Added Component: Designator=R497(RES_C_1005X40)
+Added Component: Designator=R498(RES_C_1005X40)
+Added Component: Designator=R499(RES_C_1005X40)
+Added Component: Designator=R500(RES_C_1005X40)
+Added Component: Designator=SB4(JUMPER_1608)
+Added Component: Designator=U33(VQFN-HR-10)
+Add component: Footprint Not Found VQFN-HR-10
+Added Component: Designator=U35(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX3232CSE+T/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX3232CSE+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX3232CSE+T/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U36(PD-2190_DIO)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PI2MEQX2503XEAEX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Interface"; VariantName = "[No Variations]"
+Added Component: Designator=U37(PI3WVR626XEBEX_DIO)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U38(TSOP8)
+Added Component: Designator=U39(TSOP8)
+Added Component: Designator=U40(SOIC127P602X173-8N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MIC2026-1YM/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MIC2026-1YM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC2026-1YM/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U41(SOIC127P602X173-8N)
+Added Component: Designator=U42(SOIC127P602X173-8N)
+Added Pin To Net: NetName=+3.3V Pin=C141-2
+Added Pin To Net: NetName=+3.3V Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=+3.3V Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=+3.3V/5V Pin=C150-2
+Added Pin To Net: NetName=+3.3V/5V Pin=C220-2
+Added Pin To Net: NetName=GND Pin=C224-1
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=C224-2
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=C263-2
+Added Pin To Net: NetName=USB_PWR2 Pin=C264-1
+Added Pin To Net: NetName=GND Pin=C264-2
+Added Pin To Net: NetName=GND Pin=C265-2
+Added Pin To Net: NetName=GND Pin=C266-2
+Added Pin To Net: NetName=GND Pin=C267-1
+Added Pin To Net: NetName=+5V_PC104 Pin=C267-2
+Added Pin To Net: NetName=GND Pin=C268-1
+Added Pin To Net: NetName=+5V_PC104 Pin=C268-2
+Added Pin To Net: NetName=GND Pin=C269-1
+Added Pin To Net: NetName=GND Pin=C270-1
+Added Pin To Net: NetName=GND Pin=C271-1
+Added Pin To Net: NetName=GND Pin=C272-1
+Add Pin To Net: Unknown Pin: Pin C273-1
+Add Pin To Net: Unknown Pin: Pin C274-1
+Add Pin To Net: Unknown Pin: Pin C275-1
+Add Pin To Net: Unknown Pin: Pin C275-2
+Add Pin To Net: Unknown Pin: Pin C276-1
+Add Pin To Net: Unknown Pin: Pin C276-2
+Add Pin To Net: Unknown Pin: Pin C277-1
+Add Pin To Net: Unknown Pin: Pin C278-1
+Added Pin To Net: NetName=GND Pin=C279-1
+Added Pin To Net: NetName=GND Pin=C280-1
+Added Pin To Net: NetName=GND Pin=C281-1
+Added Pin To Net: NetName=GND Pin=C282-1
+Added Pin To Net: NetName=GND Pin=C283-1
+Added Pin To Net: NetName=+3.3V Pin=C283-2
+Added Pin To Net: NetName=GND Pin=C284-1
+Added Pin To Net: NetName=+3.3V Pin=C284-2
+Added Pin To Net: NetName=GND Pin=C285-1
+Added Pin To Net: NetName=GND Pin=C286-1
+Added Pin To Net: NetName=+3.3V Pin=C286-2
+Added Pin To Net: NetName=GND Pin=C287-1
+Added Pin To Net: NetName=GND Pin=C288-1
+Added Pin To Net: NetName=GND Pin=C289-1
+Added Pin To Net: NetName=GND Pin=C290-1
+Added Pin To Net: NetName=GND Pin=C291-1
+Added Pin To Net: NetName=+3.3V Pin=C291-2
+Added Pin To Net: NetName=GND Pin=C292-1
+Added Pin To Net: NetName=GND Pin=C293-1
+Added Pin To Net: NetName=GND Pin=C294-1
+Added Pin To Net: NetName=GND Pin=C295-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Pin To Net: NetName=+5V_PC104 Pin=D15-1
+Added Pin To Net: NetName=GND Pin=D15-2
+Add Pin To Net: Unknown Pin: Pin D18-2
+Added Pin To Net: NetName=MPU_USBB_N Pin=H1-02
+Added Pin To Net: NetName=MPU_USBB_P Pin=H1-04
+Added Pin To Net: NetName=USB_CONN_LED_1 Pin=J5-5
+Added Pin To Net: NetName=USB_PWR1 Pin=J5-6
+Added Pin To Net: NetName=USB_CONN_LED_2 Pin=J6-5
+Added Pin To Net: NetName=USB_PWR2 Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J14-4
+Added Pin To Net: NetName=GND Pin=J14-M1
+Added Pin To Net: NetName=GND Pin=J14-M2
+Added Pin To Net: NetName=GND Pin=J15-4
+Added Pin To Net: NetName=GND Pin=J15-M1
+Added Pin To Net: NetName=GND Pin=J15-M2
+Added Pin To Net: NetName=GND Pin=J16-7
+Added Pin To Net: NetName=GND Pin=J16-10
+Added Pin To Net: NetName=GND Pin=J16-M1
+Added Pin To Net: NetName=GND Pin=J16-M2
+Added Pin To Net: NetName=GND Pin=J17-7
+Added Pin To Net: NetName=GND Pin=J17-10
+Added Pin To Net: NetName=GND Pin=J17-M1
+Added Pin To Net: NetName=GND Pin=J17-M2
+Added Pin To Net: NetName=+3.3V Pin=J18-1
+Added Pin To Net: NetName=+3.3V Pin=J18-3
+Added Pin To Net: NetName=+3.3V Pin=J18-5
+Added Pin To Net: NetName=+3.3V Pin=J18-7
+Added Pin To Net: NetName=GND Pin=J18-M1
+Added Pin To Net: NetName=GND Pin=J18-M2
+Added Pin To Net: NetName=+3.3V/5V Pin=JP7-1
+Added Pin To Net: NetName=+5V_PC104 Pin=JP12-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=_PE6 Pin=R175-2
+Added Pin To Net: NetName=_PE7 Pin=R178-2
+Added Pin To Net: NetName=USB_2_PWR_EN Pin=R180-1
+Added Pin To Net: NetName=_PB16 Pin=R181-2
+Added Pin To Net: NetName=_PB17 Pin=R182-2
+Added Pin To Net: NetName=PC104_I2C_IQR1 Pin=R297-1
+Added Pin To Net: NetName=PC104_SPI_IQR1 Pin=R365-1
+Added Pin To Net: NetName=_PC7 Pin=R365-2
+Added Pin To Net: NetName=PC104_SPI_IQR2 Pin=R387-1
+Added Pin To Net: NetName=_PC11 Pin=R387-2
+Added Pin To Net: NetName=+3.3V Pin=R388-1
+Added Pin To Net: NetName=FPGA_nOE Pin=R405-2
+Added Pin To Net: NetName=+3.3V Pin=R410-1
+Added Pin To Net: NetName=SAM_RTC_I2C_SDA Pin=R411-2
+Added Pin To Net: NetName=SAM_RTC_I2C_SCL Pin=R412-1
+Added Pin To Net: NetName=GND Pin=R413-2
+Added Pin To Net: NetName=+3.3V/5V Pin=R414-2
+Added Pin To Net: NetName=+3.3V/5V Pin=R415-2
+Added Pin To Net: NetName=GND Pin=R416-2
+Added Pin To Net: NetName=GND Pin=R417-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R418-1
+Added Pin To Net: NetName=USB_CONN_LED_1 Pin=R418-2
+Added Pin To Net: NetName=MPU_USB_LED_1 Pin=R419-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R419-2
+Added Pin To Net: NetName=GND Pin=R420-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R420-2
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R421-1
+Added Pin To Net: NetName=NetQ5_3 Pin=R422-1
+Added Pin To Net: NetName=USB_CONN_LED_2 Pin=R422-2
+Added Pin To Net: NetName=MPU_USB_LED_2 Pin=R423-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R423-2
+Added Pin To Net: NetName=GND Pin=R424-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R424-2
+Added Pin To Net: NetName=GND Pin=R425-2
+Added Pin To Net: NetName=GND Pin=R426-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R428-2
+Added Pin To Net: NetName=GND Pin=R429-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R429-2
+Added Pin To Net: NetName=NetQ9_1 Pin=R431-2
+Added Pin To Net: NetName=GND Pin=R432-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R432-2
+Added Pin To Net: NetName=+5V_PC104 Pin=R434-2
+Added Pin To Net: NetName=+5V_PC104 Pin=R435-2
+Added Pin To Net: NetName=GND Pin=R437-1
+Added Pin To Net: NetName=GND Pin=R438-1
+Added Pin To Net: NetName=+5V_SAMA7 Pin=R439-1
+Added Pin To Net: NetName=+5V_PC104 Pin=R440-2
+Added Pin To Net: NetName=GND Pin=R443-2
+Added Pin To Net: NetName=GND Pin=R444-1
+Add Pin To Net: Unknown Pin: Pin R445-1
+Add Pin To Net: Unknown Pin: Pin R446-1
+Added Pin To Net: NetName=RS232_2_UART_RX Pin=R447-1
+Added Pin To Net: NetName=PC104_RS232_2_RX Pin=R448-2
+Added Pin To Net: NetName=RS232_2_UART_TX Pin=R449-1
+Added Pin To Net: NetName=PC104_RS232_2_TX Pin=R450-2
+Added Pin To Net: NetName=GND Pin=R464-1
+Added Pin To Net: NetName=GND Pin=R469-2
+Added Pin To Net: NetName=GND Pin=R470-2
+Added Pin To Net: NetName=GND Pin=R471-2
+Added Pin To Net: NetName=GND Pin=R472-2
+Added Pin To Net: NetName=+3.3V Pin=R473-1
+Added Pin To Net: NetName=+3.3V Pin=R474-1
+Added Pin To Net: NetName=+3.3V Pin=R475-1
+Added Pin To Net: NetName=+3.3V Pin=R476-1
+Added Pin To Net: NetName=GND Pin=R479-2
+Added Pin To Net: NetName=+3.3V Pin=R480-1
+Added Pin To Net: NetName=+3.3V Pin=R481-1
+Added Pin To Net: NetName=GND Pin=R484-2
+Added Pin To Net: NetName=GND Pin=R487-2
+Added Pin To Net: NetName=GND Pin=R488-2
+Added Pin To Net: NetName=GND Pin=R491-1
+Added Pin To Net: NetName=GND Pin=R494-1
+Added Pin To Net: NetName=GND Pin=R497-1
+Added Pin To Net: NetName=GND Pin=R500-1
+Added Pin To Net: NetName=+5V_PC104 Pin=SB4-1
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetR412_2 Pin=U9-4
+Added Pin To Net: NetName=+3.3V Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-7
+Added Pin To Net: NetName=+3.3V Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Pin To Net: NetName=+3.3V/5V Pin=U10-7
+Added Pin To Net: NetName=FPGA_D7 Pin=U26-3
+Added Pin To Net: NetName=FPGA_D6 Pin=U26-4
+Added Pin To Net: NetName=FPGA_D5 Pin=U26-5
+Added Pin To Net: NetName=FPGA_D4 Pin=U26-6
+Added Pin To Net: NetName=FPGA_RCLK Pin=U26-7
+Added Pin To Net: NetName=FPGA_SRCLK Pin=U26-8
+Added Pin To Net: NetName=FPGA_D3 Pin=U26-9
+Added Pin To Net: NetName=FPGA_D2 Pin=U26-10
+Added Pin To Net: NetName=FPGA_D1 Pin=U27-3
+Added Pin To Net: NetName=FPGA_D0 Pin=U27-4
+Added Pin To Net: NetName=FPGA_2_D1 Pin=U27-7
+Added Pin To Net: NetName=FPGA_2_D0 Pin=U27-8
+Added Pin To Net: NetName=NetJ12_11 Pin=U27-16
+Added Pin To Net: NetName=NetJ12_10 Pin=U27-17
+Added Pin To Net: NetName=FPGA_2_D7 Pin=U31-3
+Added Pin To Net: NetName=FPGA_2_D6 Pin=U31-4
+Added Pin To Net: NetName=FPGA_2_D5 Pin=U31-5
+Added Pin To Net: NetName=FPGA_2_D4 Pin=U31-6
+Added Pin To Net: NetName=FPGA_2_RCLK Pin=U31-7
+Added Pin To Net: NetName=FPGA_2_SRCLK Pin=U31-8
+Added Pin To Net: NetName=FPGA_2_D3 Pin=U31-9
+Added Pin To Net: NetName=FPGA_2_D2 Pin=U31-10
+Added Pin To Net: NetName=FPGA_nOE Pin=U31-22
+Added Pin To Net: NetName=GND Pin=U32-1
+Added Pin To Net: NetName=MPU_USBC_P Pin=U32-2
+Added Pin To Net: NetName=MPU_USBC_N Pin=U32-3
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=U32-4
+Added Pin To Net: NetName=GND Pin=U32-17
+Added Pin To Net: NetName=+5V_PC104 Pin=U33-6
+Added Pin To Net: NetName=GND Pin=U33-8
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-8
+Added Pin To Net: NetName=NetC142_1 Pin=U35-1
+Added Pin To Net: NetName=NetC145_2 Pin=U35-2
+Added Pin To Net: NetName=NetC142_2 Pin=U35-3
+Added Pin To Net: NetName=NetC143_1 Pin=U35-4
+Added Pin To Net: NetName=NetC143_2 Pin=U35-5
+Added Pin To Net: NetName=NetC144_2 Pin=U35-6
+Added Pin To Net: NetName=NetR176_2 Pin=U35-11
+Added Pin To Net: NetName=NetR146_2 Pin=U35-12
+Added Pin To Net: NetName=NetR174_1 Pin=U35-13
+Added Pin To Net: NetName=NetR177_1 Pin=U35-14
+Added Pin To Net: NetName=GND Pin=U35-15
+Added Pin To Net: NetName=+3.3V Pin=U35-16
+Added Pin To Net: NetName=GND Pin=U36-4
+Added Pin To Net: NetName=GND Pin=U36-7
+Added Pin To Net: NetName=GND Pin=U36-16
+Added Pin To Net: NetName=GND Pin=U36-19
+Added Pin To Net: NetName=GND Pin=U36-25
+Added Pin To Net: NetName=GND Pin=U37-5
+Added Pin To Net: NetName=GND Pin=U37-9
+Added Pin To Net: NetName=GND Pin=U37-21
+Added Pin To Net: NetName=GND Pin=U37-24
+Added Pin To Net: NetName=GND Pin=U37-25
+Added Pin To Net: NetName=+3.3V Pin=U38-1
+Added Pin To Net: NetName=GND Pin=U38-4
+Added Pin To Net: NetName=+3.3V Pin=U38-8
+Added Pin To Net: NetName=+3.3V Pin=U39-1
+Added Pin To Net: NetName=GND Pin=U39-4
+Added Pin To Net: NetName=+3.3V Pin=U39-8
+Added Pin To Net: NetName=GND Pin=U40-6
+Added Pin To Net: NetName=GND Pin=U41-4
+Added Pin To Net: NetName=+3.3V Pin=U41-8
+Added Pin To Net: NetName=GND Pin=U42-4
+Added Pin To Net: NetName=+3.3V Pin=U42-8
+Change Net Name : Old Net Name=+5V_PC104 New Net Name=+5V_MASTER
+Change Net Name : Old Net Name=SENSE_3.3V/5V_N New Net Name=SENSE_5V_AI_N
+Change Net Name : Old Net Name=SENSE_3.3V/5V_P New Net Name=SENSE_5V_AI_P
+Change Net Color : Old Net Color=RGB(51, 153, 255) New Net Color=Default
+Added Pin To Net: NetName=_PA15 Pin=R179-2
+Added Pin To Net: NetName=_PA15 Pin=U3-V15
+Added Net: Name=_PA15
+Added Pin To Net: NetName=_PA16 Pin=R180-2
+Added Pin To Net: NetName=_PA16 Pin=U3-Y15
+Added Net: Name=_PA16
+Added Pin To Net: NetName=_PA23 Pin=R293-2
+Added Pin To Net: NetName=_PA23 Pin=U3-R13
+Added Net: Name=_PA23
+Added Pin To Net: NetName=_PA24 Pin=R295-2
+Added Pin To Net: NetName=_PA24 Pin=U3-Y19
+Added Net: Name=_PA24
+Added Pin To Net: NetName=_PA25 Pin=R296-2
+Added Pin To Net: NetName=_PA25 Pin=U3-U14
+Added Net: Name=_PA25
+Added Pin To Net: NetName=_PB20 Pin=R183-2
+Added Pin To Net: NetName=_PB20 Pin=U3-J21
+Added Net: Name=_PB20
+Added Pin To Net: NetName=_PB21 Pin=R184-2
+Added Pin To Net: NetName=_PB21 Pin=U3-J20
+Added Net: Name=_PB21
+Added Pin To Net: NetName=_PB22 Pin=R292-2
+Added Pin To Net: NetName=_PB22 Pin=U3-H15
+Added Net: Name=_PB22
+Added Pin To Net: NetName=_PB23 Pin=R294-2
+Added Pin To Net: NetName=_PB23 Pin=U3-F19
+Added Net: Name=_PB23
+Added Pin To Net: NetName=_PC6 Pin=R297-2
+Added Pin To Net: NetName=_PC6 Pin=U3-K8
+Added Net: Name=_PC6
+Added Pin To Net: NetName=+1.8V Pin=C281-2
+Added Pin To Net: NetName=+1.8V Pin=C282-2
+Added Pin To Net: NetName=+1.8V Pin=R459-1
+Added Pin To Net: NetName=+1.8V Pin=R460-1
+Added Pin To Net: NetName=+1.8V Pin=R461-1
+Added Pin To Net: NetName=+1.8V Pin=R462-1
+Added Pin To Net: NetName=+1.8V Pin=R468-1
+Added Pin To Net: NetName=+1.8V Pin=U36-10
+Added Pin To Net: NetName=+1.8V Pin=U37-18
+Added Net: Name=+1.8V
+Added Pin To Net: NetName=+5V_AI Pin=H2-19
+Added Pin To Net: NetName=+5V_AI Pin=H2-20
+Added Pin To Net: NetName=+5V_AI Pin=R105-2
+Added Pin To Net: NetName=+5V_AI Pin=R105-2
+Added Net: Name=+5V_AI
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=D17-2
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=R105-1
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=R105-1
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=SB4-2
+Added Net: Name=+5V_AI_eFUSE
+Added Pin To Net: NetName=+5V_MIPI_1 Pin=J16-11
+Added Pin To Net: NetName=+5V_MIPI_1 Pin=R486-1
+Added Pin To Net: NetName=+5V_MIPI_1 Pin=U40-8
+Added Net: Name=+5V_MIPI_1
+Added Pin To Net: NetName=+5V_MIPI_2 Pin=J17-11
+Added Pin To Net: NetName=+5V_MIPI_2 Pin=R485-1
+Added Pin To Net: NetName=+5V_MIPI_2 Pin=U40-5
+Added Net: Name=+5V_MIPI_2
+Added Pin To Net: NetName=+5V_PC104 Pin=C269-2
+Added Pin To Net: NetName=+5V_PC104 Pin=C270-2
+Added Pin To Net: NetName=+5V_PC104 Pin=H2-25
+Added Pin To Net: NetName=+5V_PC104 Pin=H2-26
+Added Pin To Net: NetName=+5V_PC104 Pin=JP12-1
+Added Pin To Net: NetName=+5V_PC104 Pin=R433-2
+Added Pin To Net: NetName=+5V_PC104 Pin=U33-5
+Added Net: Name=+5V_PC104
+Added Pin To Net: NetName=+VREG Pin=C279-2
+Added Pin To Net: NetName=+VREG Pin=C280-2
+Added Pin To Net: NetName=+VREG Pin=U36-11
+Added Pin To Net: NetName=+VREG Pin=U36-22
+Added Net: Name=+VREG
+Added Pin To Net: NetName=5V_SAMA7 Pin=C285-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=R485-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=R486-2
+Added Pin To Net: NetName=5V_SAMA7 Pin=U40-7
+Added Net: Name=5V_SAMA7
+Added Pin To Net: NetName=ADC_TEMP1 Pin=C288-2
+Added Pin To Net: NetName=ADC_TEMP1 Pin=R273-1
+Added Pin To Net: NetName=ADC_TEMP1 Pin=R489-2
+Added Net: Name=ADC_TEMP1
+Added Pin To Net: NetName=ADC_TEMP2 Pin=C290-2
+Added Pin To Net: NetName=ADC_TEMP2 Pin=R138-1
+Added Pin To Net: NetName=ADC_TEMP2 Pin=R492-2
+Added Net: Name=ADC_TEMP2
+Added Pin To Net: NetName=ADC_TEMP3 Pin=C293-2
+Added Pin To Net: NetName=ADC_TEMP3 Pin=R274-1
+Added Pin To Net: NetName=ADC_TEMP3 Pin=R495-2
+Added Net: Name=ADC_TEMP3
+Added Pin To Net: NetName=ADC_TEMP4 Pin=C295-2
+Added Pin To Net: NetName=ADC_TEMP4 Pin=R275-1
+Added Pin To Net: NetName=ADC_TEMP4 Pin=R498-2
+Added Net: Name=ADC_TEMP4
+Added Pin To Net: NetName=BUFFER_OUT_CK_N Pin=U36-17
+Added Pin To Net: NetName=BUFFER_OUT_CK_N Pin=U37-7
+Added Net: Name=BUFFER_OUT_CK_N
+Added Pin To Net: NetName=BUFFER_OUT_CK_P Pin=U36-18
+Added Pin To Net: NetName=BUFFER_OUT_CK_P Pin=U37-6
+Added Net: Name=BUFFER_OUT_CK_P
+Added Pin To Net: NetName=BUFFER_OUT_D0_N Pin=U36-20
+Added Pin To Net: NetName=BUFFER_OUT_D0_N Pin=U37-10
+Added Net: Name=BUFFER_OUT_D0_N
+Added Pin To Net: NetName=BUFFER_OUT_D0_P Pin=U36-21
+Added Pin To Net: NetName=BUFFER_OUT_D0_P Pin=U37-8
+Added Net: Name=BUFFER_OUT_D0_P
+Added Pin To Net: NetName=BUFFER_OUT_D1_N Pin=U36-14
+Added Pin To Net: NetName=BUFFER_OUT_D1_N Pin=U37-12
+Added Net: Name=BUFFER_OUT_D1_N
+Added Pin To Net: NetName=BUFFER_OUT_D1_P Pin=U36-15
+Added Pin To Net: NetName=BUFFER_OUT_D1_P Pin=U37-11
+Added Net: Name=BUFFER_OUT_D1_P
+Added Pin To Net: NetName=CAM1_CK_N Pin=J16-5
+Added Pin To Net: NetName=CAM1_CK_N Pin=R452-2
+Added Net: Name=CAM1_CK_N
+Added Pin To Net: NetName=CAM1_CK_P Pin=J16-6
+Added Pin To Net: NetName=CAM1_CK_P Pin=R451-2
+Added Net: Name=CAM1_CK_P
+Added Pin To Net: NetName=CAM1_D0_N Pin=J16-1
+Added Pin To Net: NetName=CAM1_D0_N Pin=R454-2
+Added Net: Name=CAM1_D0_N
+Added Pin To Net: NetName=CAM1_D0_P Pin=J16-2
+Added Pin To Net: NetName=CAM1_D0_P Pin=R453-2
+Added Net: Name=CAM1_D0_P
+Added Pin To Net: NetName=CAM1_D1_N Pin=J16-3
+Added Pin To Net: NetName=CAM1_D1_N Pin=R456-2
+Added Net: Name=CAM1_D1_N
+Added Pin To Net: NetName=CAM1_D1_P Pin=J16-4
+Added Pin To Net: NetName=CAM1_D1_P Pin=R455-2
+Added Net: Name=CAM1_D1_P
+Added Pin To Net: NetName=CAM1_I2C_SCL Pin=J16-8
+Added Pin To Net: NetName=CAM1_I2C_SCL Pin=R473-2
+Added Pin To Net: NetName=CAM1_I2C_SCL Pin=R477-2
+Added Net: Name=CAM1_I2C_SCL
+Added Pin To Net: NetName=CAM1_I2C_SDA Pin=J16-9
+Added Pin To Net: NetName=CAM1_I2C_SDA Pin=R474-2
+Added Pin To Net: NetName=CAM1_I2C_SDA Pin=R478-2
+Added Net: Name=CAM1_I2C_SDA
+Added Pin To Net: NetName=CAM2_CK_N Pin=J17-5
+Added Pin To Net: NetName=CAM2_CK_N Pin=R458-2
+Added Net: Name=CAM2_CK_N
+Added Pin To Net: NetName=CAM2_CK_P Pin=J17-6
+Added Pin To Net: NetName=CAM2_CK_P Pin=R457-2
+Added Net: Name=CAM2_CK_P
+Added Pin To Net: NetName=CAM2_D0_N Pin=J17-1
+Added Pin To Net: NetName=CAM2_D0_N Pin=R465-2
+Added Net: Name=CAM2_D0_N
+Added Pin To Net: NetName=CAM2_D0_P Pin=J17-2
+Added Pin To Net: NetName=CAM2_D0_P Pin=R463-2
+Added Net: Name=CAM2_D0_P
+Added Pin To Net: NetName=CAM2_D1_N Pin=J17-3
+Added Pin To Net: NetName=CAM2_D1_N Pin=R467-2
+Added Net: Name=CAM2_D1_N
+Added Pin To Net: NetName=CAM2_D1_P Pin=J17-4
+Added Pin To Net: NetName=CAM2_D1_P Pin=R466-2
+Added Net: Name=CAM2_D1_P
+Added Pin To Net: NetName=CAM2_I2C_SCL Pin=J17-8
+Added Pin To Net: NetName=CAM2_I2C_SCL Pin=R480-2
+Added Pin To Net: NetName=CAM2_I2C_SCL Pin=R482-2
+Added Net: Name=CAM2_I2C_SCL
+Added Pin To Net: NetName=CAM2_I2C_SDA Pin=J17-9
+Added Pin To Net: NetName=CAM2_I2C_SDA Pin=R481-2
+Added Pin To Net: NetName=CAM2_I2C_SDA Pin=R483-2
+Added Net: Name=CAM2_I2C_SDA
+Added Pin To Net: NetName=CONN_USB_1_N Pin=D7-1
+Added Pin To Net: NetName=CONN_USB_1_N Pin=U32-14
+Added Net: Name=CONN_USB_1_N
+Added Pin To Net: NetName=CONN_USB_1_P Pin=D7-3
+Added Pin To Net: NetName=CONN_USB_1_P Pin=U32-13
+Added Net: Name=CONN_USB_1_P
+Added Pin To Net: NetName=CONN_USB_2_N Pin=D8-1
+Added Pin To Net: NetName=CONN_USB_2_N Pin=U32-12
+Added Net: Name=CONN_USB_2_N
+Added Pin To Net: NetName=CONN_USB_2_P Pin=D8-3
+Added Pin To Net: NetName=CONN_USB_2_P Pin=U32-11
+Added Net: Name=CONN_USB_2_P
+Added Pin To Net: NetName=CONN_USB_3_N Pin=D13-1
+Added Pin To Net: NetName=CONN_USB_3_N Pin=U32-9
+Added Net: Name=CONN_USB_3_N
+Added Pin To Net: NetName=CONN_USB_3_P Pin=D13-3
+Added Pin To Net: NetName=CONN_USB_3_P Pin=U32-10
+Added Net: Name=CONN_USB_3_P
+Added Pin To Net: NetName=CONN_USB_3_R_N Pin=D13-6
+Added Pin To Net: NetName=CONN_USB_3_R_N Pin=J14-3
+Added Net: Name=CONN_USB_3_R_N
+Added Pin To Net: NetName=CONN_USB_3_R_P Pin=D13-4
+Added Pin To Net: NetName=CONN_USB_3_R_P Pin=J14-2
+Added Net: Name=CONN_USB_3_R_P
+Added Pin To Net: NetName=CONN_USB_4_N Pin=D14-1
+Added Pin To Net: NetName=CONN_USB_4_N Pin=U32-7
+Added Net: Name=CONN_USB_4_N
+Added Pin To Net: NetName=CONN_USB_4_P Pin=D14-3
+Added Pin To Net: NetName=CONN_USB_4_P Pin=U32-8
+Added Net: Name=CONN_USB_4_P
+Added Pin To Net: NetName=CONN_USB_4_R_N Pin=D14-6
+Added Pin To Net: NetName=CONN_USB_4_R_N Pin=J15-3
+Added Net: Name=CONN_USB_4_R_N
+Added Pin To Net: NetName=CONN_USB_4_R_P Pin=D14-4
+Added Pin To Net: NetName=CONN_USB_4_R_P Pin=J15-2
+Added Net: Name=CONN_USB_4_R_P
+Added Pin To Net: NetName=L_CAM1_CK_N Pin=R452-1
+Added Pin To Net: NetName=L_CAM1_CK_N Pin=U37-2
+Added Net: Name=L_CAM1_CK_N
+Added Pin To Net: NetName=L_CAM1_CK_P Pin=R451-1
+Added Pin To Net: NetName=L_CAM1_CK_P Pin=U37-4
+Added Net: Name=L_CAM1_CK_P
+Added Pin To Net: NetName=L_CAM1_D0_N Pin=R454-1
+Added Pin To Net: NetName=L_CAM1_D0_N Pin=U37-20
+Added Net: Name=L_CAM1_D0_N
+Added Pin To Net: NetName=L_CAM1_D0_P Pin=R453-1
+Added Pin To Net: NetName=L_CAM1_D0_P Pin=U37-23
+Added Net: Name=L_CAM1_D0_P
+Added Pin To Net: NetName=L_CAM1_D1_N Pin=R456-1
+Added Pin To Net: NetName=L_CAM1_D1_N Pin=U37-15
+Added Net: Name=L_CAM1_D1_N
+Added Pin To Net: NetName=L_CAM1_D1_P Pin=R455-1
+Added Pin To Net: NetName=L_CAM1_D1_P Pin=U37-17
+Added Net: Name=L_CAM1_D1_P
+Added Pin To Net: NetName=L_CAM2_CK_N Pin=R458-1
+Added Pin To Net: NetName=L_CAM2_CK_N Pin=U37-1
+Added Net: Name=L_CAM2_CK_N
+Added Pin To Net: NetName=L_CAM2_CK_P Pin=R457-1
+Added Pin To Net: NetName=L_CAM2_CK_P Pin=U37-3
+Added Net: Name=L_CAM2_CK_P
+Added Pin To Net: NetName=L_CAM2_D0_N Pin=R465-1
+Added Pin To Net: NetName=L_CAM2_D0_N Pin=U37-19
+Added Net: Name=L_CAM2_D0_N
+Added Pin To Net: NetName=L_CAM2_D0_P Pin=R463-1
+Added Pin To Net: NetName=L_CAM2_D0_P Pin=U37-22
+Added Net: Name=L_CAM2_D0_P
+Added Pin To Net: NetName=L_CAM2_D1_N Pin=R467-1
+Added Pin To Net: NetName=L_CAM2_D1_N Pin=U37-14
+Added Net: Name=L_CAM2_D1_N
+Added Pin To Net: NetName=L_CAM2_D1_P Pin=R466-1
+Added Pin To Net: NetName=L_CAM2_D1_P Pin=U37-16
+Added Net: Name=L_CAM2_D1_P
+Added Pin To Net: NetName=MIPI_1_PWR_EN Pin=R183-1
+Added Pin To Net: NetName=MIPI_1_PWR_EN Pin=R488-1
+Added Pin To Net: NetName=MIPI_1_PWR_EN Pin=U40-1
+Added Net: Name=MIPI_1_PWR_EN
+Added Pin To Net: NetName=MIPI_1_PWR_nFAIL Pin=R181-1
+Added Pin To Net: NetName=MIPI_1_PWR_nFAIL Pin=U40-2
+Added Net: Name=MIPI_1_PWR_nFAIL
+Added Pin To Net: NetName=MIPI_2_PWR_EN Pin=R184-1
+Added Pin To Net: NetName=MIPI_2_PWR_EN Pin=R487-1
+Added Pin To Net: NetName=MIPI_2_PWR_EN Pin=U40-4
+Added Net: Name=MIPI_2_PWR_EN
+Added Pin To Net: NetName=MIPI_2_PWR_nFAIL Pin=R294-1
+Added Pin To Net: NetName=MIPI_2_PWR_nFAIL Pin=U40-3
+Added Net: Name=MIPI_2_PWR_nFAIL
+Added Pin To Net: NetName=MIPI_CK_N Pin=U3-N20
+Added Pin To Net: NetName=MIPI_CK_N Pin=U36-6
+Added Net: Name=MIPI_CK_N
+Added Pin To Net: NetName=MIPI_CK_P Pin=U3-N21
+Added Pin To Net: NetName=MIPI_CK_P Pin=U36-5
+Added Net: Name=MIPI_CK_P
+Added Pin To Net: NetName=MIPI_D0_N Pin=U3-R18
+Added Pin To Net: NetName=MIPI_D0_N Pin=U36-3
+Added Net: Name=MIPI_D0_N
+Added Pin To Net: NetName=MIPI_D0_P Pin=U3-P18
+Added Pin To Net: NetName=MIPI_D0_P Pin=U36-2
+Added Net: Name=MIPI_D0_P
+Added Pin To Net: NetName=MIPI_D1_N Pin=U3-R20
+Added Pin To Net: NetName=MIPI_D1_N Pin=U36-9
+Added Net: Name=MIPI_D1_N
+Added Pin To Net: NetName=MIPI_D1_P Pin=U3-R21
+Added Pin To Net: NetName=MIPI_D1_P Pin=U36-8
+Added Net: Name=MIPI_D1_P
+Added Pin To Net: NetName=MPU_USB_LED_3 Pin=R88-1
+Added Pin To Net: NetName=MPU_USB_LED_3 Pin=R428-1
+Added Net: Name=MPU_USB_LED_3
+Added Pin To Net: NetName=MPU_USB_LED_4 Pin=R91-1
+Added Pin To Net: NetName=MPU_USB_LED_4 Pin=R431-1
+Added Net: Name=MPU_USB_LED_4
+Added Pin To Net: NetName=NetC271_2 Pin=C271-2
+Added Pin To Net: NetName=NetC271_2 Pin=U33-10
+Added Pin To Net: NetName=NetC271_2 Pin=U33-10
+Added Net: Name=NetC271_2
+Added Pin To Net: NetName=NetC272_2 Pin=C272-2
+Added Pin To Net: NetName=NetC272_2 Pin=U33-7
+Added Pin To Net: NetName=NetC272_2 Pin=U33-7
+Added Net: Name=NetC272_2
+Added Net: Name=NetC277_2
+Added Net: Name=NetC278_2
+Added Pin To Net: NetName=NetC287_2 Pin=C287-2
+Added Pin To Net: NetName=NetC287_2 Pin=R490-2
+Added Pin To Net: NetName=NetC287_2 Pin=U41-3
+Added Net: Name=NetC287_2
+Added Pin To Net: NetName=NetC289_2 Pin=C289-2
+Added Pin To Net: NetName=NetC289_2 Pin=R493-2
+Added Pin To Net: NetName=NetC289_2 Pin=U41-5
+Added Net: Name=NetC289_2
+Added Pin To Net: NetName=NetC292_2 Pin=C292-2
+Added Pin To Net: NetName=NetC292_2 Pin=R496-2
+Added Pin To Net: NetName=NetC292_2 Pin=U42-3
+Added Net: Name=NetC292_2
+Added Pin To Net: NetName=NetC294_2 Pin=C294-2
+Added Pin To Net: NetName=NetC294_2 Pin=R499-2
+Added Pin To Net: NetName=NetC294_2 Pin=U42-5
+Added Net: Name=NetC294_2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetQ8_3 Pin=Q8-3
+Added Pin To Net: NetName=NetQ8_3 Pin=R427-1
+Added Net: Name=NetQ8_3
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetQ9_3 Pin=R430-1
+Added Net: Name=NetQ9_3
+Added Pin To Net: NetName=NetR313_2 Pin=R313-2
+Added Pin To Net: NetName=NetR313_2 Pin=U30-9
+Added Net: Name=NetR313_2
+Added Pin To Net: NetName=NetR388_2 Pin=R388-2
+Added Pin To Net: NetName=NetR388_2 Pin=U9-2
+Added Net: Name=NetR388_2
+Added Pin To Net: NetName=NetR410_2 Pin=R410-2
+Added Pin To Net: NetName=NetR410_2 Pin=R413-1
+Added Pin To Net: NetName=NetR410_2 Pin=U9-5
+Added Net: Name=NetR410_2
+Added Pin To Net: NetName=NetR411_1 Pin=R411-1
+Added Pin To Net: NetName=NetR411_1 Pin=U9-3
+Added Net: Name=NetR411_1
+Added Pin To Net: NetName=NetR433_1 Pin=R433-1
+Added Pin To Net: NetName=NetR433_1 Pin=R436-2
+Added Pin To Net: NetName=NetR433_1 Pin=U33-1
+Added Pin To Net: NetName=NetR433_1 Pin=U33-1
+Added Net: Name=NetR433_1
+Added Pin To Net: NetName=NetR434_1 Pin=R434-1
+Added Pin To Net: NetName=NetR434_1 Pin=U33-3
+Added Net: Name=NetR434_1
+Added Pin To Net: NetName=NetR435_1 Pin=R435-1
+Added Pin To Net: NetName=NetR435_1 Pin=U33-4
+Added Pin To Net: NetName=NetR435_1 Pin=U33-4
+Added Net: Name=NetR435_1
+Added Pin To Net: NetName=NetR436_1 Pin=R436-1
+Added Pin To Net: NetName=NetR436_1 Pin=R437-2
+Added Pin To Net: NetName=NetR436_1 Pin=U33-2
+Added Net: Name=NetR436_1
+Added Pin To Net: NetName=NetR438_2 Pin=R438-2
+Added Pin To Net: NetName=NetR438_2 Pin=U33-9
+Added Net: Name=NetR438_2
+Added Pin To Net: NetName=NetR440_1 Pin=R440-1
+Added Pin To Net: NetName=NetR440_1 Pin=R444-2
+Added Net: Name=NetR440_1
+Added Net: Name=NetR441_1
+Added Net: Name=NetR442_1
+Added Net: Name=NetR446_2
+Added Pin To Net: NetName=NetR447_2 Pin=R447-2
+Added Pin To Net: NetName=NetR447_2 Pin=U35-9
+Added Net: Name=NetR447_2
+Added Pin To Net: NetName=NetR448_1 Pin=R448-1
+Added Pin To Net: NetName=NetR448_1 Pin=U35-8
+Added Net: Name=NetR448_1
+Added Pin To Net: NetName=NetR449_2 Pin=R449-2
+Added Pin To Net: NetName=NetR449_2 Pin=U35-10
+Added Net: Name=NetR449_2
+Added Pin To Net: NetName=NetR450_1 Pin=R450-1
+Added Pin To Net: NetName=NetR450_1 Pin=U35-7
+Added Net: Name=NetR450_1
+Added Pin To Net: NetName=NetR459_2 Pin=R459-2
+Added Pin To Net: NetName=NetR459_2 Pin=R469-1
+Added Pin To Net: NetName=NetR459_2 Pin=U36-12
+Added Net: Name=NetR459_2
+Added Pin To Net: NetName=NetR460_2 Pin=R460-2
+Added Pin To Net: NetName=NetR460_2 Pin=R470-1
+Added Pin To Net: NetName=NetR460_2 Pin=U36-13
+Added Net: Name=NetR460_2
+Added Pin To Net: NetName=NetR461_2 Pin=R461-2
+Added Pin To Net: NetName=NetR461_2 Pin=R471-1
+Added Pin To Net: NetName=NetR461_2 Pin=U36-23
+Added Net: Name=NetR461_2
+Added Pin To Net: NetName=NetR462_2 Pin=R462-2
+Added Pin To Net: NetName=NetR462_2 Pin=R472-1
+Added Pin To Net: NetName=NetR462_2 Pin=U36-24
+Added Net: Name=NetR462_2
+Added Pin To Net: NetName=NetR468_2 Pin=R468-2
+Added Pin To Net: NetName=NetR468_2 Pin=U36-1
+Added Net: Name=NetR468_2
+Added Pin To Net: NetName=NetR477_1 Pin=R477-1
+Added Pin To Net: NetName=NetR477_1 Pin=U38-7
+Added Net: Name=NetR477_1
+Added Pin To Net: NetName=NetR478_1 Pin=R478-1
+Added Pin To Net: NetName=NetR478_1 Pin=U38-6
+Added Net: Name=NetR478_1
+Added Pin To Net: NetName=NetR482_1 Pin=R482-1
+Added Pin To Net: NetName=NetR482_1 Pin=U39-7
+Added Net: Name=NetR482_1
+Added Pin To Net: NetName=NetR483_1 Pin=R483-1
+Added Pin To Net: NetName=NetR483_1 Pin=U39-6
+Added Net: Name=NetR483_1
+Added Pin To Net: NetName=NetR489_1 Pin=R489-1
+Added Pin To Net: NetName=NetR489_1 Pin=U41-1
+Added Pin To Net: NetName=NetR489_1 Pin=U41-2
+Added Net: Name=NetR489_1
+Added Pin To Net: NetName=NetR492_1 Pin=R492-1
+Added Pin To Net: NetName=NetR492_1 Pin=U41-6
+Added Pin To Net: NetName=NetR492_1 Pin=U41-7
+Added Net: Name=NetR492_1
+Added Pin To Net: NetName=NetR495_1 Pin=R495-1
+Added Pin To Net: NetName=NetR495_1 Pin=U42-1
+Added Pin To Net: NetName=NetR495_1 Pin=U42-2
+Added Net: Name=NetR495_1
+Added Pin To Net: NetName=NetR498_1 Pin=R498-1
+Added Pin To Net: NetName=NetR498_1 Pin=U42-6
+Added Pin To Net: NetName=NetR498_1 Pin=U42-7
+Added Net: Name=NetR498_1
+Added Pin To Net: NetName=NTC1- Pin=J18-2
+Added Pin To Net: NetName=NTC1- Pin=R490-1
+Added Pin To Net: NetName=NTC1- Pin=R491-2
+Added Net: Name=NTC1-
+Added Pin To Net: NetName=NTC2- Pin=J18-4
+Added Pin To Net: NetName=NTC2- Pin=R493-1
+Added Pin To Net: NetName=NTC2- Pin=R494-2
+Added Net: Name=NTC2-
+Added Pin To Net: NetName=NTC3- Pin=J18-6
+Added Pin To Net: NetName=NTC3- Pin=R496-1
+Added Pin To Net: NetName=NTC3- Pin=R497-2
+Added Net: Name=NTC3-
+Added Pin To Net: NetName=NTC4- Pin=J18-8
+Added Pin To Net: NetName=NTC4- Pin=R499-1
+Added Pin To Net: NetName=NTC4- Pin=R500-2
+Added Net: Name=NTC4-
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=R179-1
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=R439-2
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=R443-1
+Added Net: Name=POW_ONOFF_AI
+Added Pin To Net: NetName=SOM_CAM_I2C_EN1 Pin=R293-1
+Added Pin To Net: NetName=SOM_CAM_I2C_EN1 Pin=R479-1
+Added Pin To Net: NetName=SOM_CAM_I2C_EN1 Pin=U38-5
+Added Net: Name=SOM_CAM_I2C_EN1
+Added Pin To Net: NetName=SOM_CAM_I2C_EN2 Pin=R295-1
+Added Pin To Net: NetName=SOM_CAM_I2C_EN2 Pin=R484-1
+Added Pin To Net: NetName=SOM_CAM_I2C_EN2 Pin=U39-5
+Added Net: Name=SOM_CAM_I2C_EN2
+Added Pin To Net: NetName=SOM_CAM_I2C_SCL Pin=R476-2
+Added Pin To Net: NetName=SOM_CAM_I2C_SCL Pin=U38-2
+Added Pin To Net: NetName=SOM_CAM_I2C_SCL Pin=U39-2
+Added Net: Name=SOM_CAM_I2C_SCL
+Added Pin To Net: NetName=SOM_CAM_I2C_SDA Pin=R475-2
+Added Pin To Net: NetName=SOM_CAM_I2C_SDA Pin=U38-3
+Added Pin To Net: NetName=SOM_CAM_I2C_SDA Pin=U39-3
+Added Net: Name=SOM_CAM_I2C_SDA
+Added Pin To Net: NetName=SOM_CAM_MIPI_SEL Pin=R292-1
+Added Pin To Net: NetName=SOM_CAM_MIPI_SEL Pin=R464-2
+Added Pin To Net: NetName=SOM_CAM_MIPI_SEL Pin=U37-13
+Added Net: Name=SOM_CAM_MIPI_SEL
+Added Pin To Net: NetName=SOM_USB_SW_nOE Pin=R182-1
+Added Pin To Net: NetName=SOM_USB_SW_nOE Pin=R421-2
+Added Pin To Net: NetName=SOM_USB_SW_nOE Pin=U32-15
+Added Net: Name=SOM_USB_SW_nOE
+Added Pin To Net: NetName=SOM_USB_SW_SEL0 Pin=R175-1
+Added Pin To Net: NetName=SOM_USB_SW_SEL0 Pin=R426-1
+Added Pin To Net: NetName=SOM_USB_SW_SEL0 Pin=U32-6
+Added Net: Name=SOM_USB_SW_SEL0
+Added Pin To Net: NetName=SOM_USB_SW_SEL1 Pin=R178-1
+Added Pin To Net: NetName=SOM_USB_SW_SEL1 Pin=R425-1
+Added Pin To Net: NetName=SOM_USB_SW_SEL1 Pin=U32-5
+Added Net: Name=SOM_USB_SW_SEL1
+Added Pin To Net: NetName=USB_3_PWR_EN Pin=R296-1
+Added Pin To Net: NetName=USB_3_PWR_EN Pin=R417-1
+Added Pin To Net: NetName=USB_3_PWR_EN Pin=U10-1
+Added Net: Name=USB_3_PWR_EN
+Added Pin To Net: NetName=USB_4_PWR_EN Pin=R92-1
+Added Pin To Net: NetName=USB_4_PWR_EN Pin=R416-1
+Added Pin To Net: NetName=USB_4_PWR_EN Pin=U10-4
+Added Net: Name=USB_4_PWR_EN
+Added Pin To Net: NetName=USB_CONN_LED_3 Pin=J14-5
+Added Pin To Net: NetName=USB_CONN_LED_3 Pin=R427-2
+Added Net: Name=USB_CONN_LED_3
+Added Pin To Net: NetName=USB_CONN_LED_4 Pin=J15-5
+Added Pin To Net: NetName=USB_CONN_LED_4 Pin=R430-2
+Added Net: Name=USB_CONN_LED_4
+Added Pin To Net: NetName=USB_PWR3 Pin=C148-2
+Added Pin To Net: NetName=USB_PWR3 Pin=C265-1
+Added Pin To Net: NetName=USB_PWR3 Pin=D13-5
+Added Pin To Net: NetName=USB_PWR3 Pin=J14-1
+Added Pin To Net: NetName=USB_PWR3 Pin=J14-6
+Added Pin To Net: NetName=USB_PWR3 Pin=R415-1
+Added Pin To Net: NetName=USB_PWR3 Pin=U10-8
+Added Net: Name=USB_PWR3
+Added Pin To Net: NetName=USB_PWR4 Pin=C149-2
+Added Pin To Net: NetName=USB_PWR4 Pin=C266-1
+Added Pin To Net: NetName=USB_PWR4 Pin=D14-5
+Added Pin To Net: NetName=USB_PWR4 Pin=J15-1
+Added Pin To Net: NetName=USB_PWR4 Pin=J15-6
+Added Pin To Net: NetName=USB_PWR4 Pin=R414-1
+Added Pin To Net: NetName=USB_PWR4 Pin=U10-5
+Added Net: Name=USB_PWR4
+Added Class: Name=MIPI_CSI
+Added Class: Name=NTC
+Added Differential Pair: Name=BUFFER_OUT_CK
+Added Differential Pair: Name=BUFFER_OUT_D0
+Added Differential Pair: Name=BUFFER_OUT_D1
+Added Differential Pair: Name=CAM1_CK
+Added Differential Pair: Name=CAM1_D0
+Added Differential Pair: Name=CAM1_D1
+Added Differential Pair: Name=CAM2_CK
+Added Differential Pair: Name=CAM2_D0
+Added Differential Pair: Name=CAM2_D1
+Added Differential Pair: Name=CONN_USB_1
+Added Differential Pair: Name=CONN_USB_2
+Added Differential Pair: Name=CONN_USB_3
+Added Differential Pair: Name=CONN_USB_3_R
+Added Differential Pair: Name=CONN_USB_4
+Added Differential Pair: Name=CONN_USB_4_R
+Added Differential Pair: Name=L_CAM1_CK
+Added Differential Pair: Name=L_CAM1_D0
+Added Differential Pair: Name=L_CAM1_D1
+Added Differential Pair: Name=L_CAM2_CK
+Added Differential Pair: Name=L_CAM2_D0
+Added Differential Pair: Name=L_CAM2_D1
+Added Differential Pair: Name=MIPI_CK
+Added Differential Pair: Name=MIPI_D0
+Added Differential Pair: Name=MIPI_D1
+Added Differential Pair: Name=SENSE_5V_AI
+Added Member To Class: ClassName=RTC Member=Component C146 0.1uF/10V
+Added Member To Class: ClassName=RTC Member=Component C147 0.1uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C148 0.1uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C149 0.1uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C150 0.1uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C263 4.7uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C264 4.7uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C265 4.7uF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component C266 4.7uF/10V
+Added Member To Class: ClassName=Power Member=Component C267 47uF/25V
+Added Member To Class: ClassName=Power Member=Component C268 47uF/25V
+Added Member To Class: ClassName=Power Member=Component C269 47uF/25V
+Added Member To Class: ClassName=Power Member=Component C270 1uF/20V
+Added Member To Class: ClassName=Power Member=Component C271 2.2nF/10V
+Added Member To Class: ClassName=Power Member=Component C272 2.2nF/10V
+Add Class Member: Failed to add class member : Component C273 47uF/25V
+Add Class Member: Failed to add class member : Component C274 47uF/25V
+Add Class Member: Failed to add class member : Component C275 47uF/25V
+Add Class Member: Failed to add class member : Component C276 1uF/20V
+Add Class Member: Failed to add class member : Component C277 2.2nF/10V
+Add Class Member: Failed to add class member : Component C278 2.2nF/10V
+Added Member To Class: ClassName=USB_CAMERA Member=Component D13 USBLC6-2SC6
+Added Member To Class: ClassName=USB_CAMERA Member=Component D14 USBLC6-2SC6
+Added Member To Class: ClassName=Power Member=Component D15 SS54
+Added Member To Class: ClassName=Power Member=Component D17 _LED_RED
+Add Class Member: Failed to add class member : Component D18 SS54
+Added Member To Class: ClassName=USB_CAMERA Member=Component J14 0532610671
+Added Member To Class: ClassName=USB_CAMERA Member=Component J15 0532610671
+Added Member To Class: ClassName=Power Member=Component JP12 DNP/0R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R175 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R178 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R179 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R180 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R181 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R182 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R183 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R184 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R292 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R293 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R294 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R295 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R296 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R297 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R365 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R387 22R
+Added Member To Class: ClassName=RTC Member=Component R388 4.7k
+Added Member To Class: ClassName=RTC Member=Component R410 DNP/4.7k
+Added Member To Class: ClassName=RTC Member=Component R411 22R
+Added Member To Class: ClassName=RTC Member=Component R412 22R
+Added Member To Class: ClassName=RTC Member=Component R413 0R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R414 DNP/0R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R415 DNP/0R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R416 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R417 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R418 100R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R419 1k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R420 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R421 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R422 100R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R423 1k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R424 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R425 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R426 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R427 100R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R428 1k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R429 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R430 100R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R431 1k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R432 10k
+Added Member To Class: ClassName=Power Member=Component R433 ???k
+Added Member To Class: ClassName=Power Member=Component R434 47k
+Added Member To Class: ClassName=Power Member=Component R435 47k
+Added Member To Class: ClassName=Power Member=Component R436 ??k
+Added Member To Class: ClassName=Power Member=Component R437 ?k
+Added Member To Class: ClassName=Power Member=Component R438 1.6k
+Added Member To Class: ClassName=Power Member=Component R439 DNP/10k
+Added Member To Class: ClassName=Power Member=Component R440 470k
+Add Class Member: Failed to add class member : Component R441 47k
+Add Class Member: Failed to add class member : Component R442 47k
+Added Member To Class: ClassName=Power Member=Component R443 10k
+Added Member To Class: ClassName=Power Member=Component R444 133k
+Add Class Member: Failed to add class member : Component R445 3.24k
+Add Class Member: Failed to add class member : Component R446 1.6k
+Added Member To Class: ClassName=RS232 Member=Component R447 22R
+Added Member To Class: ClassName=RS232 Member=Component R448 22R
+Added Member To Class: ClassName=RS232 Member=Component R449 22R
+Added Member To Class: ClassName=RS232 Member=Component R450 22R
+Added Member To Class: ClassName=Power Member=Component SB4 JUMPER
+Added Member To Class: ClassName=RTC Member=Component U9 BME688
+Added Member To Class: ClassName=USB_CAMERA Member=Component U10 MIC2026-1YM
+Added Member To Class: ClassName=USB_CAMERA Member=Component U32 FSUSB74MPX
+Added Member To Class: ClassName=Power Member=Component U33 TPS259470ARPWR
+Add Class Member: Failed to add class member : Component U34 TPS259470ARPWR
+Added Member To Class: ClassName=RS232 Member=Component U35 SN65C3232PWR
+Added Member To Class: ClassName=POWER Member=Wire +5V_MASTER
+Added Member To Class: ClassName=POWER Member=Wire +5V_MIPI_1
+Added Member To Class: ClassName=POWER Member=Wire +5V_MIPI_2
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire BUFFER_OUT_D1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM1_D1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire CAM2_D1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM1_D1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire L_CAM2_D1_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_CK_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_CK_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_D0_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_D0_P
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_D1_N
+Added Member To Class: ClassName=DIFF100 Member=Wire MIPI_D1_P
+Added Rule: Name=Schematic Matched Net Lengths_1
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Member To Class: ClassName=DIFF100 Member=BUFFER_OUT_CK
+Added Member To Class: ClassName=DIFF100 Member=BUFFER_OUT_D0
+Added Member To Class: ClassName=DIFF100 Member=BUFFER_OUT_D1
+Added Member To Class: ClassName=DIFF100 Member=CAM1_CK
+Added Member To Class: ClassName=DIFF100 Member=CAM1_D0
+Added Member To Class: ClassName=DIFF100 Member=CAM1_D1
+Added Member To Class: ClassName=DIFF100 Member=CAM2_CK
+Added Member To Class: ClassName=DIFF100 Member=CAM2_D0
+Added Member To Class: ClassName=DIFF100 Member=CAM2_D1
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_1
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_2
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_3
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_3_R
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_4
+Added Member To Class: ClassName=DIFF90 Member=CONN_USB_4_R
+Added Member To Class: ClassName=DIFF100 Member=L_CAM1_CK
+Added Member To Class: ClassName=DIFF100 Member=L_CAM1_D0
+Added Member To Class: ClassName=DIFF100 Member=L_CAM1_D1
+Added Member To Class: ClassName=DIFF100 Member=L_CAM2_CK
+Added Member To Class: ClassName=DIFF100 Member=L_CAM2_D0
+Added Member To Class: ClassName=DIFF100 Member=L_CAM2_D1
+Added Member To Class: ClassName=DIFF100 Member=MIPI_CK
+Added Member To Class: ClassName=DIFF100 Member=MIPI_D0
+Added Member To Class: ClassName=DIFF100 Member=MIPI_D1

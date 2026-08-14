@@ -1,0 +1,20 @@
+Added Component: Designator=R445(RES_C_1005x30_L)
+Added Component: Designator=U34(VQFN-HR-10)
+Added Pin To Net: NetName=GND Pin=R445-1
+Added Pin To Net: NetName=NetD17_1 Pin=R445-2
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=U34-1
+Added Pin To Net: NetName=POW_ONOFF_AI Pin=U34-1
+Added Pin To Net: NetName=NetR440_1 Pin=U34-2
+Added Pin To Net: NetName=NetR441_1 Pin=U34-3
+Added Pin To Net: NetName=NetR442_1 Pin=U34-4
+Added Pin To Net: NetName=NetR442_1 Pin=U34-4
+Added Pin To Net: NetName=+5V_MASTER Pin=U34-5
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=U34-6
+Added Pin To Net: NetName=NetC278_2 Pin=U34-7
+Added Pin To Net: NetName=NetC278_2 Pin=U34-7
+Added Pin To Net: NetName=GND Pin=U34-8
+Added Pin To Net: NetName=NetR446_2 Pin=U34-9
+Added Pin To Net: NetName=NetC277_2 Pin=U34-10
+Added Pin To Net: NetName=NetC277_2 Pin=U34-10
+Added Member To Class: ClassName=Power Member=Component R445 3.24k
+Added Member To Class: ClassName=Power Member=Component U34 TPS259470ARPWR

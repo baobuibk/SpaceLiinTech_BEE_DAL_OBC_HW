@@ -1,0 +1,48 @@
+Added Component: Designator=C275(CAP_C_3225X80)
+Added Component: Designator=C276(CAP_C_1005X50_L)
+Added Component: Designator=C277(CAP_C_1005X50_L)
+Added Component: Designator=C278(CAP_C_1005X50_L)
+Added Component: Designator=D18(DO-214AC_SMA)
+Added Component: Designator=R441(RES_C_1005x30_L)
+Added Component: Designator=R442(RES_C_1005x30_L)
+Add component: Footprint Not Found RES_C_1005x30_L
+Added Component: Designator=R446(RES_C_1005x30_L)
+Add component: Footprint Not Found VQFN-HR-10
+Added Pin To Net: NetName=GND Pin=C275-1
+Added Pin To Net: NetName=+5V_MASTER Pin=C275-2
+Added Pin To Net: NetName=GND Pin=C276-1
+Added Pin To Net: NetName=+5V_MASTER Pin=C276-2
+Added Pin To Net: NetName=GND Pin=C277-1
+Added Pin To Net: NetName=NetC277_2 Pin=C277-2
+Added Pin To Net: NetName=GND Pin=C278-1
+Added Pin To Net: NetName=NetC278_2 Pin=C278-2
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=NetR441_1 Pin=R441-1
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=R441-2
+Added Pin To Net: NetName=NetR442_1 Pin=R442-1
+Added Pin To Net: NetName=+5V_AI_eFUSE Pin=R442-2
+Add Pin To Net: Unknown Pin: Pin R445-1
+Add Pin To Net: Unknown Pin: Pin R445-2
+Added Pin To Net: NetName=GND Pin=R446-1
+Added Pin To Net: NetName=NetR446_2 Pin=R446-2
+Add Pin To Net: Unknown Pin: Pin U34-1
+Add Pin To Net: Unknown Pin: Pin U34-2
+Add Pin To Net: Unknown Pin: Pin U34-3
+Add Pin To Net: Unknown Pin: Pin U34-4
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-6
+Add Pin To Net: Unknown Pin: Pin U34-7
+Add Pin To Net: Unknown Pin: Pin U34-8
+Add Pin To Net: Unknown Pin: Pin U34-9
+Add Pin To Net: Unknown Pin: Pin U34-10
+Added Member To Class: ClassName=Power Member=Component C275 47uF/25V
+Added Member To Class: ClassName=Power Member=Component C276 1uF/20V
+Added Member To Class: ClassName=Power Member=Component C277 2.2nF/10V
+Added Member To Class: ClassName=Power Member=Component C278 2.2nF/10V
+Added Member To Class: ClassName=Power Member=Component D18 SS54
+Added Member To Class: ClassName=Power Member=Component R441 47k
+Added Member To Class: ClassName=Power Member=Component R442 47k
+Add Class Member: Failed to add class member : Component R445 3.24k
+Added Member To Class: ClassName=Power Member=Component R446 1.6k
+Add Class Member: Failed to add class member : Component U34 TPS259470ARPWR

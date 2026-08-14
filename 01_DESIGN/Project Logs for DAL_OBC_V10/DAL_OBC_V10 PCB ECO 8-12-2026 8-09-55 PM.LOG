@@ -1,0 +1,71 @@
+Added Component: Designator=BT1(BAT_3035)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/3035/Keystone/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3035"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/3035/Keystone/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_3225X80
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Add component: Footprint Not Found CAP_C_1005X50_L
+Added Component: Designator=C296(CAP_C_1005X60)
+Add component: Footprint Not Found DO-214AC_SMA
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found RES_C_1005x30_L
+Add component: Footprint Not Found VQFN-HR-10
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=3.3_VBAT Pin=BT1-P1
+Added Pin To Net: NetName=3.3_VBAT Pin=BT1-P2
+Add Pin To Net: Unknown Pin: Pin C273-1
+Add Pin To Net: Unknown Pin: Pin C273-2
+Add Pin To Net: Unknown Pin: Pin C274-1
+Add Pin To Net: Unknown Pin: Pin C274-2
+Add Pin To Net: Unknown Pin: Pin C275-1
+Add Pin To Net: Unknown Pin: Pin C275-2
+Add Pin To Net: Unknown Pin: Pin C276-1
+Add Pin To Net: Unknown Pin: Pin C276-2
+Add Pin To Net: Unknown Pin: Pin C277-1
+Add Pin To Net: Unknown Pin: Pin C277-2
+Add Pin To Net: Unknown Pin: Pin C278-1
+Add Pin To Net: Unknown Pin: Pin C278-2
+Added Pin To Net: NetName=GND Pin=C296-1
+Added Pin To Net: NetName=3.3_VBAT Pin=C296-2
+Add Pin To Net: Unknown Pin: Pin D18-1
+Add Pin To Net: Unknown Pin: Pin D18-2
+Add Pin To Net: Unknown Pin: Pin R441-1
+Add Pin To Net: Unknown Pin: Pin R441-2
+Add Pin To Net: Unknown Pin: Pin R442-1
+Add Pin To Net: Unknown Pin: Pin R442-2
+Add Pin To Net: Unknown Pin: Pin R445-1
+Add Pin To Net: Unknown Pin: Pin R445-2
+Add Pin To Net: Unknown Pin: Pin R446-1
+Add Pin To Net: Unknown Pin: Pin R446-2
+Add Pin To Net: Unknown Pin: Pin U34-1
+Add Pin To Net: Unknown Pin: Pin U34-2
+Add Pin To Net: Unknown Pin: Pin U34-3
+Add Pin To Net: Unknown Pin: Pin U34-4
+Add Pin To Net: Unknown Pin: Pin U34-5
+Add Pin To Net: Unknown Pin: Pin U34-6
+Add Pin To Net: Unknown Pin: Pin U34-7
+Add Pin To Net: Unknown Pin: Pin U34-8
+Add Pin To Net: Unknown Pin: Pin U34-9
+Add Pin To Net: Unknown Pin: Pin U34-10
+Added Member To Class: ClassName=RTC Member=Component BT1 3035
+Add Class Member: Failed to add class member : Component C273 47uF/25V
+Add Class Member: Failed to add class member : Component C274 47uF/25V
+Add Class Member: Failed to add class member : Component C275 47uF/25V
+Add Class Member: Failed to add class member : Component C276 1uF/20V
+Add Class Member: Failed to add class member : Component C277 2.2nF/10V
+Add Class Member: Failed to add class member : Component C278 2.2nF/10V
+Added Member To Class: ClassName=RTC Member=Component C296 0.1uF/10V
+Add Class Member: Failed to add class member : Component D18 SS54
+Add Class Member: Failed to add class member : Component R441 47k
+Add Class Member: Failed to add class member : Component R442 47k
+Add Class Member: Failed to add class member : Component R445 3.24k
+Add Class Member: Failed to add class member : Component R446 1.6k
+Add Class Member: Failed to add class member : Component U34 TPS259470ARPWR
