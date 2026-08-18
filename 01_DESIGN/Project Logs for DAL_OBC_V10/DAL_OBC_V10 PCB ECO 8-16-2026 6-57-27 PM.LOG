@@ -1,0 +1,125 @@
+Change Component Footprint: Designator=R230 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R231 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Footprint: Designator=R232 Old Footprint=RES_C_1005x30_L New Footprint=RES_C_1005X40
+Change Component Comment : Designator=C152 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C156 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C157 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C158 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C159 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C160 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C161 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C175 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C179 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C181 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C182 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C183 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C184 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C185 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C186 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C199 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C200 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C201 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C202 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C203 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C204 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C205 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C206 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=C255 Old Comment=0.47uF/10V New Comment=1uF/10V
+Change Component Comment : Designator=R245 Old Comment=1.8k New Comment=4.7k
+Change Component Comment : Designator=C1 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C3 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C4 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C7 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C9 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C11 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C14 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C15 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C16 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C19 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C34 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C50 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C51 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C61 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C64 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C76 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C95 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C108 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C115 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C120 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C121 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C130 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C131 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C162 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C163 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C169 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C173 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C174 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C187 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C188 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C197 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C198 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C207 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C208 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C211 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C212 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C223 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C263 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C264 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C265 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C266 Old Comment=4.7uF/10V New Comment=4.7uF/6.3V
+Change Component Comment : Designator=C151 Old Comment=10nF/10V New Comment=0.1u/10V
+Change Component Comment : Designator=C176 Old Comment=100uF/10V New Comment=100uF/6.3V
+Change Component Comment : Designator=C193 Old Comment=100uF/10V New Comment=100uF/6.3V
+Change Component Comment : Designator=C194 Old Comment=100uF/10V New Comment=100uF/6.3V
+Change Component Comment : Designator=C209 Old Comment=100uF/10V New Comment=100uF/6.3V
+Change Component Comment : Designator=C210 Old Comment=100uF/10V New Comment=100uF/6.3V
+Change Component Comment : Designator=R328 Old Comment=400k New Comment=402k
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Component: Designator=R389(RES_C_1005x30_L)
+Added Component: Designator=R501(RES_C_1005x30_L)
+Added Component: Designator=R502(RES_C_1005x30_L)
+Added Component: Designator=R503(RES_C_1005x30_L)
+Added Component: Designator=R504(RES_C_1005x30_L)
+Added Component: Designator=R505(RES_C_1005x30_L)
+Added Component: Designator=R506(RES_C_1005x30_L)
+Added Component: Designator=R507(RES_C_1005x30_L)
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R504-1
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R505-1
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R506-1
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R507-1
+Added Pin To Net: NetName=_PB7 Pin=R389-2
+Added Pin To Net: NetName=_PB7 Pin=U3-V17
+Added Net: Name=_PB7
+Added Pin To Net: NetName=_PB24 Pin=R501-2
+Added Pin To Net: NetName=_PB24 Pin=U3-G19
+Added Net: Name=_PB24
+Added Pin To Net: NetName=_PB26 Pin=R502-2
+Added Pin To Net: NetName=_PB26 Pin=U3-C20
+Added Net: Name=_PB26
+Added Pin To Net: NetName=_PB27 Pin=R503-2
+Added Pin To Net: NetName=_PB27 Pin=U3-G16
+Added Net: Name=_PB27
+Added Pin To Net: NetName=USB_1_nFAULT Pin=R389-1
+Added Pin To Net: NetName=USB_1_nFAULT Pin=R504-2
+Added Pin To Net: NetName=USB_1_nFAULT Pin=U20-2
+Added Net: Name=USB_1_nFAULT
+Added Pin To Net: NetName=USB_2_nFAULT Pin=R501-1
+Added Pin To Net: NetName=USB_2_nFAULT Pin=R505-2
+Added Pin To Net: NetName=USB_2_nFAULT Pin=U20-3
+Added Net: Name=USB_2_nFAULT
+Added Pin To Net: NetName=USB_3_nFAULT Pin=R502-1
+Added Pin To Net: NetName=USB_3_nFAULT Pin=R506-2
+Added Pin To Net: NetName=USB_3_nFAULT Pin=U10-2
+Added Net: Name=USB_3_nFAULT
+Added Pin To Net: NetName=USB_4_nFAULT Pin=R503-1
+Added Pin To Net: NetName=USB_4_nFAULT Pin=R507-2
+Added Pin To Net: NetName=USB_4_nFAULT Pin=U10-3
+Added Net: Name=USB_4_nFAULT
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R389 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R501 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R502 22R
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R503 22R
+Added Member To Class: ClassName=USB_CAMERA Member=Component R504 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R505 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R506 10k
+Added Member To Class: ClassName=USB_CAMERA Member=Component R507 10k
