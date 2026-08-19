@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FPGA_IO12 Pin=J19-1
+Removed Pin From Net: NetName=FPGA_IO13 Pin=J19-2
+Removed Pin From Net: NetName=FPGA_IO14 Pin=J19-3
+Removed Pin From Net: NetName=FPGA_IO15 Pin=J19-4
+Removed Member From Class: ClassName=FPGA_BANK Member=J19

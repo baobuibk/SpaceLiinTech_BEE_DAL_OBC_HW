@@ -1079,32 +1079,32 @@ DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PA
 DItemRevisionGUID=
 
 [Parameter1]
-Name=SubSystem
-Value=OBC
+Name=ApprovedBy
+Value=Vu Pham
 
 [Parameter2]
-Name=Revision
-Value=1.0.3
+Name=CheckedBy
+Value=Bao Bui
 
 [Parameter3]
-Name=MasterProject
-Value=BEE-DAL
+Name=Date
+Value=07/07/2026
 
 [Parameter4]
 Name=DrawnBy
 Value=Cam Doan
 
 [Parameter5]
-Name=Date
-Value=07/07/2026
+Name=MasterProject
+Value=BEE-DAL
 
 [Parameter6]
-Name=CheckedBy
-Value=Bao Bui
+Name=Revision
+Value=1.0.3
 
 [Parameter7]
-Name=ApprovedBy
-Value=Vu Pham
+Name=SubSystem
+Value=OBC
 
 [DiffPairSuffix1]
 Positive=_H
