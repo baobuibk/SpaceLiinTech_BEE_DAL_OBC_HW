@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U12 Old Footprint=SOT-23_MC_MCH New Footprint=SOT-23-3
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Member To Class: ClassName=POWER Member=Wire +5V_SAMA7
