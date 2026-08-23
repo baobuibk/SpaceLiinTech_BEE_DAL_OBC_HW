@@ -1,0 +1,23 @@
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Component: Designator=C299(CAP_C_2012X110)
+Added Component: Designator=C300(CAP_C_2012X110)
+Added Component: Designator=R518(RES_C_1005X40)
+Added Component: Designator=U44(SOT25)
+Added Pin To Net: NetName=+3.3V Pin=C299-1
+Added Pin To Net: NetName=GND Pin=C299-2
+Added Pin To Net: NetName=+1.8V Pin=C300-1
+Added Pin To Net: NetName=GND Pin=C300-2
+Added Pin To Net: NetName=+3.3V Pin=R518-2
+Added Pin To Net: NetName=+3.3V Pin=U44-1
+Added Pin To Net: NetName=GND Pin=U44-2
+Added Pin To Net: NetName=+1.8V Pin=U44-5
+Added Pin To Net: NetName=NetR518_1 Pin=R518-1
+Added Pin To Net: NetName=NetR518_1 Pin=U44-3
+Added Net: Name=NetR518_1
+Added Member To Class: ClassName=Power Member=Component C299 10uF/20V
+Added Member To Class: ClassName=Power Member=Component C300 10uF/20V
+Added Member To Class: ClassName=Power Member=Component R518 1k
+Added Member To Class: ClassName=Power Member=Component U44 TLV75518PDBVR
+Added Member To Class: ClassName=POWER Member=Wire +1.8V
+Added Member To Class: ClassName=DIFF100 Member=Wire PC104_CAN_H
+Added Member To Class: ClassName=DIFF100 Member=Wire PC104_CAN_L

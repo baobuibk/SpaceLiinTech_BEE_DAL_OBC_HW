@@ -1,0 +1,17 @@
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Pin To Net: NetName=5V Pin=C231-1
+Added Pin To Net: NetName=5V Pin=C234-1
+Added Pin To Net: NetName=5V Pin=C285-2
+Added Pin To Net: NetName=5V Pin=JP6-1
+Added Pin To Net: NetName=5V Pin=JP7-2
+Added Pin To Net: NetName=5V Pin=R81-2
+Added Pin To Net: NetName=5V Pin=R81-2
+Added Pin To Net: NetName=5V Pin=R305-1
+Added Pin To Net: NetName=5V Pin=R439-1
+Added Pin To Net: NetName=5V Pin=R485-2
+Added Pin To Net: NetName=5V Pin=R486-2
+Added Pin To Net: NetName=5V Pin=U40-7
+Added Pin To Net: NetName=5V Pin=VR1-3
+Added Pin To Net: NetName=5V Pin=VR2-3
+Change Net Name : Old Net Name=5V New Net Name=+5V_SAMA7
+Change Net Color : Old Net Color=RGB(110, 255, 255) New Net Color=RGB(0, 102, 255)

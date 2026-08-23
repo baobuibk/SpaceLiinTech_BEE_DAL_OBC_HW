@@ -1,0 +1,12 @@
+Added Component: Designator=R508(RES_C_1005X40)
+Added Component: Designator=R509(RES_C_1005X40)
+Added Pin To Net: NetName=+5V_SAMA7 Pin=C285-2
+Added Pin To Net: NetName=+5V_SAMA7 Pin=R485-2
+Added Pin To Net: NetName=+5V_SAMA7 Pin=R486-2
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R508-1
+Added Pin To Net: NetName=MIPI_1_PWR_nFAIL Pin=R508-2
+Added Pin To Net: NetName=+3.3V_SAMA7 Pin=R509-1
+Added Pin To Net: NetName=MIPI_2_PWR_nFAIL Pin=R509-2
+Added Pin To Net: NetName=+5V_SAMA7 Pin=U40-7
+Added Member To Class: ClassName=MIPI_CSI Member=Component R508 10k
+Added Member To Class: ClassName=MIPI_CSI Member=Component R509 10k

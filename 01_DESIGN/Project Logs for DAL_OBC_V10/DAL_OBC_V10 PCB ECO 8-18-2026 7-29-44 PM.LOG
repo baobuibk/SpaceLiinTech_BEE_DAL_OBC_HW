@@ -1,0 +1,5 @@
+Added Member To Class: ClassName=FPGA_BANK Member=Component R358 47k
+Added Member To Class: ClassName=DIFF100 Member=Wire RS_422_RX_N
+Added Member To Class: ClassName=DIFF100 Member=Wire RS_422_RX_P
+Added Member To Class: ClassName=DIFF100 Member=Wire RS_422_TX_N
+Added Member To Class: ClassName=DIFF100 Member=Wire RS_422_TX_P

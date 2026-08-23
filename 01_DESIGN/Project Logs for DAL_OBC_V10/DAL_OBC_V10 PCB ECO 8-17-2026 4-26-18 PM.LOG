@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=PC104_I2C_SDA Pin=R140-1
+Removed Pin From Net: NetName=PC104_I2C_SCL Pin=R142-1
+Removed Pin From Net: NetName=PC104_CAN_H Pin=R222-1
+Removed Pin From Net: NetName=PC104_CAN_L Pin=R224-2
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Component: Designator=C297(CAP_C_1005X60)
+Added Component: Designator=C298(CAP_C_1005X60)
+Added Component: Designator=JP13(RES_C_1608X60)
+Added Component: Designator=JP14(RES_C_1608X60)
+Added Component: Designator=R510(RES_C_1005X40)
+Added Component: Designator=R511(RES_C_1005X40)
+Added Component: Designator=R512(RES_C_1005X40)
+Added Component: Designator=R513(RES_C_1005X40)
+Added Component: Designator=R514(RES_C_1005X40)
+Added Component: Designator=R515(RES_C_1005X40)
+Added Component: Designator=R516(RES_C_1005X40)
+Added Component: Designator=R517(RES_C_1005x30_L)
+Added Component: Designator=U43(TSOP8)
+Added Pin To Net: NetName=GND Pin=C297-1
+Added Pin To Net: NetName=+5V_PC104 Pin=C297-2
+Added Pin To Net: NetName=GND Pin=C298-1
+Added Pin To Net: NetName=+3.3V Pin=C298-2
+Added Pin To Net: NetName=PC104_CAN_H Pin=JP13-2
+Added Pin To Net: NetName=PC104_CAN_L Pin=JP14-1
+Added Pin To Net: NetName=SOM_CAM_I2C_SDA Pin=R140-1
+Added Pin To Net: NetName=SOM_CAM_I2C_SCL Pin=R142-1
+Added Pin To Net: NetName=+5V_PC104 Pin=R510-1
+Added Pin To Net: NetName=PC104_I2C_SCL Pin=R510-2
+Added Pin To Net: NetName=+5V_PC104 Pin=R511-1
+Added Pin To Net: NetName=PC104_I2C_SDA Pin=R511-2
+Added Pin To Net: NetName=+3.3V Pin=R512-1
+Added Pin To Net: NetName=SAM_RTC_I2C_SDA Pin=R512-2
+Added Pin To Net: NetName=+3.3V Pin=R513-1
+Added Pin To Net: NetName=SAM_RTC_I2C_SCL Pin=R513-2
+Added Pin To Net: NetName=PC104_I2C_SCL Pin=R514-2
+Added Pin To Net: NetName=PC104_I2C_SDA Pin=R515-2
+Added Pin To Net: NetName=GND Pin=R516-2
+Added Pin To Net: NetName=_PD28 Pin=R517-2
+Added Pin To Net: NetName=+3.3V Pin=U43-1
+Added Pin To Net: NetName=SAM_RTC_I2C_SCL Pin=U43-2
+Added Pin To Net: NetName=SAM_RTC_I2C_SDA Pin=U43-3
+Added Pin To Net: NetName=GND Pin=U43-4
+Added Pin To Net: NetName=+5V_PC104 Pin=U43-8
+Change Net Name : Old Net Name=SOM_CAM_I2C_SCL New Net Name=FLEX9_I2C_SCL
+Change Net Name : Old Net Name=SOM_CAM_I2C_SDA New Net Name=FLEX9_I2C_SDA
+Added Pin To Net: NetName=NetJP13_1 Pin=JP13-1
+Added Pin To Net: NetName=NetJP13_1 Pin=R222-1
+Added Net: Name=NetJP13_1
+Added Pin To Net: NetName=NetJP14_2 Pin=JP14-2
+Added Pin To Net: NetName=NetJP14_2 Pin=R224-2
+Added Net: Name=NetJP14_2
+Added Pin To Net: NetName=NetR514_1 Pin=R514-1
+Added Pin To Net: NetName=NetR514_1 Pin=U43-7
+Added Net: Name=NetR514_1
+Added Pin To Net: NetName=NetR515_1 Pin=R515-1
+Added Pin To Net: NetName=NetR515_1 Pin=U43-6
+Added Net: Name=NetR515_1
+Added Pin To Net: NetName=PC104_I2C_EN Pin=R516-1
+Added Pin To Net: NetName=PC104_I2C_EN Pin=R517-1
+Added Pin To Net: NetName=PC104_I2C_EN Pin=U43-5
+Added Net: Name=PC104_I2C_EN
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component C297 0.1uF/10V
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component C298 0.1uF/10V
+Added Member To Class: ClassName=CAN_PHY Member=Component JP13 DNP/0R
+Added Member To Class: ClassName=CAN_PHY Member=Component JP14 DNP/0R
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R510 4.7k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R511 4.7k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R512 DNP/4.7k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R513 DNP/4.7k
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R514 22R
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R515 22R
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component R516 10k
+Added Member To Class: ClassName=SAMA7G54_PIO Member=Component R517 22R
+Added Member To Class: ClassName=CONNECTOR_BUS Member=Component U43 PCA9508DP,118

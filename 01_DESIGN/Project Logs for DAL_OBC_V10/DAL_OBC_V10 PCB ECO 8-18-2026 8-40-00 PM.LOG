@@ -1,0 +1,4 @@
+Added Differential Pair: Name=PC104_CAN
+Added Member To Class: ClassName=DIFF100 Member=PC104_CAN
+Added Member To Class: ClassName=DIFF100 Member=RS_422_RX
+Added Member To Class: ClassName=DIFF100 Member=RS_422_TX

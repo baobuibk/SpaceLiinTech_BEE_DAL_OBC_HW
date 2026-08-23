@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=FPGA_IO0 Pin=J9-1
+Removed Pin From Net: NetName=FPGA_IO1 Pin=J9-2
+Removed Pin From Net: NetName=FPGA_IO2 Pin=J9-3
+Removed Pin From Net: NetName=FPGA_IO3 Pin=J9-4
+Removed Pin From Net: NetName=FPGA_IO4 Pin=J9-5
+Removed Pin From Net: NetName=FPGA_IO5 Pin=J9-6
+Removed Pin From Net: NetName=FPGA_IO6 Pin=J9-7
+Removed Pin From Net: NetName=FPGA_IO7 Pin=J9-8
+Removed Pin From Net: NetName=FPGA_IO8 Pin=J11-1
+Removed Pin From Net: NetName=FPGA_IO9 Pin=J11-2
+Removed Pin From Net: NetName=FPGA_IO10 Pin=J11-3
+Removed Pin From Net: NetName=FPGA_IO11 Pin=J11-4
+Removed Pin From Net: NetName=FPGA_IO12 Pin=J11-5
+Removed Pin From Net: NetName=FPGA_IO13 Pin=J11-6
+Removed Pin From Net: NetName=FPGA_IO14 Pin=J11-7
+Removed Pin From Net: NetName=FPGA_IO15 Pin=J11-8
+Change Component Footprint: Designator=J9 Old Footprint=Header_254P_8x1 New Footprint=Header_254P_4x1
+Change Component Footprint: Designator=J11 Old Footprint=Header_254P_8x1 New Footprint=Header_254P_4x1
+Change Component Comment : Designator=J9 Old Comment=Header 8x1 New Comment=Header 4x1
+Change Component Comment : Designator=J11 Old Comment=Header 8x1 New Comment=Header 4x1
+Added Component: Designator=J19(Header_254P_4x1)
+Added Component: Designator=J20(Header_254P_4x1)
+Added Pin To Net: NetName=FPGA_IO8 Pin=J9-1
+Added Pin To Net: NetName=FPGA_IO9 Pin=J9-2
+Added Pin To Net: NetName=FPGA_IO10 Pin=J9-3
+Added Pin To Net: NetName=FPGA_IO11 Pin=J9-4
+Added Pin To Net: NetName=FPGA_IO0 Pin=J11-1
+Added Pin To Net: NetName=FPGA_IO1 Pin=J11-2
+Added Pin To Net: NetName=FPGA_IO2 Pin=J11-3
+Added Pin To Net: NetName=FPGA_IO3 Pin=J11-4
+Added Pin To Net: NetName=FPGA_IO12 Pin=J19-1
+Added Pin To Net: NetName=FPGA_IO13 Pin=J19-2
+Added Pin To Net: NetName=FPGA_IO14 Pin=J19-3
+Added Pin To Net: NetName=FPGA_IO15 Pin=J19-4
+Added Pin To Net: NetName=FPGA_IO4 Pin=J20-1
+Added Pin To Net: NetName=FPGA_IO5 Pin=J20-2
+Added Pin To Net: NetName=FPGA_IO6 Pin=J20-3
+Added Pin To Net: NetName=FPGA_IO7 Pin=J20-4
+Added Member To Class: ClassName=FPGA_BANK Member=Component J19 Header 4x1
+Added Member To Class: ClassName=FPGA_BANK Member=Component J20 Header 4x1

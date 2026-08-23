@@ -1,0 +1,10 @@
+Change Component Comment : Designator=C166 Old Comment=0.1uF/10V New Comment=4.7nF/100V
+Change Component Comment : Designator=X1 Old Comment=SIT8008AI-11-XXE-100.000000 New Comment=SIT8918BA-11-XXE-100.000000
+Change Component Description : Designator=BT1 Old Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel New Description=Battery Clip; THM; 20mm Cell; PhosBronze/Nickel | Keystone Electronics 3035
+Added Member To Class: ClassName=POWER Member=Wire +3.3V
+Added Member To Class: ClassName=POWER Member=Wire +3.3V_FPGA_IO
+Added Member To Class: ClassName=POWER Member=Wire +5V_AI
+Added Member To Class: ClassName=POWER Member=Wire +5V_AI_eFUSE
+Added Member To Class: ClassName=POWER Member=Wire +5V_FPGA
+Added Member To Class: ClassName=POWER Member=Wire +5V_FPGA_eFUSE
+Added Member To Class: ClassName=POWER Member=Wire +5V_SAMA7
