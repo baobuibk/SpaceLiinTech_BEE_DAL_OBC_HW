@@ -1,0 +1,10 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : Project [DAL_OBC_V10.PrjPcb]
+   Generated File[DAL_OBC_V10.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:36:13 AM On 8/23/2026
