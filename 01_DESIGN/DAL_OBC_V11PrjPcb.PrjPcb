@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KYXLJHXP
 
 [Document5]
-DocumentPath=DAL_OBC_V10.Annotation
+DocumentPath=DAL_OBC_V11PrjPcb.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

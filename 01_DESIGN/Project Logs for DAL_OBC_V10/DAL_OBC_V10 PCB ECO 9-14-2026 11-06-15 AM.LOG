@@ -1,6 +1,0 @@
-Change Component Footprint: Designator=C172 Old Footprint=CAP_C_2012X110 New Footprint=CAP_C_1608X80
-Change Component Footprint: Designator=C177 Old Footprint=CAP_C_2012X110 New Footprint=CAP_C_1608X80
-Change Component Footprint: Designator=C178 Old Footprint=CAP_C_2012X110 New Footprint=CAP_C_1608X80
-Change Component Comment : Designator=C172 Old Comment=47uF/10V New Comment=47uF/6.3V
-Change Component Comment : Designator=C177 Old Comment=47uF/10V New Comment=47uF/6.3V
-Change Component Comment : Designator=C178 Old Comment=47uF/10V New Comment=47uF/6.3V
