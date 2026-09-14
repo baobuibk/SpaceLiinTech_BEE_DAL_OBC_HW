@@ -1,0 +1,456 @@
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=C237-1
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=C238-1
+Removed Pin From Net: NetName=+1V_FPGA Pin=C241-1
+Removed Pin From Net: NetName=+1V_FPGA Pin=C242-1
+Removed Pin From Net: NetName=GND Pin=C279-1
+Removed Pin From Net: NetName=GND Pin=C280-1
+Removed Pin From Net: NetName=GND Pin=C282-1
+Removed Pin From Net: NetName=+1.8V Pin=C282-2
+Removed Pin From Net: NetName=GND Pin=FB2-1
+Removed Pin From Net: NetName=RS_422_RX_P Pin=H1-09
+Removed Pin From Net: NetName=RS_422_RX_N Pin=H1-11
+Removed Pin From Net: NetName=RS_422_TX_P Pin=H1-13
+Removed Pin From Net: NetName=RS_422_TX_N Pin=H1-15
+Removed Pin From Net: NetName=+5V_FPGA Pin=IC1-12
+Removed Pin From Net: NetName=+5V_FPGA Pin=IC1-13
+Removed Pin From Net: NetName=+5V_FPGA Pin=IC1-14
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=L5-2
+Removed Pin From Net: NetName=+1V_FPGA Pin=L7-2
+Removed Pin From Net: NetName=_PA17 Pin=R82-2
+Removed Pin From Net: NetName=_PA18 Pin=R84-2
+Removed Pin From Net: NetName=_PA20 Pin=R88-2
+Removed Pin From Net: NetName=_PA21 Pin=R91-2
+Removed Pin From Net: NetName=DONE Pin=R242-1
+Removed Pin From Net: NetName=NetD2_2 Pin=R242-2
+Removed Pin From Net: NetName=NetC238_2 Pin=R317-1
+Removed Pin From Net: NetName=+3.3V_FPGA_IO Pin=R317-2
+Removed Pin From Net: NetName=GND Pin=R322-1
+Removed Pin From Net: NetName=NetC238_2 Pin=R322-2
+Removed Pin From Net: NetName=NetC242_2 Pin=R327-1
+Removed Pin From Net: NetName=+1V_FPGA Pin=R327-2
+Removed Pin From Net: NetName=GND Pin=R328-1
+Removed Pin From Net: NetName=NetC242_2 Pin=R328-2
+Removed Pin From Net: NetName=CAM1_CK_P Pin=R451-2
+Removed Pin From Net: NetName=CAM1_CK_N Pin=R452-2
+Removed Pin From Net: NetName=CAM1_D0_P Pin=R453-2
+Removed Pin From Net: NetName=CAM1_D0_N Pin=R454-2
+Removed Pin From Net: NetName=CAM1_D1_P Pin=R455-2
+Removed Pin From Net: NetName=CAM1_D1_N Pin=R456-2
+Removed Pin From Net: NetName=CAM2_CK_P Pin=R457-2
+Removed Pin From Net: NetName=CAM2_CK_N Pin=R458-2
+Removed Pin From Net: NetName=+1.8V Pin=R459-1
+Removed Pin From Net: NetName=+1.8V Pin=R460-1
+Removed Pin From Net: NetName=+1.8V Pin=R461-1
+Removed Pin From Net: NetName=+1.8V Pin=R462-1
+Removed Pin From Net: NetName=CAM2_D0_P Pin=R463-2
+Removed Pin From Net: NetName=CAM2_D0_N Pin=R465-2
+Removed Pin From Net: NetName=CAM2_D1_P Pin=R466-2
+Removed Pin From Net: NetName=CAM2_D1_N Pin=R467-2
+Removed Pin From Net: NetName=+1.8V Pin=R468-1
+Removed Pin From Net: NetName=GND Pin=R469-2
+Removed Pin From Net: NetName=GND Pin=R470-2
+Removed Pin From Net: NetName=GND Pin=R471-2
+Removed Pin From Net: NetName=GND Pin=R472-2
+Removed Pin From Net: NetName=MPU_UART_RS422_RX Pin=U19-1
+Removed Pin From Net: NetName=MPU_UART_CONSOLE_RX Pin=U19-5
+Removed Pin From Net: NetName=MPU_UART_RS422_TX Pin=U19-12
+Removed Pin From Net: NetName=MPU_UART_CONSOLE_TX Pin=U19-14
+Removed Pin From Net: NetName=MIPI_D0_P Pin=U36-2
+Removed Pin From Net: NetName=MIPI_D0_N Pin=U36-3
+Removed Pin From Net: NetName=GND Pin=U36-4
+Removed Pin From Net: NetName=MIPI_CK_P Pin=U36-5
+Removed Pin From Net: NetName=MIPI_CK_N Pin=U36-6
+Removed Pin From Net: NetName=GND Pin=U36-7
+Removed Pin From Net: NetName=MIPI_D1_P Pin=U36-8
+Removed Pin From Net: NetName=MIPI_D1_N Pin=U36-9
+Removed Pin From Net: NetName=+1.8V Pin=U36-10
+Removed Pin From Net: NetName=GND Pin=U36-16
+Removed Pin From Net: NetName=GND Pin=U36-19
+Removed Pin From Net: NetName=GND Pin=U36-25
+Removed Member From Class: ClassName=MIPI_CSI Member=C279
+Removed Member From Class: ClassName=MIPI_CSI Member=C280
+Removed Member From Class: ClassName=MIPI_CSI Member=C282
+Removed Member From Class: ClassName=FPGA_POWER_2 Member=FB2
+Removed Member From Class: ClassName=SAMA7G54_PIO Member=R91
+Removed Member From Class: ClassName=FPGA_BANK Member=R242
+Removed Member From Class: ClassName=MIPI_CSI Member=R451
+Removed Member From Class: ClassName=MIPI_CSI Member=R452
+Removed Member From Class: ClassName=MIPI_CSI Member=R453
+Removed Member From Class: ClassName=MIPI_CSI Member=R454
+Removed Member From Class: ClassName=MIPI_CSI Member=R455
+Removed Member From Class: ClassName=MIPI_CSI Member=R456
+Removed Member From Class: ClassName=MIPI_CSI Member=R457
+Removed Member From Class: ClassName=MIPI_CSI Member=R458
+Removed Member From Class: ClassName=MIPI_CSI Member=R459
+Removed Member From Class: ClassName=MIPI_CSI Member=R460
+Removed Member From Class: ClassName=MIPI_CSI Member=R461
+Removed Member From Class: ClassName=MIPI_CSI Member=R462
+Removed Member From Class: ClassName=MIPI_CSI Member=R463
+Removed Member From Class: ClassName=MIPI_CSI Member=R465
+Removed Member From Class: ClassName=MIPI_CSI Member=R466
+Removed Member From Class: ClassName=MIPI_CSI Member=R467
+Removed Member From Class: ClassName=MIPI_CSI Member=R468
+Removed Member From Class: ClassName=MIPI_CSI Member=R469
+Removed Member From Class: ClassName=MIPI_CSI Member=R470
+Removed Member From Class: ClassName=MIPI_CSI Member=R471
+Removed Member From Class: ClassName=MIPI_CSI Member=R472
+Removed Member From Class: ClassName=MIPI_CSI Member=U36
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_CK_N
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_CK_P
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_D0_N
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_D0_P
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_D1_N
+Removed Member From Class: ClassName=DIFF100 Member=BUFFER_OUT_D1_P
+Removed Member From Class: ClassName=POWER Member=GND
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_CK_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_CK_P
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_D0_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_D0_P
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_D1_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM1_D1_P
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_CK_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_CK_P
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_D0_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_D0_P
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_D1_N
+Removed Member From Class: ClassName=DIFF100 Member=L_CAM2_D1_P
+Change Component Footprint: Designator=C2 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C8 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C10 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C12 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C172 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C177 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C178 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C237 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C239 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C241 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C258 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=C259 Old Footprint=CAP_C_1608X80 New Footprint=CAP_C_2012X110
+Change Component Footprint: Designator=R26 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R157 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R159 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R160 Old Footprint=RES_C_0603X30 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R451 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R452 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R453 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Footprint: Footprint Not Found RES_C_1005x30_L
+Change Footprint: Footprint Not Found RES_C_1005x30_L
+Change Component Footprint: Designator=R456 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R457 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Component Footprint: Designator=R458 Old Footprint=RES_C_1005X40 New Footprint=RES_C_1005x30_L
+Change Component Comment : Designator=C13 Old Comment=0.1uF/10V New Comment=4.7uF/10V
+Change Component Comment : Designator=C72 Old Comment=2.2uF/10V New Comment=0.1uF/10V
+Change Component Comment : Designator=R244 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=R246 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=R247 Old Comment=4.7k New Comment=1k
+Change Component Comment : Designator=R278 Old Comment=4.7k New Comment=DNP/4.7k
+Change Component Comment : Designator=C166 Old Comment=4.7nF/100V New Comment=4.7nF/50V
+Change Component Comment : Designator=C1 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C3 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C4 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C7 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C9 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C11 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C14 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C15 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C16 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C19 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C34 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C50 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C51 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C61 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C64 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C76 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C95 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C108 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C115 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C120 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C121 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C130 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C131 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C162 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C163 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C169 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C173 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C174 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C187 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C188 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C197 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C198 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C207 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C208 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C211 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C212 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C223 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C263 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C264 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C265 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=C266 Old Comment=4.7uF/6.3V New Comment=4.7uF/10V
+Change Component Comment : Designator=R13 Old Comment=10k New Comment=DNP/10k
+Change Component Comment : Designator=R348 Old Comment=10k New Comment=DNP/10k
+Change Component Comment : Designator=R405 Old Comment=10k New Comment=DNP/10k
+Change Component Comment : Designator=C231 Old Comment=10uF/20V New Comment=22uF/10V
+Change Component Comment : Designator=C234 Old Comment=10uF/20V New Comment=22uF/10V
+Change Component Comment : Designator=C299 Old Comment=10uF/20V New Comment=22uF/10V
+Change Component Comment : Designator=C300 Old Comment=10uF/20V New Comment=22uF/10V
+Change Component Comment : Designator=R216 Old Comment=16.5k New Comment=16.9k
+Change Component Comment : Designator=R217 Old Comment=16.5k New Comment=16.9k
+Change Component Comment : Designator=R283 Old Comment=16.5k New Comment=16.9k
+Change Component Comment : Designator=R453 Old Comment=22R New Comment=1k
+Change Component Comment : Designator=R455 Old Comment=22R New Comment=1k
+Change Component Comment : Designator=R91 Old Comment=22R New Comment=100k
+Change Component Comment : Designator=R451 Old Comment=22R New Comment=100k
+Change Component Comment : Designator=R452 Old Comment=22R New Comment=100k
+Change Component Comment : Designator=R454 Old Comment=22R New Comment=100R
+Change Component Comment : Designator=R456 Old Comment=22R New Comment=DNP/10k
+Change Component Comment : Designator=R457 Old Comment=22R New Comment=DNP/10k
+Change Component Comment : Designator=R458 Old Comment=22R New Comment=DNP/10k
+Change Component Comment : Designator=C189 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C190 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C191 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C225 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C226 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C227 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C232 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C233 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C235 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C236 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C267 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C268 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C269 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C273 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C274 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=C275 Old Comment=47uF/25V New Comment=47uF/10V
+Change Component Comment : Designator=R327 Old Comment=100k New Comment=1k
+Change Component Comment : Designator=R9 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R157 Old Comment=100k New Comment=4.7k
+Change Component Comment : Designator=R37 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R39 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R173 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R383 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R402 Old Comment=100R New Comment=22R
+Change Component Comment : Designator=R418 Old Comment=100R New Comment=120R
+Change Component Comment : Designator=R422 Old Comment=100R New Comment=120R
+Change Component Comment : Designator=R427 Old Comment=100R New Comment=120R
+Change Component Comment : Designator=R430 Old Comment=100R New Comment=120R
+Change Component Comment : Designator=R242 Old Comment=100R New Comment=402k
+Change Component Comment : Designator=R110 Old Comment=120R New Comment=22R
+Change Component Comment : Designator=R303 Old Comment=137k New Comment=133k
+Change Component Comment : Designator=R437 Old Comment=137k New Comment=133k
+Change Component Comment : Designator=R317 Old Comment=316k New Comment=100k
+Change Component Comment : Designator=R328 Old Comment=402k New Comment=316k
+Change Component Comment : Designator=R258 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=R261 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=R351 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=R352 Old Comment=DNP/4.7k New Comment=4.7k
+Change Component Comment : Designator=X1 Old Comment=SIT8918BA-11-XXE-100.000000 New Comment=SIT8924BA-11-33E-100.000000
+Added Component: Designator=Q10(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q11(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q12(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q15(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q16(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R366(RES_C_1005x30_L)
+Added Component: Designator=R367(RES_C_1005x30_L)
+Added Component: Designator=R368(RES_C_1005x30_L)
+Added Component: Designator=R369(RES_C_1005x30_L)
+Added Pin To Net: NetName=GND Pin=C151-2
+Added Pin To Net: NetName=+1V_FPGA Pin=C237-1
+Added Pin To Net: NetName=+1V_FPGA Pin=C238-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=C241-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=C242-1
+Added Pin To Net: NetName=+1V_FPGA Pin=L5-2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=L7-2
+Added Pin To Net: NetName=GND Pin=Q10-2
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=GND Pin=Q15-2
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=Q16-3
+Added Pin To Net: NetName=_PD21 Pin=R82-2
+Added Pin To Net: NetName=NetC238_2 Pin=R91-1
+Added Pin To Net: NetName=+1V_FPGA Pin=R91-2
+Added Pin To Net: NetName=GND Pin=R242-1
+Added Pin To Net: NetName=NetC238_2 Pin=R242-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R317-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R322-2
+Added Pin To Net: NetName=NetC242_2 Pin=R328-1
+Added Pin To Net: NetName=+3.3V_FPGA_IO Pin=R328-2
+Added Pin To Net: NetName=GND Pin=R366-1
+Added Pin To Net: NetName=NetC242_2 Pin=R366-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R367-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R368-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R451-2
+Added Pin To Net: NetName=+5V_FPGA Pin=R452-2
+Added Pin To Net: NetName=NetD2_2 Pin=R454-1
+Added Pin To Net: NetName=DONE Pin=R455-2
+Added Pin To Net: NetName=FPGA_nOE Pin=R456-1
+Added Pin To Net: NetName=GND Pin=R456-2
+Added Pin To Net: NetName=FPGA_nOE Pin=R457-1
+Added Pin To Net: NetName=GND Pin=R457-2
+Added Pin To Net: NetName=FPGA_nOE Pin=R458-1
+Added Pin To Net: NetName=GND Pin=R458-2
+Added Pin To Net: NetName=GND Pin=U11-G7
+Added Pin To Net: NetName=GND Pin=U11-H7
+Added Pin To Net: NetName=GND Pin=U11-H8
+Added Pin To Net: NetName=GND Pin=U11-J7
+Added Pin To Net: NetName=GND Pin=U11-J8
+Added Pin To Net: NetName=MPU_UART_CONSOLE_RX Pin=U19-1
+Added Pin To Net: NetName=MPU_UART_RS422_RX Pin=U19-5
+Added Pin To Net: NetName=MPU_UART_CONSOLE_TX Pin=U19-12
+Added Pin To Net: NetName=MPU_UART_RS422_TX Pin=U19-14
+Added Pin To Net: NetName=CAM2_CK_N Pin=U37-1
+Added Pin To Net: NetName=CAM1_CK_N Pin=U37-2
+Added Pin To Net: NetName=CAM2_CK_P Pin=U37-3
+Added Pin To Net: NetName=CAM1_CK_P Pin=U37-4
+Added Pin To Net: NetName=MIPI_CK_P Pin=U37-6
+Added Pin To Net: NetName=MIPI_CK_N Pin=U37-7
+Added Pin To Net: NetName=MIPI_D0_P Pin=U37-8
+Added Pin To Net: NetName=MIPI_D0_N Pin=U37-10
+Added Pin To Net: NetName=MIPI_D1_P Pin=U37-11
+Added Pin To Net: NetName=MIPI_D1_N Pin=U37-12
+Added Pin To Net: NetName=CAM2_D1_N Pin=U37-14
+Added Pin To Net: NetName=CAM1_D1_N Pin=U37-15
+Added Pin To Net: NetName=CAM2_D1_P Pin=U37-16
+Added Pin To Net: NetName=CAM1_D1_P Pin=U37-17
+Added Pin To Net: NetName=CAM2_D0_N Pin=U37-19
+Added Pin To Net: NetName=CAM1_D0_N Pin=U37-20
+Added Pin To Net: NetName=CAM2_D0_P Pin=U37-22
+Added Pin To Net: NetName=CAM1_D0_P Pin=U37-23
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Change Net Color : Old Net Color=RGB(96, 88, 87) New Net Color=Default
+Added Pin To Net: NetName=_PD22 Pin=R84-2
+Added Pin To Net: NetName=_PD22 Pin=U3-A19
+Added Net: Name=_PD22
+Added Pin To Net: NetName=_PD23 Pin=R88-2
+Added Pin To Net: NetName=_PD23 Pin=U3-K12
+Added Net: Name=_PD23
+Added Pin To Net: NetName=_PD29 Pin=R419-1
+Added Pin To Net: NetName=_PD29 Pin=R423-1
+Added Pin To Net: NetName=_PD29 Pin=R428-1
+Added Pin To Net: NetName=_PD29 Pin=R431-1
+Added Pin To Net: NetName=_PD29 Pin=U3-B18
+Added Net: Name=_PD29
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=Q14-3
+Added Pin To Net: NetName=NetIC1_12 Pin=R451-1
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=Q12-3
+Added Pin To Net: NetName=NetIC1_13 Pin=R367-1
+Added Net: Name=NetIC1_13
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=Q10-3
+Added Pin To Net: NetName=NetIC1_14 Pin=R317-1
+Added Net: Name=NetIC1_14
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q11-3
+Added Pin To Net: NetName=NetQ10_1 Pin=R322-1
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R327-1
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q13-3
+Added Pin To Net: NetName=NetQ12_1 Pin=R368-1
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=NetQ13_1 Pin=Q13-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R369-1
+Added Net: Name=NetQ13_1
+Added Pin To Net: NetName=NetQ14_1 Pin=Q14-1
+Added Pin To Net: NetName=NetQ14_1 Pin=Q15-3
+Added Pin To Net: NetName=NetQ14_1 Pin=R452-1
+Added Net: Name=NetQ14_1
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R453-1
+Added Net: Name=NetQ15_1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R455-1
+Added Net: Name=NetQ16_1
+Added Pin To Net: NetName=NetQ16_2 Pin=Q16-2
+Added Pin To Net: NetName=NetQ16_2 Pin=R454-2
+Added Net: Name=NetQ16_2
+Added Pin To Net: NetName=POW_FPGA_EN_1.8V Pin=R84-1
+Added Pin To Net: NetName=POW_FPGA_EN_1.8V Pin=R369-2
+Added Net: Name=POW_FPGA_EN_1.8V
+Added Pin To Net: NetName=POW_FPGA_EN_1V Pin=R82-1
+Added Pin To Net: NetName=POW_FPGA_EN_1V Pin=R327-2
+Added Net: Name=POW_FPGA_EN_1V
+Added Pin To Net: NetName=POW_FPGA_EN_3.3V Pin=R88-1
+Added Pin To Net: NetName=POW_FPGA_EN_3.3V Pin=R453-2
+Added Net: Name=POW_FPGA_EN_3.3V
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q10 MMBT2222A
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q11 MMBT2222A
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q12 MMBT2222A
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q13 MMBT2222A
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q14 MMBT2222A
+Added Member To Class: ClassName=FPGA_POWER Member=Component Q15 MMBT2222A
+Added Member To Class: ClassName=FPGA_BANK Member=Component Q16 MMBT2907
+Added Member To Class: ClassName=FPGA_POWER Member=Component R91 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R242 402k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R366 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R367 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R368 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R369 1k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R451 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R452 100k
+Added Member To Class: ClassName=FPGA_POWER Member=Component R453 1k
+Added Member To Class: ClassName=FPGA_BANK Member=Component R454 100R
+Added Member To Class: ClassName=FPGA_BANK Member=Component R455 1k
+Added Member To Class: ClassName=FPGA_CONN_OUT Member=Component R456 DNP/10k
+Added Member To Class: ClassName=FPGA_CONN_OUT Member=Component R457 DNP/10k
+Added Member To Class: ClassName=FPGA_CONN_OUT Member=Component R458 DNP/10k
+Added Member To Class: ClassName=POWER Member=Wire AGND
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
+Remove Class Member: Failed to remove class member
