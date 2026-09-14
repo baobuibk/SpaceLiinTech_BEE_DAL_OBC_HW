@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KYXLJHXP
 
 [Document5]
-DocumentPath=DAL_OBC_V11PrjPcb.Annotation
+DocumentPath=DAL_OBC_V11.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -611,7 +611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UBQRCWSO
 
 [Document34]
-DocumentPath=DAL_OBC_V10.BomDoc
+DocumentPath=DAL_OBC_V11.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -696,7 +696,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=DAL_OBC_V10.PcbDoc
+DocumentPath=DAL_OBC_V11.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -781,23 +781,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=DAL_OBC_V10.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IMWMWBJW
-
-[Document45]
 DocumentPath=Project Outputs for DAL_OBC_V10\CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +797,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document46]
+[Document45]
 DocumentPath=Project Outputs for DAL_OBC_V10\CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
