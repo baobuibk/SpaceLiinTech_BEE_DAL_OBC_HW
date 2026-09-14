@@ -814,6 +814,91 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document46]
+DocumentPath=Project Outputs for DAL_OBC_V11\CAMtastic5.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document47]
+DocumentPath=Project Outputs for DAL_OBC_V11\CAMtastic6.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document48]
+DocumentPath=DAL_OBC_V11.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ACOGZTAI
+
+[Document49]
+DocumentPath=Project Outputs for DAL_OBC_V11\CAMtastic7.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document50]
+DocumentPath=CAMtastic8.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for PAY_IF\BEE-1012 PAY-IF V1.0.0.DRR
 DItemRevisionGUID=
@@ -1203,54 +1288,158 @@ DocumentPath=Project Outputs for DAL_OBC_V10\DAL_OBC_V10_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-1012 PAY-IF V1.1.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for DAL_OBC_V10\Design Rule Check - DAL_OBC_V10.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.REP
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for DAL_OBC_V10\Net Status - DAL_OBC_V10.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11.xls
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L1_TOP.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.csv
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L2_GND1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.txt
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L3_SIG1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=Project Outputs for DAL_OBC_V10\Pick Place for DAL_OBC_V10.csv
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L4_PWR1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument110]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L5_PWR2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L6_SIG2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L7_GND2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_L8_BOT.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for DAL_OBC_V11\DAL_OBC_V11_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for PAY_IF\Design Rule Check - BEE-1012 PAY-IF V1.0.html
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Design Rule Check - BEE-1012 PAY-IF V1.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for DAL_OBC_V10\Design Rule Check - DAL_OBC_V10.html
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for DAL_OBC_V11\Design Rule Check - DAL_OBC_V11.html
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for PAY_IFB\Design Rule Check - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Net Status - BEE-1012 PAY-IF V1.1.html
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for DAL_OBC_V10\Net Status - DAL_OBC_V10.html
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for PAY_IFB\Net Status - PAY_IFP_V1.html
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for PAY_IF\Pick Place for BEE-1012 PAY-IF V1.0.0.txt
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.csv
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for BEE-1012 PAY-IF V110\Pick Place for BEE-1012 PAY-IF V1.1.0.txt
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for DAL_OBC_V10\Pick Place for DAL_OBC_V10.csv
+DItemRevisionGUID=
+
+[GeneratedDocument136]
 DocumentPath=Project Outputs for DAL_OBC_V10\Pick Place for DAL_OBC_V10.txt
 DItemRevisionGUID=
 
@@ -1598,7 +1787,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration3_Name1=ForceUpdateSettings
 Configuration3_Item1=False
 Configuration3_Name2=OutputConfigurationParameter1
-Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=21|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=LossTangent|Column5Title=Df|Column5Visible=True|Column6Name=CoverlayExpansion|Column6Title=Coverlay expansion|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=Material.Frequency|Column8Title=Frequency|Column8Visible=False|Column9Name=Material.Solid|Column9Title=Solid|Column9Visible=False|Column10Name=Material.GlassTransTemp|Column10Title=GlassTransTemp|Column10Visible=False|Column11Name=Material.Manufacturer|Column11Title=Manufacturer|Column11Visible=False|Column12Name=MaterialDescription|Column12Title=MaterialDescription|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=Process|Column16Title=Process|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|Column20Name=Material.Description|Column20Title=Description|Column20Visible=False|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V10.PcbDoc
+Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=21|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=LossTangent|Column5Title=Df|Column5Visible=True|Column6Name=CoverlayExpansion|Column6Title=Coverlay expansion|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=Material.Frequency|Column8Title=Frequency|Column8Visible=False|Column9Name=Material.Solid|Column9Title=Solid|Column9Visible=False|Column10Name=Material.GlassTransTemp|Column10Title=GlassTransTemp|Column10Visible=False|Column11Name=Material.Manufacturer|Column11Title=Manufacturer|Column11Visible=False|Column12Name=MaterialDescription|Column12Title=MaterialDescription|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=Process|Column16Title=Process|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|Column20Name=Material.Description|Column20Title=Description|Column20Visible=False|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V11.PcbDoc
 OutputType4=Final
 OutputName4=Final Artwork Prints
 OutputDocumentPath4=
@@ -1629,7 +1818,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V10.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V11.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -1654,7 +1843,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMSAZYOV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777220~1,16777222~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1,16777223~1,16777218~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=DAL_OBC_V10_L2_GND1.gbr|UserLayerName.Caption1=DAL_OBC_V10_L4_PWR1.gbr|UserLayerName.Caption2=DAL_OBC_V10_L8_BOT.gbr|UserLayerName.Caption3=DAL_OBC_V10_L7_GND2.gbr|UserLayerName.Caption4=DAL_OBC_V10_L3_SIG1.gbr|UserLayerName.Caption5=DAL_OBC_V10_L1_TOP.gbr|UserLayerName.Caption6=DAL_OBC_V10_L6_SIG2.gbr|UserLayerName.Caption7=DAL_OBC_V10_L5_PWR2.gbr|UserLayerName.Count=8|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777220|UserLayerName.Layer2=16842751|UserLayerName.Layer3=16777221|UserLayerName.Layer4=16777218|UserLayerName.Layer5=16777217|UserLayerName.Layer6=16777223|UserLayerName.Layer7=16777222|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V10.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMSAZYOV|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777219~1,16777220~1,16777222~1,16777221~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1,16777223~1,16777218~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=DAL_OBC_V11_L2_GND1.gbr|UserLayerName.Caption1=DAL_OBC_V11_L4_PWR1.gbr|UserLayerName.Caption2=DAL_OBC_V11_L8_BOT.gbr|UserLayerName.Caption3=DAL_OBC_V11_L7_GND2.gbr|UserLayerName.Caption4=DAL_OBC_V11_L3_SIG1.gbr|UserLayerName.Caption5=DAL_OBC_V11_L1_TOP.gbr|UserLayerName.Caption6=DAL_OBC_V11_L6_SIG2.gbr|UserLayerName.Caption7=DAL_OBC_V11_L5_PWR2.gbr|UserLayerName.Count=8|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777220|UserLayerName.Layer2=16842751|UserLayerName.Layer3=16777221|UserLayerName.Layer4=16777218|UserLayerName.Layer5=16777217|UserLayerName.Layer6=16777223|UserLayerName.Layer7=16777222|DocumentPath=D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\DAL_OBC_V11.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -2826,23 +3015,24 @@ Net26=NetName=3V3_IC_DRIVE|NetColor=$00DB208A
 Net27=NetName=3V3_VCCIO0/1|NetColor=$002E619F
 Net28=NetName=5V|NetColor=$00FFFF6E
 Net29=NetName=5V_FPGA|NetColor=$00009CFF
-Net30=NetName=DDR_VREF|NetColor=$0056007C
-Net31=NetName=FLASH_SPI_CLK|NetColor=$003399FF
-Net32=NetName=FLASH_SPI_MISO/D1|NetColor=$003399FF
-Net33=NetName=FLASH_SPI_MOSI/D0|NetColor=$003399FF
-Net34=NetName=FLASH_SPI_nCS|NetColor=$003399FF
-Net35=NetName=FPGA_FLASH_SPI_MCLK|NetColor=$00CC3300
-Net36=NetName=FPGA_FLASH_SPI_MCSN|NetColor=$00CC3300
-Net37=NetName=FPGA_FLASH_SPI_MD2|NetColor=$00CC3300
-Net38=NetName=FPGA_FLASH_SPI_MD3|NetColor=$00CC3300
-Net39=NetName=FPGA_FLASH_SPI_MISO/MD1|NetColor=$00CC3300
-Net40=NetName=FPGA_FLASH_SPI_MOSI/MD0|NetColor=$00CC3300
-Net41=NetName=FPGA_QSPI_CLK|NetColor=$00CC3300
-Net42=NetName=GND|NetColor=$00575860
-Net43=NetName=VBAT|NetColor=$008E00C5
-Net44=NetName=VDDCORE|NetColor=$00C1D672
-Net45=NetName=VDDCPU|NetColor=$0052E7C0
-Net46=NetName=VDDIODDR|NetColor=$006EFF6E
+Net30=NetName=AGND|NetColor=$00006699
+Net31=NetName=DDR_VREF|NetColor=$0056007C
+Net32=NetName=FLASH_SPI_CLK|NetColor=$003399FF
+Net33=NetName=FLASH_SPI_MISO/D1|NetColor=$003399FF
+Net34=NetName=FLASH_SPI_MOSI/D0|NetColor=$003399FF
+Net35=NetName=FLASH_SPI_nCS|NetColor=$003399FF
+Net36=NetName=FPGA_FLASH_SPI_MCLK|NetColor=$00CC3300
+Net37=NetName=FPGA_FLASH_SPI_MCSN|NetColor=$00CC3300
+Net38=NetName=FPGA_FLASH_SPI_MD2|NetColor=$00CC3300
+Net39=NetName=FPGA_FLASH_SPI_MD3|NetColor=$00CC3300
+Net40=NetName=FPGA_FLASH_SPI_MISO/MD1|NetColor=$00CC3300
+Net41=NetName=FPGA_FLASH_SPI_MOSI/MD0|NetColor=$00CC3300
+Net42=NetName=FPGA_QSPI_CLK|NetColor=$00CC3300
+Net43=NetName=GND|NetColor=$00006699
+Net44=NetName=VBAT|NetColor=$008E00C5
+Net45=NetName=VDDCORE|NetColor=$00C1D672
+Net46=NetName=VDDCPU|NetColor=$0052E7C0
+Net47=NetName=VDDIODDR|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
