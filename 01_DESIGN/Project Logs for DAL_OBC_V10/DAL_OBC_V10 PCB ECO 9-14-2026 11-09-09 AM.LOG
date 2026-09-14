@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=POWER Member=GND
+Added Pin To Net: NetName=GND Pin=C151-2
+Added Pin To Net: NetName=GND Pin=U11-G7
+Added Pin To Net: NetName=GND Pin=U11-H7
+Added Pin To Net: NetName=GND Pin=U11-H8
+Added Pin To Net: NetName=GND Pin=U11-J7
+Added Pin To Net: NetName=GND Pin=U11-J8
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Change Net Color : Old Net Color=RGB(96, 88, 87) New Net Color=Default
+Added Member To Class: ClassName=POWER Member=Wire AGND
