@@ -5,8 +5,8 @@ D:\1_AltiumProject\29_DAL_OBC\SpaceLiinTech_BEE_DAL_OBC_HW\01_DESIGN\Project Out
 File Design Information:
 
 Date:       15/09/26
-Time:       17:54
-Revision:   3381e340451caaf46cea1a1a3a0e9be58d91db71
+Time:       22:37
+Revision:   1fcbb65b52e5052073561f7ed2065b9dc4a0f4d3
 Variant:    No variations
 Units used: mm
 
@@ -338,7 +338,7 @@ Units used: mm
 "TP23","","TopLayer","Testpoint_80_pin0","81.6000","8.6000","270","Test Point"
 "TP10","","TopLayer","Testpoint_80_pin0","35.4000","47.8000","180","Test Point"
 "TP9","","TopLayer","Testpoint_80_pin0","16.1000","52.3000","90","Test Point"
-"TP8","","TopLayer","Testpoint_80_pin0","27.8000","54.7166","180","Test Point"
+"TP8","","TopLayer","Testpoint_80_pin0","28.1000","54.8000","180","Test Point"
 "TP7","","TopLayer","Testpoint_80_pin0","27.8000","50.8764","180","Test Point"
 "TP6","","TopLayer","Testpoint_80_pin0","16.0000","59.1125","90","Test Point"
 "TP22","","TopLayer","Testpoint_80_pin0","15.6744","10.3435","270","Test Point"
