@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [DAL_OBC_V11.PrjPcb]
+   Generated File[Pick Place for DAL_OBC_V11.txt]
+   Generated File[Pick Place for DAL_OBC_V11.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:44:36 PM On 9/15/2026
